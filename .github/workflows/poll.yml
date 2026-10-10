@@ -9,6 +9,12 @@ on:
     - cron: '*/10 21-23 * * *'
     - cron: '15,45 12-20 * * *'
   workflow_dispatch:
+    inputs:
+      hook_test:
+        description: 'Dry run of the rebuild step: none = real hook; fail / ok = a public test endpoint (429 / 200) instead'
+        default: none
+        type: choice
+        options: [none, fail, ok]
   # Also run once whenever the poller code or this workflow changes on main. This re-registers the
   # schedule and gives an immediate test run. The bot's own commits only touch koosteet.json, so no loop.
   push:
@@ -25,7 +31,7 @@ concurrency:
 jobs:
   poll:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
         with:
@@ -48,13 +54,29 @@ jobs:
           git push
           echo "pushed=true" >> "$GITHUB_OUTPUT"
 
-      - name: Rebuild the site (Vercel deploy hook)
-        if: steps.commit.outputs.pushed == 'true'
+      # Retries 3 times over about 1 minute (Retry-After honoured). A rebuild that still fails is kept in
+      # deploy-state.json (pending: true), so the next run calls the hook even when koosteet.json is unchanged.
+      # deploy-state.json is not in the push paths above, so its commits never trigger a run.
+      - name: Rebuild the site (Vercel deploy hook, with retries)
+        id: hook
         env:
-          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+          NEED: ${{ steps.commit.outputs.pushed == 'true' }}
+          HOOK: ${{ (inputs.hook_test == 'fail' && 'https://httpbin.org/status/429') || (inputs.hook_test == 'ok' && 'https://httpbin.org/status/200') || secrets.VERCEL_DEPLOY_HOOK }}
+          HOOK_TRIES: '3'
+          HOOK_WAIT_MS: ${{ (inputs.hook_test == 'fail' || inputs.hook_test == 'ok') && '2000' || '20000' }}
+        run: node hook.mjs
+
+      - name: Commit the rebuild state
+        if: steps.hook.outputs.state_changed == 'true'
         run: |
-          if [ -z "$HOOK" ]; then
-            echo "VERCEL_DEPLOY_HOOK secret not set yet, skipping the rebuild."
-            exit 0
-          fi
-          curl -fsS -o /dev/null -X POST --max-time 30 "$HOOK" && echo "Deploy hook called."
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add deploy-state.json
+          git commit -m "deploy-state: rebuild ${{ steps.hook.outputs.ok == 'true' && 'done' || 'pending' }}"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+
+      - name: Fail the run when the rebuild is still pending
+        if: steps.hook.outputs.ok == 'false'
+        run: |
+          echo "::error::Vercel deploy hook failed after retries; deploy-state.json marks the rebuild pending for the next run."
+          exit 1

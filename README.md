@@ -17,6 +17,9 @@ NHL night and every 30 minutes in the daytime. Each run:
    NHL.com link.
 3. Updates `koosteet.json` and commits it only when something changed. Then it calls the Vercel deploy
    hook (`VERCEL_DEPLOY_HOOK` secret) so the static site rebuilds. Without the secret, the hook step is skipped.
+   The hook is retried 3 times (Retry-After honoured, `hook.mjs`). If it still fails, `deploy-state.json` gets
+   `pending: true` and the run fails visibly; the next run calls the hook even without a koosteet change and
+   clears the flag on success.
 
 States follow the site's design contract: `pending` (final, nothing yet) -> `available` with provider
 `nhl`, then `youtube`. A game becomes `none` if nothing has arrived 24 h after the final horn. Status never
@@ -31,7 +34,7 @@ so the newest matches never depend on that cache. A build never fails if this fi
 
 ## Tests
 
-    node --test test/
+    node --test test/*.test.mjs
 
 Fixtures are the real score feeds and YouTube feeds saved on 2026-10-10.
 
