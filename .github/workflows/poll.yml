@@ -2,6 +2,7 @@ name: poll
 # NHL night (21-11 UTC = 00-14 Helsinki in summer time, 23-13 in winter): every 10 min, which covers
 # night games for 6 h after the final horn (Mose's cadence). Daytime (12-20 UTC): every 30 min for
 # afternoon games. GitHub may delay scheduled runs by 5-15 min. About 108 runs a day.
+# Schedule re-registered 2026-10-10 17:2x after the Actions settings change.
 on:
   schedule:
     - cron: '*/10 0-11 * * *'
