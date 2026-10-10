@@ -60,7 +60,7 @@ jobs:
       - name: Rebuild the site (Vercel deploy hook, with retries)
         id: hook
         env:
-          NEED: ${{ steps.commit.outputs.pushed == 'true' }}
+          NEED: ${{ steps.commit.outputs.pushed == 'true' || inputs.hook_test == 'fail' }}
           HOOK: ${{ (inputs.hook_test == 'fail' && 'https://httpbin.org/status/429') || (inputs.hook_test == 'ok' && 'https://httpbin.org/status/200') || secrets.VERCEL_DEPLOY_HOOK }}
           HOOK_TRIES: '3'
           HOOK_WAIT_MS: ${{ (inputs.hook_test == 'fail' || inputs.hook_test == 'ok') && '2000' || '20000' }}
