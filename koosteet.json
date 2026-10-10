@@ -233,6 +233,24 @@
 			"publishedAt": "2026-10-10T02:45:33.000Z",
 			"nhlUrl": "https://www.nhl.com/video/ana-at-wpg-recap-6406576147112",
 			"updatedAt": "2026-10-10T09:12:26.000Z"
+		},
+		"2026020070": {
+			"gameId": "2026020070",
+			"date": "2026-10-10",
+			"start": "2026-10-10T17:00:00Z",
+			"home": "BOS",
+			"away": "PHI",
+			"slug": "bos-phi",
+			"finalSeenAt": "2026-10-10T20:30:00.000Z",
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "JjX6qNR6Z_s",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/JjX6qNR6Z_s",
+			"watchUrl": "https://www.youtube.com/watch?v=JjX6qNR6Z_s",
+			"sourceTitle": "Flyers vs. Bruins | NHL Highlights | Oct 10, 2026",
+			"publishedAt": "2026-10-10T19:47:14.000Z",
+			"nhlUrl": "https://www.nhl.com/video/phi-at-bos-recap-6406612944112",
+			"updatedAt": "2026-10-10T20:42:47.789Z"
 		}
 	}
 }
