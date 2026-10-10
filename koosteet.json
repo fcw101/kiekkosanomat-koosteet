@@ -251,6 +251,34 @@
 			"publishedAt": "2026-10-10T19:47:14.000Z",
 			"nhlUrl": "https://www.nhl.com/video/phi-at-bos-recap-6406612944112",
 			"updatedAt": "2026-10-10T20:42:47.789Z"
+		},
+		"2026020071": {
+			"gameId": "2026020071",
+			"date": "2026-10-10",
+			"start": "2026-10-10T19:30:00Z",
+			"home": "NJD",
+			"away": "VAN",
+			"slug": "njd-van",
+			"finalSeenAt": "2026-10-10T23:00:00.000Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/van-at-njd-recap-6406617716112",
+			"nhlUrl": "https://www.nhl.com/video/van-at-njd-recap-6406617716112",
+			"updatedAt": "2026-10-10T23:40:41.861Z"
+		},
+		"2026020072": {
+			"gameId": "2026020072",
+			"date": "2026-10-10",
+			"start": "2026-10-10T20:00:00Z",
+			"home": "SJS",
+			"away": "EDM",
+			"slug": "sjs-edm",
+			"finalSeenAt": "2026-10-10T23:30:00.000Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/edm-at-sjs-recap-6406620595112",
+			"nhlUrl": "https://www.nhl.com/video/edm-at-sjs-recap-6406620595112",
+			"updatedAt": "2026-10-10T23:40:41.861Z"
 		}
 	}
 }
