@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=UULFqFMzb-4AUf6WAIbl132QKA"/>
+ <id>yt:playlist:UULFqFMzb-4AUf6WAIbl132QKA</id>
+ <yt:playlistId>UULFqFMzb-4AUf6WAIbl132QKA</yt:playlistId>
+ <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+ <title>Videos</title>
+ <author>
+  <name>NHL</name>
+  <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+ </author>
+ <published>2021-10-13T07:10:08+00:00</published>
+ <entry>
+  <id>yt:video:M1-TOVgNclU</id>
+  <yt:videoId>M1-TOVgNclU</yt:videoId>
+  <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+  <title>Ducks vs. Jets | NHL Highlights | Oct 9, 2026</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=M1-TOVgNclU"/>
+  <author>
+   <name>NHL</name>
+   <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+  </author>
+  <published>2026-10-10T02:45:33+00:00</published>
+  <updated>2026-10-10T02:47:55+00:00</updated>
+  <media:group>
+   <media:title>Ducks vs. Jets | NHL Highlights | Oct 9, 2026</media:title>
+   <media:content url="https://www.youtube.com/v/M1-TOVgNclU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/M1-TOVgNclU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Watch full game NHL highlights from the matchup between the Anaheim Ducks and the Winnipeg Jets on Oct 9, 2026, where the Jets' Kyle Connor tallied a goal in his 700th career game and Judd Caulfield had two points for the Ducks
+
+00:00 1st Period
+02:29 2nd Period
+05:51 3rd Period
+
+▶️ SUBSCRIBE: https://youtube.com/nhl
+
+🔥MORE NHL VIDEOS: https://youtube.com/playlist?list=PL1NbHSfosBuGoyOevGOoJ6nHPD7nDRVFn&amp;si=MHZlxPpXKq2JlQx1
+
+#nhl #hockey #highlights #anaheimducks #winnipegjets</media:description>
+   <media:community>
+    <media:starRating count="349" average="5.00" min="1" max="5"/>
+    <media:statistics views="34683"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:DrYfZr9de30</id>
+  <yt:videoId>DrYfZr9de30</yt:videoId>
+  <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+  <title>Penguins vs. Blue Jackets | NHL Highlights | Oct 9, 2026</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=DrYfZr9de30"/>
+  <author>
+   <name>NHL</name>
+   <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+  </author>
+  <published>2026-10-10T02:11:28+00:00</published>
+  <updated>2026-10-10T02:16:55+00:00</updated>
+  <media:group>
+   <media:title>Penguins vs. Blue Jackets | NHL Highlights | Oct 9, 2026</media:title>
+   <media:content url="https://www.youtube.com/v/DrYfZr9de30?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/DrYfZr9de30/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Watch full game NHL highlights from the matchup between the Pittsburgh Penguins and the Columbus Blue Jackets on Oct 9, 2026, where Evgeni Malkin helped complete a two-goal comeback and Damon Severson earned two points
+
+0:00 1st Period
+2:27 2nd Period
+5:51 3rd Period
+7:24 Overtime
+8:36 Shootout
+
+▶️ SUBSCRIBE: https://youtube.com/nhl
+
+🔥MORE NHL VIDEOS: https://youtube.com/playlist?list=PL1NbHSfosBuGoyOevGOoJ6nHPD7nDRVFn&amp;si=MHZlxPpXKq2JlQx1
+
+#nhl #hockey #highlights #pittsburghpenguins #columbusbluejackets</media:description>
+   <media:community>
+    <media:starRating count="245" average="5.00" min="1" max="5"/>
+    <media:statistics views="23757"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:E_aedMVIYuA</id>
+  <yt:videoId>E_aedMVIYuA</yt:videoId>
+  <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+  <title>Rangers vs. Capitals | NHL Highlights | Oct 9, 2026</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=E_aedMVIYuA"/>
+  <author>
+   <name>NHL</name>
+   <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+  </author>
+  <published>2026-10-10T02:07:08+00:00</published>
+  <updated>2026-10-10T02:08:59+00:00</updated>
+  <media:group>
+   <media:title>Rangers vs. Capitals | NHL Highlights | Oct 9, 2026</media:title>
+   <media:content url="https://www.youtube.com/v/E_aedMVIYuA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/E_aedMVIYuA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Watch full game NHL highlights from the matchup between the New York Rangers and the Washington Capitals on Oct 9, 2026, where Alexis Lafreniere found the twine for the Rangers and Boone Jenner scored his first goal with the Capitals
+
+00:00 1st Period
+03:25 2nd Period
+07:32 3rd Period
+
+▶️ SUBSCRIBE: https://youtube.com/nhl
+
+🔥MORE NHL VIDEOS: https://youtube.com/playlist?list=PL1NbHSfosBuGoyOevGOoJ6nHPD7nDRVFn&amp;si=MHZlxPpXKq2JlQx1
+
+#nhl #hockey #highlights #newyorkrangers #washingtoncapitals</media:description>
+   <media:community>
+    <media:starRating count="430" average="5.00" min="1" max="5"/>
+    <media:statistics views="37771"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:9FcuOiqdPnw</id>
+  <yt:videoId>9FcuOiqdPnw</yt:videoId>
+  <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+  <title>Kraken vs. Red Wings | NHL Highlights | Oct 9, 2026</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=9FcuOiqdPnw"/>
+  <author>
+   <name>NHL</name>
+   <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+  </author>
+  <published>2026-10-10T01:52:18+00:00</published>
+  <updated>2026-10-10T01:57:49+00:00</updated>
+  <media:group>
+   <media:title>Kraken vs. Red Wings | NHL Highlights | Oct 9, 2026</media:title>
+   <media:content url="https://www.youtube.com/v/9FcuOiqdPnw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9FcuOiqdPnw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Watch full game NHL highlights from the matchup between the Seattle Kraken and the Detroit Red Wings on Oct 9, 2026, where William Wallinder and Michael Brandsegg-Nygård each scored their first NHL goals, and Frederick Gaudreau scored twice in a big 2nd period for the Kraken
+
+0:00 1st Period
+3:02 2nd Period
+8:06 3rd Period
+
+▶️ SUBSCRIBE: https://youtube.com/nhl
+
+🔥MORE NHL VIDEOS: https://youtube.com/playlist?list=PL1NbHSfosBuGoyOevGOoJ6nHPD7nDRVFn&amp;si=MHZlxPpXKq2JlQx1
+
+#nhl #hockey #highlights #seattlekraken #detroitredwings</media:description>
+   <media:community>
+    <media:starRating count="216" average="5.00" min="1" max="5"/>
+    <media:statistics views="21384"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:eMLpAOrmsJU</id>
+  <yt:videoId>eMLpAOrmsJU</yt:videoId>
+  <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+  <title>Frank Nazar suspended two games for illegal check to the head</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=eMLpAOrmsJU"/>
+  <author>
+   <name>NHL</name>
+   <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+  </author>
+  <published>2026-10-10T00:48:49+00:00</published>
+  <updated>2026-10-10T00:48:53+00:00</updated>
+  <media:group>
+   <media:title>Frank Nazar suspended two games for illegal check to the head</media:title>
+   <media:content url="https://www.youtube.com/v/eMLpAOrmsJU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/eMLpAOrmsJU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Chicago Blackhawks center Frank Nazar is suspended two games for an illegal check to the head against Islanders center Bo Horvat
+
+▶️ SUBSCRIBE: https://youtube.com/nhl
+
+🔥MORE NHL VIDEOS: https://youtube.com/playlist?list=PL1NbHSfosBuGoyOevGOoJ6nHPD7nDRVFn&amp;si=MHZlxPpXKq2JlQx1
+
+#nhl #hockey #highlights</media:description>
+   <media:community>
+    <media:starRating count="86" average="5.00" min="1" max="5"/>
+    <media:statistics views="11877"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aiNrEmdR500</id>
+  <yt:videoId>aiNrEmdR500</yt:videoId>
+  <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+  <title>Inside Viggo Björck's High-Octane Debut | Welcome to the NHL</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aiNrEmdR500"/>
+  <author>
+   <name>NHL</name>
+   <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+  </author>
+  <published>2026-10-09T15:00:44+00:00</published>
+  <updated>2026-10-10T01:43:59+00:00</updated>
+  <media:group>
+   <media:title>Inside Viggo Björck's High-Octane Debut | Welcome to the NHL</media:title>
+   <media:content url="https://www.youtube.com/v/aiNrEmdR500?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aiNrEmdR500/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Viggo Björck (Winnipeg Jets forward and 2026 No. 8 overall Draft pick) makes his NHL debut against the Boston Bruins in front of his parents and Jets faithful at Canada Life Centre.
+
+Welcome to the NHL Presented by BODYARMOR Sports Drink gives you an all-access look at Björck as prepares for the game, learns from teammates (and referees 😬) on the ice, and makes in-game adjustments to his approach!
+
+▶️ SUBSCRIBE: https://youtube.com/nhl
+
+🔥MORE NHL VIDEOS: https://youtube.com/playlist?list=PL1NbHSfosBuGoyOevGOoJ6nHPD7nDRVFn&amp;si=MHZlxPpXKq2JlQx1
+
+#nhl #hockey #highlights</media:description>
+   <media:community>
+    <media:starRating count="230" average="5.00" min="1" max="5"/>
+    <media:statistics views="24601"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:AMNnJhkiMZs</id>
+  <yt:videoId>AMNnJhkiMZs</yt:videoId>
+  <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+  <title>Maple Leafs vs. Golden Knights | NHL Highlights | Oct 8, 2026</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=AMNnJhkiMZs"/>
+  <author>
+   <name>NHL</name>
+   <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+  </author>
+  <published>2026-10-09T05:32:01+00:00</published>
+  <updated>2026-10-10T07:43:20+00:00</updated>
+  <media:group>
+   <media:title>Maple Leafs vs. Golden Knights | NHL Highlights | Oct 8, 2026</media:title>
+   <media:content url="https://www.youtube.com/v/AMNnJhkiMZs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/AMNnJhkiMZs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Watch full game NHL highlights from the matchup between the Toronto Maple Leafs and the Vegas Golden Knights on Oct 8, 2026, where an early push from the Maple Leafs and a late comeback from the Golden Knights forced the game to be decided by a shootout.
+
+00:00 1st Period
+03:29 2nd Period
+06:53 Overtime
+08:05 Shootout
+
+▶️ SUBSCRIBE: https://youtube.com/nhl
+
+🔥MORE NHL VIDEOS: https://youtube.com/playlist?list=PL1NbHSfosBuGoyOevGOoJ6nHPD7nDRVFn&amp;si=MHZlxPpXKq2JlQx1
+
+#nhl #hockey #highlights #torontomapleleafs #vegasgoldenknights</media:description>
+   <media:community>
+    <media:starRating count="1097" average="5.00" min="1" max="5"/>
+    <media:statistics views="191354"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xB6nfb2CcXk</id>
+  <yt:videoId>xB6nfb2CcXk</yt:videoId>
+  <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+  <title>FULL SHOOTOUT: Leafs &amp; Golden Knights go 5 rounds!</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xB6nfb2CcXk"/>
+  <author>
+   <name>NHL</name>
+   <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+  </author>
+  <published>2026-10-09T05:19:04+00:00</published>
+  <updated>2026-10-09T15:48:07+00:00</updated>
+  <media:group>
+   <media:title>FULL SHOOTOUT: Leafs &amp; Golden Knights go 5 rounds!</media:title>
+   <media:content url="https://www.youtube.com/v/xB6nfb2CcXk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xB6nfb2CcXk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>After trailing 3-0 in the 1st Period, the Golden Knights come back to force OT before defeating the Maple Leafs in a 5-round shootout
+
+▶️ SUBSCRIBE: https://youtube.com/nhl
+
+🔥MORE NHL VIDEOS: https://youtube.com/playlist?list=PL1NbHSfosBuGoyOevGOoJ6nHPD7nDRVFn&amp;si=MHZlxPpXKq2JlQx1
+
+#nhl #hockey #highlights #torontomapleleafs #vegasgoldenknights</media:description>
+   <media:community>
+    <media:starRating count="165" average="5.00" min="1" max="5"/>
+    <media:statistics views="34731"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:hqm4SCEHpjU</id>
+  <yt:videoId>hqm4SCEHpjU</yt:videoId>
+  <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+  <title>Avalanche vs. Flames | NHL Highlights | Oct 8, 2026</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=hqm4SCEHpjU"/>
+  <author>
+   <name>NHL</name>
+   <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+  </author>
+  <published>2026-10-09T04:14:35+00:00</published>
+  <updated>2026-10-09T06:15:54+00:00</updated>
+  <media:group>
+   <media:title>Avalanche vs. Flames | NHL Highlights | Oct 8, 2026</media:title>
+   <media:content url="https://www.youtube.com/v/hqm4SCEHpjU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/hqm4SCEHpjU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Watch full game NHL highlights from the matchup between the Colorado Avalanche and the Calgary Flames on Oct 8, 2026, where Devon Toews, Cale Makar, and Jaden Schwartz all found the back of the net twice.
+
+00:00 1st Period
+02:26 2nd Period
+05:51 3rd Period
+
+▶️ SUBSCRIBE: https://youtube.com/nhl
+
+🔥MORE NHL VIDEOS: https://youtube.com/playlist?list=PL1NbHSfosBuGoyOevGOoJ6nHPD7nDRVFn&amp;si=MHZlxPpXKq2JlQx1
+
+#nhl #hockey #highlights #coloradoavalanche #calgaryflames</media:description>
+   <media:community>
+    <media:starRating count="734" average="5.00" min="1" max="5"/>
+    <media:statistics views="76887"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:s1Je7m-PR30</id>
+  <yt:videoId>s1Je7m-PR30</yt:videoId>
+  <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+  <title>Sharks vs. Blues | NHL Highlights | Oct 8, 2026</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=s1Je7m-PR30"/>
+  <author>
+   <name>NHL</name>
+   <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+  </author>
+  <published>2026-10-09T03:10:10+00:00</published>
+  <updated>2026-10-09T14:20:13+00:00</updated>
+  <media:group>
+   <media:title>Sharks vs. Blues | NHL Highlights | Oct 8, 2026</media:title>
+   <media:content url="https://www.youtube.com/v/s1Je7m-PR30?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/s1Je7m-PR30/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Watch full game NHL highlights from the matchup between the San Jose Sharks and the St. Louis Blues on Oct 8, 2026, and see a heated battle that needs overtime to decide a winner
+
+0:00 1st Period
+3:14 2nd Period
+6:50 3rd Period
+9:32 Overtime
+
+▶️ SUBSCRIBE: https://youtube.com/nhl
+
+🔥MORE NHL VIDEOS: https://youtube.com/playlist?list=PL1NbHSfosBuGoyOevGOoJ6nHPD7nDRVFn&amp;si=MHZlxPpXKq2JlQx1
+
+#nhl #hockey #highlights #sanjosesharks #stlouisblues</media:description>
+   <media:community>
+    <media:starRating count="1140" average="5.00" min="1" max="5"/>
+    <media:statistics views="85350"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xZvFyZnLmoA</id>
+  <yt:videoId>xZvFyZnLmoA</yt:videoId>
+  <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+  <title>STENBERG sets up NURSE for the OT winner!</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xZvFyZnLmoA"/>
+  <author>
+   <name>NHL</name>
+   <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+  </author>
+  <published>2026-10-09T02:54:05+00:00</published>
+  <updated>2026-10-09T15:40:10+00:00</updated>
+  <media:group>
+   <media:title>STENBERG sets up NURSE for the OT winner!</media:title>
+   <media:content url="https://www.youtube.com/v/xZvFyZnLmoA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xZvFyZnLmoA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Sharks rookie Ivar Stenberg sets up Darnell Nurse for the OT goal, scoring his 1st goal with the Sharks and leading San Jose to the 3-2 overtime victory over the Blues.
+
+▶️ SUBSCRIBE: https://youtube.com/nhl
+
+🔥MORE NHL VIDEOS: https://youtube.com/playlist?list=PL1NbHSfosBuGoyOevGOoJ6nHPD7nDRVFn&amp;si=MHZlxPpXKq2JlQx1
+
+#nhl #hockey #highlights #sanjosesharks</media:description>
+   <media:community>
+    <media:starRating count="665" average="5.00" min="1" max="5"/>
+    <media:statistics views="99112"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gCiQVQDGsog</id>
+  <yt:videoId>gCiQVQDGsog</yt:videoId>
+  <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+  <title>Flyers vs Sénateurs | 08/10/26 | Faits saillants</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gCiQVQDGsog"/>
+  <author>
+   <name>NHL</name>
+   <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+  </author>
+  <published>2026-10-09T02:28:18+00:00</published>
+  <updated>2026-10-09T02:28:18+00:00</updated>
+  <media:group>
+   <media:title>Flyers vs Sénateurs | 08/10/26 | Faits saillants</media:title>
+   <media:content url="https://www.youtube.com/v/gCiQVQDGsog?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gCiQVQDGsog/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Voyez tous les faits saillants du match entre les Flyers de Philadelphie et les Sénateurs d’Ottawa au Centre Canadian Tire</media:description>
+   <media:community>
+    <media:starRating count="13" average="5.00" min="1" max="5"/>
+    <media:statistics views="1198"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:OPtJxjNrnWo</id>
+  <yt:videoId>OPtJxjNrnWo</yt:videoId>
+  <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+  <title>Blackhawks vs. Islanders | NHL Highlights | Oct 8, 2026</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=OPtJxjNrnWo"/>
+  <author>
+   <name>NHL</name>
+   <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+  </author>
+  <published>2026-10-09T02:26:56+00:00</published>
+  <updated>2026-10-09T16:43:30+00:00</updated>
+  <media:group>
+   <media:title>Blackhawks vs. Islanders | NHL Highlights | Oct 8, 2026</media:title>
+   <media:content url="https://www.youtube.com/v/OPtJxjNrnWo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/OPtJxjNrnWo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Watch full game NHL highlights from the matchup between the Chicago Blackhawks and the New York Islanders on Oct 8, 2026, where Frank Nazar found the net for the Blackhawks and Bo Horvat scored two goals for the Islanders
+
+0:00 1st Period
+2:54 2nd Period
+7:27 3rd Period
+
+▶️ SUBSCRIBE: https://youtube.com/nhl
+
+🔥MORE NHL VIDEOS: https://youtube.com/playlist?list=PL1NbHSfosBuGoyOevGOoJ6nHPD7nDRVFn&amp;si=MHZlxPpXKq2JlQx1
+
+#nhl #hockey #highlights #chicagoblackhawks #newyorkislanders</media:description>
+   <media:community>
+    <media:starRating count="403" average="5.00" min="1" max="5"/>
+    <media:statistics views="40918"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:2rc85ht75aY</id>
+  <yt:videoId>2rc85ht75aY</yt:videoId>
+  <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+  <title>Stars vs. Sabres | NHL Highlights | Oct 8, 2026</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=2rc85ht75aY"/>
+  <author>
+   <name>NHL</name>
+   <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+  </author>
+  <published>2026-10-09T02:26:43+00:00</published>
+  <updated>2026-10-09T04:18:22+00:00</updated>
+  <media:group>
+   <media:title>Stars vs. Sabres | NHL Highlights | Oct 8, 2026</media:title>
+   <media:content url="https://www.youtube.com/v/2rc85ht75aY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/2rc85ht75aY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Watch full game NHL highlights from the matchup between the Dallas Stars and the Buffalo Sabres on Oct 8, 2026 where, Jake Oettinger stopped 26 shots for the Stars, and Tage
+Thompson had 6 shots on net
+
+0:00 1st Period
+3:18 2nd Period
+8:22 3rd Period
+
+▶️ SUBSCRIBE: https://youtube.com/nhl
+
+🔥MORE NHL VIDEOS: https://youtube.com/playlist?list=PL1NbHSfosBuGoyOevGOoJ6nHPD7nDRVFn&amp;si=MHZlxPpXKq2JlQx1
+
+#nhl #hockey #highlights #dallasstars #buffalosabres</media:description>
+   <media:community>
+    <media:starRating count="461" average="5.00" min="1" max="5"/>
+    <media:statistics views="39224"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Brwv5EZ-1Og</id>
+  <yt:videoId>Brwv5EZ-1Og</yt:videoId>
+  <yt:channelId>UCqFMzb-4AUf6WAIbl132QKA</yt:channelId>
+  <title>Predators vs Canadiens | 08/10/26 | Faits saillants</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Brwv5EZ-1Og"/>
+  <author>
+   <name>NHL</name>
+   <uri>https://www.youtube.com/channel/UCqFMzb-4AUf6WAIbl132QKA</uri>
+  </author>
+  <published>2026-10-09T02:22:29+00:00</published>
+  <updated>2026-10-09T04:16:42+00:00</updated>
+  <media:group>
+   <media:title>Predators vs Canadiens | 08/10/26 | Faits saillants</media:title>
+   <media:content url="https://www.youtube.com/v/Brwv5EZ-1Og?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Brwv5EZ-1Og/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Voyez tous les faits saillants du match entre les Predators de Nashville et les Canadiens de Montréal au Centre Bell</media:description>
+   <media:community>
+    <media:starRating count="153" average="5.00" min="1" max="5"/>
+    <media:statistics views="19275"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

@@ -1,0 +1,54 @@
+name: poll
+# NHL night (21-11 UTC = 00-14 Helsinki in summer time, 23-13 in winter): every 10 min, which covers
+# night games for 6 h after the final horn (Mose's cadence). Daytime (12-20 UTC): every 30 min for
+# afternoon games. GitHub may delay scheduled runs by 5-15 min. About 108 runs a day.
+on:
+  schedule:
+    - cron: '*/10 0-11 * * *'
+    - cron: '*/10 21-23 * * *'
+    - cron: '15,45 12-20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: poll
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Poll NHL score feed and YouTube
+        id: poll
+        run: node poll.mjs
+
+      - name: Commit koosteet.json
+        id: commit
+        if: steps.poll.outputs.changed == 'true'
+        env:
+          SUMMARY: ${{ steps.poll.outputs.summary }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add koosteet.json
+          git commit -m "koosteet: $SUMMARY"
+          git push
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Rebuild the site (Vercel deploy hook)
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "VERCEL_DEPLOY_HOOK secret not set yet, skipping the rebuild."
+            exit 0
+          fi
+          curl -fsS -o /dev/null -X POST --max-time 30 "$HOOK" && echo "Deploy hook called."
