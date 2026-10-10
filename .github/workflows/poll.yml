@@ -8,6 +8,11 @@ on:
     - cron: '*/10 21-23 * * *'
     - cron: '15,45 12-20 * * *'
   workflow_dispatch:
+  # Also run once whenever the poller code or this workflow changes on main. This re-registers the
+  # schedule and gives an immediate test run. The bot's own commits only touch koosteet.json, so no loop.
+  push:
+    branches: [main]
+    paths: ['.github/workflows/poll.yml', 'poll.mjs', 'match.mjs']
 
 permissions:
   contents: write
