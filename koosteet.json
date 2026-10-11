@@ -316,9 +316,11 @@
 			"away": "DET",
 			"slug": "mtl-det",
 			"finalSeenAt": "2026-10-11T02:20:22.250Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-11T02:20:22.250Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/det-at-mtl-recap-6406630317112",
+			"nhlUrl": "https://www.nhl.com/video/det-at-mtl-recap-6406630317112",
+			"updatedAt": "2026-10-11T02:40:25.308Z"
 		},
 		"2026020076": {
 			"gameId": "2026020076",
@@ -398,9 +400,11 @@
 			"away": "TBL",
 			"slug": "nyi-tbl",
 			"finalSeenAt": "2026-10-11T02:10:24.093Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-11T02:10:24.093Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/tbl-at-nyi-recap-6406629528112",
+			"nhlUrl": "https://www.nhl.com/video/tbl-at-nyi-recap-6406629528112",
+			"updatedAt": "2026-10-11T02:40:25.308Z"
 		}
 	}
 }
