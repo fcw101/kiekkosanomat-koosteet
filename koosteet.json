@@ -414,9 +414,11 @@
 			"away": "ANA",
 			"slug": "cgy-ana",
 			"finalSeenAt": "2026-10-11T05:00:14.973Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-11T05:00:14.973Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/ana-at-cgy-recap-6406632971112",
+			"nhlUrl": "https://www.nhl.com/video/ana-at-cgy-recap-6406632971112",
+			"updatedAt": "2026-10-11T05:20:18.409Z"
 		},
 		"2026020083": {
 			"gameId": "2026020083",
@@ -426,9 +428,11 @@
 			"away": "LAK",
 			"slug": "vgk-lak",
 			"finalSeenAt": "2026-10-11T05:00:14.973Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-11T05:00:14.973Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/lak-at-vgk-recap-6406634070112",
+			"nhlUrl": "https://www.nhl.com/video/lak-at-vgk-recap-6406634070112",
+			"updatedAt": "2026-10-11T05:20:18.409Z"
 		}
 	}
 }
