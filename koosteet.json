@@ -279,6 +279,18 @@
 			"watchUrl": "https://www.nhl.com/video/edm-at-sjs-recap-6406620595112",
 			"nhlUrl": "https://www.nhl.com/video/edm-at-sjs-recap-6406620595112",
 			"updatedAt": "2026-10-10T23:40:41.861Z"
+		},
+		"2026020073": {
+			"gameId": "2026020073",
+			"date": "2026-10-10",
+			"start": "2026-10-10T22:00:00Z",
+			"home": "FLA",
+			"away": "MIN",
+			"slug": "fla-min",
+			"finalSeenAt": "2026-10-11T00:50:28.041Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-11T00:50:28.041Z"
 		}
 	}
 }
