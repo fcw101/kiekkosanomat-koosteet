@@ -306,6 +306,18 @@
 			"nhlUrl": null,
 			"updatedAt": "2026-10-11T01:51:00.662Z"
 		},
+		"2026020077": {
+			"gameId": "2026020077",
+			"date": "2026-10-10",
+			"start": "2026-10-10T23:00:00Z",
+			"home": "PIT",
+			"away": "DAL",
+			"slug": "pit-dal",
+			"finalSeenAt": "2026-10-11T02:00:20.311Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-11T02:00:20.311Z"
+		},
 		"2026020078": {
 			"gameId": "2026020078",
 			"date": "2026-10-10",
@@ -314,9 +326,11 @@
 			"away": "CAR",
 			"slug": "chi-car",
 			"finalSeenAt": "2026-10-11T01:51:00.662Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-11T01:51:00.662Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/car-at-chi-recap-6406628982112",
+			"nhlUrl": "https://www.nhl.com/video/car-at-chi-recap-6406628982112",
+			"updatedAt": "2026-10-11T02:00:20.311Z"
 		},
 		"2026020079": {
 			"gameId": "2026020079",
