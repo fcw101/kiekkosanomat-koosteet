@@ -405,6 +405,30 @@
 			"watchUrl": "https://www.nhl.com/video/tbl-at-nyi-recap-6406629528112",
 			"nhlUrl": "https://www.nhl.com/video/tbl-at-nyi-recap-6406629528112",
 			"updatedAt": "2026-10-11T02:40:25.308Z"
+		},
+		"2026020082": {
+			"gameId": "2026020082",
+			"date": "2026-10-10",
+			"start": "2026-10-11T02:00:00Z",
+			"home": "CGY",
+			"away": "ANA",
+			"slug": "cgy-ana",
+			"finalSeenAt": "2026-10-11T05:00:14.973Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-11T05:00:14.973Z"
+		},
+		"2026020083": {
+			"gameId": "2026020083",
+			"date": "2026-10-10",
+			"start": "2026-10-11T02:00:00Z",
+			"home": "VGK",
+			"away": "LAK",
+			"slug": "vgk-lak",
+			"finalSeenAt": "2026-10-11T05:00:14.973Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-11T05:00:14.973Z"
 		}
 	}
 }
