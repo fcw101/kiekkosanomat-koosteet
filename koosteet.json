@@ -308,6 +308,18 @@
 			"nhlUrl": "https://www.nhl.com/video/uta-at-buf-recap-6406627043112",
 			"updatedAt": "2026-10-11T02:10:24.093Z"
 		},
+		"2026020075": {
+			"gameId": "2026020075",
+			"date": "2026-10-10",
+			"start": "2026-10-10T23:00:00Z",
+			"home": "MTL",
+			"away": "DET",
+			"slug": "mtl-det",
+			"finalSeenAt": "2026-10-11T02:20:22.250Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-11T02:20:22.250Z"
+		},
 		"2026020076": {
 			"gameId": "2026020076",
 			"date": "2026-10-10",
@@ -316,9 +328,11 @@
 			"away": "NSH",
 			"slug": "ott-nsh",
 			"finalSeenAt": "2026-10-11T02:10:24.093Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-11T02:10:24.093Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/nsh-at-ott-recap-6406627728112",
+			"nhlUrl": "https://www.nhl.com/video/nsh-at-ott-recap-6406627728112",
+			"updatedAt": "2026-10-11T02:20:22.250Z"
 		},
 		"2026020077": {
 			"gameId": "2026020077",
@@ -328,9 +342,11 @@
 			"away": "DAL",
 			"slug": "pit-dal",
 			"finalSeenAt": "2026-10-11T02:00:20.311Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-11T02:00:20.311Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/dal-at-pit-recap-6406630491112",
+			"nhlUrl": "https://www.nhl.com/video/dal-at-pit-recap-6406630491112",
+			"updatedAt": "2026-10-11T02:20:22.250Z"
 		},
 		"2026020078": {
 			"gameId": "2026020078",
@@ -342,9 +358,9 @@
 			"finalSeenAt": "2026-10-11T01:51:00.662Z",
 			"status": "available",
 			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/car-at-chi-recap-6406628998112",
-			"nhlUrl": "https://www.nhl.com/video/car-at-chi-recap-6406628998112",
-			"updatedAt": "2026-10-11T02:10:24.093Z"
+			"watchUrl": "https://www.nhl.com/video/car-at-chi-recap-6406627542112",
+			"nhlUrl": "https://www.nhl.com/video/car-at-chi-recap-6406627542112",
+			"updatedAt": "2026-10-11T02:20:22.250Z"
 		},
 		"2026020079": {
 			"gameId": "2026020079",
@@ -356,9 +372,9 @@
 			"finalSeenAt": "2026-10-11T01:51:00.662Z",
 			"status": "available",
 			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/cbj-at-stl-recap-6406628127112",
-			"nhlUrl": "https://www.nhl.com/video/cbj-at-stl-recap-6406628127112",
-			"updatedAt": "2026-10-11T02:10:24.093Z"
+			"watchUrl": "https://www.nhl.com/video/cbj-at-stl-recap-6406629095112",
+			"nhlUrl": "https://www.nhl.com/video/cbj-at-stl-recap-6406629095112",
+			"updatedAt": "2026-10-11T02:20:22.250Z"
 		},
 		"2026020080": {
 			"gameId": "2026020080",
