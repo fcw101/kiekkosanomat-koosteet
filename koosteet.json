@@ -288,9 +288,59 @@
 			"away": "MIN",
 			"slug": "fla-min",
 			"finalSeenAt": "2026-10-11T00:50:28.041Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/min-at-fla-recap-6406624883112",
+			"nhlUrl": "https://www.nhl.com/video/min-at-fla-recap-6406624883112",
+			"updatedAt": "2026-10-11T01:51:00.662Z"
+		},
+		"2026020074": {
+			"gameId": "2026020074",
+			"date": "2026-10-10",
+			"start": "2026-10-10T23:00:00Z",
+			"home": "BUF",
+			"away": "UTA",
+			"slug": "buf-uta",
+			"finalSeenAt": "2026-10-11T01:51:00.662Z",
 			"status": "pending",
 			"nhlUrl": null,
-			"updatedAt": "2026-10-11T00:50:28.041Z"
+			"updatedAt": "2026-10-11T01:51:00.662Z"
+		},
+		"2026020078": {
+			"gameId": "2026020078",
+			"date": "2026-10-10",
+			"start": "2026-10-10T23:00:00Z",
+			"home": "CHI",
+			"away": "CAR",
+			"slug": "chi-car",
+			"finalSeenAt": "2026-10-11T01:51:00.662Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-11T01:51:00.662Z"
+		},
+		"2026020079": {
+			"gameId": "2026020079",
+			"date": "2026-10-10",
+			"start": "2026-10-10T23:00:00Z",
+			"home": "STL",
+			"away": "CBJ",
+			"slug": "stl-cbj",
+			"finalSeenAt": "2026-10-11T01:51:00.662Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-11T01:51:00.662Z"
+		},
+		"2026020080": {
+			"gameId": "2026020080",
+			"date": "2026-10-10",
+			"start": "2026-10-10T23:00:00Z",
+			"home": "COL",
+			"away": "TOR",
+			"slug": "col-tor",
+			"finalSeenAt": "2026-10-11T01:51:00.662Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-11T01:51:00.662Z"
 		}
 	}
 }
