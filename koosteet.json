@@ -513,6 +513,18 @@
 			"watchUrl": "https://www.nhl.com/video/van-at-nyr-recap-6406663253112",
 			"nhlUrl": "https://www.nhl.com/video/van-at-nyr-recap-6406663253112",
 			"updatedAt": "2026-10-12T01:20:13.566Z"
+		},
+		"2026020086": {
+			"gameId": "2026020086",
+			"date": "2026-10-11",
+			"start": "2026-10-11T23:00:00Z",
+			"home": "PHI",
+			"away": "CAR",
+			"slug": "phi-car",
+			"finalSeenAt": "2026-10-12T01:50:13.159Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-12T01:50:13.159Z"
 		}
 	}
 }
