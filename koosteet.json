@@ -495,10 +495,14 @@
 			"slug": "wsh-sea",
 			"finalSeenAt": "2026-10-12T00:05:41.652Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/sea-at-wsh-recap-6406661867112",
+			"provider": "youtube",
+			"videoId": "Sxnk3ZEWItQ",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/Sxnk3ZEWItQ",
+			"watchUrl": "https://www.youtube.com/watch?v=Sxnk3ZEWItQ",
+			"sourceTitle": "Kraken vs. Capitals | NHL Highlights | Oct 11, 2026",
+			"publishedAt": "2026-10-12T00:14:59.000Z",
 			"nhlUrl": "https://www.nhl.com/video/sea-at-wsh-recap-6406661867112",
-			"updatedAt": "2026-10-12T00:05:41.652Z"
+			"updatedAt": "2026-10-12T08:10:27.219Z"
 		},
 		"2026020085": {
 			"gameId": "2026020085",
@@ -509,10 +513,14 @@
 			"slug": "nyr-van",
 			"finalSeenAt": "2026-10-12T01:20:13.566Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/van-at-nyr-recap-6406663253112",
+			"provider": "youtube",
+			"videoId": "Z_HBSlBtCVg",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/Z_HBSlBtCVg",
+			"watchUrl": "https://www.youtube.com/watch?v=Z_HBSlBtCVg",
+			"sourceTitle": "Canucks vs. Rangers | NHL Highlights | Oct 11, 2026",
+			"publishedAt": "2026-10-12T00:59:02.000Z",
 			"nhlUrl": "https://www.nhl.com/video/van-at-nyr-recap-6406663253112",
-			"updatedAt": "2026-10-12T01:20:13.566Z"
+			"updatedAt": "2026-10-12T08:10:27.219Z"
 		},
 		"2026020086": {
 			"gameId": "2026020086",
@@ -523,10 +531,14 @@
 			"slug": "phi-car",
 			"finalSeenAt": "2026-10-12T01:50:13.159Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/car-at-phi-recap-6406665550112",
+			"provider": "youtube",
+			"videoId": "2R1KdYsTWpM",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/2R1KdYsTWpM",
+			"watchUrl": "https://www.youtube.com/watch?v=2R1KdYsTWpM",
+			"sourceTitle": "Hurricanes vs. Flyers | NHL Highlights | Oct 11, 2026",
+			"publishedAt": "2026-10-12T01:57:55.000Z",
 			"nhlUrl": "https://www.nhl.com/video/car-at-phi-recap-6406665550112",
-			"updatedAt": "2026-10-12T02:10:17.481Z"
+			"updatedAt": "2026-10-12T08:10:27.219Z"
 		}
 	}
 }
