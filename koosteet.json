@@ -499,6 +499,20 @@
 			"watchUrl": "https://www.nhl.com/video/sea-at-wsh-recap-6406661867112",
 			"nhlUrl": "https://www.nhl.com/video/sea-at-wsh-recap-6406661867112",
 			"updatedAt": "2026-10-12T00:05:41.652Z"
+		},
+		"2026020085": {
+			"gameId": "2026020085",
+			"date": "2026-10-11",
+			"start": "2026-10-11T22:00:00Z",
+			"home": "NYR",
+			"away": "VAN",
+			"slug": "nyr-van",
+			"finalSeenAt": "2026-10-12T01:20:13.566Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/van-at-nyr-recap-6406663253112",
+			"nhlUrl": "https://www.nhl.com/video/van-at-nyr-recap-6406663253112",
+			"updatedAt": "2026-10-12T01:20:13.566Z"
 		}
 	}
 }
