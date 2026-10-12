@@ -485,6 +485,20 @@
 			"publishedAt": "2026-10-11T05:22:53.000Z",
 			"nhlUrl": "https://www.nhl.com/video/lak-at-vgk-recap-6406634070112",
 			"updatedAt": "2026-10-11T07:00:13.181Z"
+		},
+		"2026020084": {
+			"gameId": "2026020084",
+			"date": "2026-10-11",
+			"start": "2026-10-11T21:00:00Z",
+			"home": "WSH",
+			"away": "SEA",
+			"slug": "wsh-sea",
+			"finalSeenAt": "2026-10-12T00:05:41.652Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/sea-at-wsh-recap-6406661867112",
+			"nhlUrl": "https://www.nhl.com/video/sea-at-wsh-recap-6406661867112",
+			"updatedAt": "2026-10-12T00:05:41.652Z"
 		}
 	}
 }
