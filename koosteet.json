@@ -522,9 +522,11 @@
 			"away": "CAR",
 			"slug": "phi-car",
 			"finalSeenAt": "2026-10-12T01:50:13.159Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-12T01:50:13.159Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/car-at-phi-recap-6406665451112",
+			"nhlUrl": "https://www.nhl.com/video/car-at-phi-recap-6406665451112",
+			"updatedAt": "2026-10-12T02:00:15.805Z"
 		}
 	}
 }
