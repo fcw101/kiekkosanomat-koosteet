@@ -539,6 +539,24 @@
 			"publishedAt": "2026-10-12T01:57:55.000Z",
 			"nhlUrl": "https://www.nhl.com/video/car-at-phi-recap-6406665550112",
 			"updatedAt": "2026-10-12T08:10:27.219Z"
+		},
+		"2026020087": {
+			"gameId": "2026020087",
+			"date": "2026-10-12",
+			"start": "2026-10-12T17:00:00Z",
+			"home": "BUF",
+			"away": "FLA",
+			"slug": "buf-fla",
+			"finalSeenAt": "2026-10-12T20:30:00.000Z",
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "DPRU5IJktNs",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/DPRU5IJktNs",
+			"watchUrl": "https://www.youtube.com/watch?v=DPRU5IJktNs",
+			"sourceTitle": "Panthers vs. Sabres | NHL Highlights | Oct 12, 2026",
+			"publishedAt": "2026-10-12T19:58:59.000Z",
+			"nhlUrl": "https://www.nhl.com/video/fla-at-buf-recap-6406712364112",
+			"updatedAt": "2026-10-12T21:17:46.262Z"
 		}
 	}
 }
