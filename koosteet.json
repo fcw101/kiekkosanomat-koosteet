@@ -571,6 +571,20 @@
 			"watchUrl": "https://www.nhl.com/video/ott-at-njd-recap-6406726215112",
 			"nhlUrl": "https://www.nhl.com/video/ott-at-njd-recap-6406726215112",
 			"updatedAt": "2026-10-13T02:18:36.027Z"
+		},
+		"2026020089": {
+			"gameId": "2026020089",
+			"date": "2026-10-12",
+			"start": "2026-10-13T00:00:00Z",
+			"home": "MIN",
+			"away": "VGK",
+			"slug": "min-vgk",
+			"finalSeenAt": "2026-10-13T03:30:00.000Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/vgk-at-min-recap-6406729470112",
+			"nhlUrl": "https://www.nhl.com/video/vgk-at-min-recap-6406729470112",
+			"updatedAt": "2026-10-13T03:30:18.482Z"
 		}
 	}
 }
