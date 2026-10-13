@@ -567,10 +567,14 @@
 			"slug": "njd-ott",
 			"finalSeenAt": "2026-10-13T01:50:23.206Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/ott-at-njd-recap-6406726215112",
+			"provider": "youtube",
+			"videoId": "jcQTHHnP5j8",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/jcQTHHnP5j8",
+			"watchUrl": "https://www.youtube.com/watch?v=jcQTHHnP5j8",
+			"sourceTitle": "Senators vs. Devils | NHL Highlights | Oct 12, 2026",
+			"publishedAt": "2026-10-13T02:22:09.000Z",
 			"nhlUrl": "https://www.nhl.com/video/ott-at-njd-recap-6406726215112",
-			"updatedAt": "2026-10-13T02:18:36.027Z"
+			"updatedAt": "2026-10-13T08:20:16.083Z"
 		},
 		"2026020089": {
 			"gameId": "2026020089",
@@ -581,10 +585,14 @@
 			"slug": "min-vgk",
 			"finalSeenAt": "2026-10-13T03:30:00.000Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/vgk-at-min-recap-6406729470112",
+			"provider": "youtube",
+			"videoId": "VCad5yOLl58",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/VCad5yOLl58",
+			"watchUrl": "https://www.youtube.com/watch?v=VCad5yOLl58",
+			"sourceTitle": "Golden Knights vs. Wild | NHL Highlights | Oct 12, 2026",
+			"publishedAt": "2026-10-13T03:01:17.000Z",
 			"nhlUrl": "https://www.nhl.com/video/vgk-at-min-recap-6406729470112",
-			"updatedAt": "2026-10-13T03:30:18.482Z"
+			"updatedAt": "2026-10-13T08:20:16.083Z"
 		}
 	}
 }
