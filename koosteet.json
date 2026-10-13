@@ -557,6 +557,18 @@
 			"publishedAt": "2026-10-12T19:58:59.000Z",
 			"nhlUrl": "https://www.nhl.com/video/fla-at-buf-recap-6406712364112",
 			"updatedAt": "2026-10-12T21:17:46.262Z"
+		},
+		"2026020088": {
+			"gameId": "2026020088",
+			"date": "2026-10-12",
+			"start": "2026-10-12T23:00:00Z",
+			"home": "NJD",
+			"away": "OTT",
+			"slug": "njd-ott",
+			"finalSeenAt": "2026-10-13T01:50:23.206Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-13T01:50:23.206Z"
 		}
 	}
 }
