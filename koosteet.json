@@ -593,6 +593,18 @@
 			"publishedAt": "2026-10-13T03:01:17.000Z",
 			"nhlUrl": "https://www.nhl.com/video/vgk-at-min-recap-6406729470112",
 			"updatedAt": "2026-10-13T08:20:16.083Z"
+		},
+		"2026020090": {
+			"gameId": "2026020090",
+			"date": "2026-10-13",
+			"start": "2026-10-13T22:00:00Z",
+			"home": "DET",
+			"away": "NJD",
+			"slug": "det-njd",
+			"finalSeenAt": "2026-10-14T00:40:14.920Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-14T00:40:14.920Z"
 		}
 	}
 }
