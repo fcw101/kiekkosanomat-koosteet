@@ -806,9 +806,23 @@
 			"away": "EDM",
 			"slug": "lak-edm",
 			"finalSeenAt": "2026-10-14T05:20:18.353Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/edm-at-lak-recap-6406828163112",
+			"nhlUrl": "https://www.nhl.com/video/edm-at-lak-recap-6406828163112",
+			"updatedAt": "2026-10-14T05:50:11.624Z"
+		},
+		"2026020105": {
+			"gameId": "2026020105",
+			"date": "2026-10-13",
+			"start": "2026-10-14T03:00:00Z",
+			"home": "SJS",
+			"away": "BOS",
+			"slug": "sjs-bos",
+			"finalSeenAt": "2026-10-14T05:50:11.624Z",
 			"status": "pending",
 			"nhlUrl": null,
-			"updatedAt": "2026-10-14T05:20:18.353Z"
+			"updatedAt": "2026-10-14T05:50:11.624Z"
 		}
 	}
 }
