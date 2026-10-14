@@ -708,9 +708,37 @@
 			"away": "VAN",
 			"slug": "nyi-van",
 			"finalSeenAt": "2026-10-14T02:30:20.874Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/van-at-nyi-recap-6406816901112",
+			"nhlUrl": "https://www.nhl.com/video/van-at-nyi-recap-6406816901112",
+			"updatedAt": "2026-10-14T03:00:13.778Z"
+		},
+		"2026020098": {
+			"gameId": "2026020098",
+			"date": "2026-10-13",
+			"start": "2026-10-14T00:00:00Z",
+			"home": "CHI",
+			"away": "PIT",
+			"slug": "chi-pit",
+			"finalSeenAt": "2026-10-14T03:00:13.778Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/pit-at-chi-recap-6406818301112",
+			"nhlUrl": "https://www.nhl.com/video/pit-at-chi-recap-6406818301112",
+			"updatedAt": "2026-10-14T03:00:13.778Z"
+		},
+		"2026020099": {
+			"gameId": "2026020099",
+			"date": "2026-10-13",
+			"start": "2026-10-14T00:15:00Z",
+			"home": "WPG",
+			"away": "MIN",
+			"slug": "wpg-min",
+			"finalSeenAt": "2026-10-14T03:00:13.778Z",
 			"status": "pending",
 			"nhlUrl": null,
-			"updatedAt": "2026-10-14T02:30:20.874Z"
+			"updatedAt": "2026-10-14T03:00:13.778Z"
 		}
 	}
 }
