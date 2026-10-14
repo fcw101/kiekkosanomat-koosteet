@@ -769,6 +769,18 @@
 			"watchUrl": "https://www.nhl.com/video/vgk-at-nsh-recap-6406821059112",
 			"nhlUrl": "https://www.nhl.com/video/vgk-at-nsh-recap-6406821059112",
 			"updatedAt": "2026-10-14T03:40:09.428Z"
+		},
+		"2026020102": {
+			"gameId": "2026020102",
+			"date": "2026-10-13",
+			"start": "2026-10-14T01:00:00Z",
+			"home": "UTA",
+			"away": "TOR",
+			"slug": "uta-tor",
+			"finalSeenAt": "2026-10-14T03:50:26.998Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-14T03:50:26.998Z"
 		}
 	}
 }
