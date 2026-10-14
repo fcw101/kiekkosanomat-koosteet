@@ -797,6 +797,18 @@
 			"watchUrl": "https://www.nhl.com/video/cgy-at-ana-recap-6406825857112",
 			"nhlUrl": "https://www.nhl.com/video/cgy-at-ana-recap-6406825857112",
 			"updatedAt": "2026-10-14T04:50:19.895Z"
+		},
+		"2026020104": {
+			"gameId": "2026020104",
+			"date": "2026-10-13",
+			"start": "2026-10-14T02:30:00Z",
+			"home": "LAK",
+			"away": "EDM",
+			"slug": "lak-edm",
+			"finalSeenAt": "2026-10-14T05:20:18.353Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-14T05:20:18.353Z"
 		}
 	}
 }
