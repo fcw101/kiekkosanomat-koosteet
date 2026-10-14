@@ -736,9 +736,39 @@
 			"away": "MIN",
 			"slug": "wpg-min",
 			"finalSeenAt": "2026-10-14T03:00:13.778Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-14T03:00:13.778Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/min-at-wpg-recap-6406819920112",
+			"nhlUrl": "https://www.nhl.com/video/min-at-wpg-recap-6406819920112",
+			"updatedAt": "2026-10-14T03:40:09.428Z"
+		},
+		"2026020100": {
+			"gameId": "2026020100",
+			"date": "2026-10-13",
+			"start": "2026-10-14T00:30:00Z",
+			"home": "DAL",
+			"away": "COL",
+			"slug": "dal-col",
+			"finalSeenAt": "2026-10-14T03:40:09.428Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/col-at-dal-recap-6406821643112",
+			"nhlUrl": "https://www.nhl.com/video/col-at-dal-recap-6406821643112",
+			"updatedAt": "2026-10-14T03:40:09.428Z"
+		},
+		"2026020101": {
+			"gameId": "2026020101",
+			"date": "2026-10-13",
+			"start": "2026-10-14T00:45:00Z",
+			"home": "NSH",
+			"away": "VGK",
+			"slug": "nsh-vgk",
+			"finalSeenAt": "2026-10-14T03:40:09.428Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/vgk-at-nsh-recap-6406821059112",
+			"nhlUrl": "https://www.nhl.com/video/vgk-at-nsh-recap-6406821059112",
+			"updatedAt": "2026-10-14T03:40:09.428Z"
 		}
 	}
 }
