@@ -602,9 +602,11 @@
 			"away": "NJD",
 			"slug": "det-njd",
 			"finalSeenAt": "2026-10-14T00:40:14.920Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-14T00:40:14.920Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/njd-at-det-recap-6406806796112",
+			"nhlUrl": "https://www.nhl.com/video/njd-at-det-recap-6406806796112",
+			"updatedAt": "2026-10-14T01:00:12.786Z"
 		}
 	}
 }
