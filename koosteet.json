@@ -778,9 +778,11 @@
 			"away": "TOR",
 			"slug": "uta-tor",
 			"finalSeenAt": "2026-10-14T03:50:26.998Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-14T03:50:26.998Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/tor-at-uta-recap-6406824607112",
+			"nhlUrl": "https://www.nhl.com/video/tor-at-uta-recap-6406824607112",
+			"updatedAt": "2026-10-14T04:10:44.423Z"
 		}
 	}
 }
