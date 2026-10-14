@@ -616,9 +616,11 @@
 			"away": "FLA",
 			"slug": "cbj-fla",
 			"finalSeenAt": "2026-10-14T01:10:37.006Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-14T01:10:37.006Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/fla-at-cbj-recap-6406809880112",
+			"nhlUrl": "https://www.nhl.com/video/fla-at-cbj-recap-6406809880112",
+			"updatedAt": "2026-10-14T01:20:21.606Z"
 		}
 	}
 }
