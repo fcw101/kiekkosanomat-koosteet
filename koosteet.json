@@ -657,6 +657,18 @@
 			"watchUrl": "https://www.nhl.com/video/wsh-at-car-recap-6406811912112",
 			"nhlUrl": "https://www.nhl.com/video/wsh-at-car-recap-6406811912112",
 			"updatedAt": "2026-10-14T01:50:13.401Z"
+		},
+		"2026020095": {
+			"gameId": "2026020095",
+			"date": "2026-10-13",
+			"start": "2026-10-13T23:15:00Z",
+			"home": "NYR",
+			"away": "TBL",
+			"slug": "nyr-tbl",
+			"finalSeenAt": "2026-10-14T02:00:14.843Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-14T02:00:14.843Z"
 		}
 	}
 }
