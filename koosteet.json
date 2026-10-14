@@ -638,9 +638,11 @@
 			"away": "BUF",
 			"slug": "mtl-buf",
 			"finalSeenAt": "2026-10-14T01:30:49.266Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-14T01:30:49.266Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/buf-at-mtl-recap-6406811164112",
+			"nhlUrl": "https://www.nhl.com/video/buf-at-mtl-recap-6406811164112",
+			"updatedAt": "2026-10-14T01:50:13.401Z"
 		},
 		"2026020093": {
 			"gameId": "2026020093",
@@ -650,9 +652,11 @@
 			"away": "WSH",
 			"slug": "car-wsh",
 			"finalSeenAt": "2026-10-14T01:30:49.266Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-14T01:30:49.266Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/wsh-at-car-recap-6406811912112",
+			"nhlUrl": "https://www.nhl.com/video/wsh-at-car-recap-6406811912112",
+			"updatedAt": "2026-10-14T01:50:13.401Z"
 		}
 	}
 }
