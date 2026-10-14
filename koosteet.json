@@ -820,9 +820,11 @@
 			"away": "BOS",
 			"slug": "sjs-bos",
 			"finalSeenAt": "2026-10-14T05:50:11.624Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-14T05:50:11.624Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/bos-at-sjs-recap-6406827636112",
+			"nhlUrl": "https://www.nhl.com/video/bos-at-sjs-recap-6406827636112",
+			"updatedAt": "2026-10-14T06:20:14.211Z"
 		}
 	}
 }
