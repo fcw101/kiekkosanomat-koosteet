@@ -603,10 +603,14 @@
 			"slug": "det-njd",
 			"finalSeenAt": "2026-10-14T00:40:14.920Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/njd-at-det-recap-6406806796112",
+			"provider": "youtube",
+			"videoId": "Dteqt7rCID4",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/Dteqt7rCID4",
+			"watchUrl": "https://www.youtube.com/watch?v=Dteqt7rCID4",
+			"sourceTitle": "Devils vs. Red Wings | NHL Highlights | Oct 13, 2026",
+			"publishedAt": "2026-10-14T01:03:02.000Z",
 			"nhlUrl": "https://www.nhl.com/video/njd-at-det-recap-6406806796112",
-			"updatedAt": "2026-10-14T01:00:12.786Z"
+			"updatedAt": "2026-10-14T01:30:49.266Z"
 		},
 		"2026020091": {
 			"gameId": "2026020091",
@@ -617,10 +621,38 @@
 			"slug": "cbj-fla",
 			"finalSeenAt": "2026-10-14T01:10:37.006Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/fla-at-cbj-recap-6406809880112",
+			"provider": "youtube",
+			"videoId": "Tg4PlMIZpus",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/Tg4PlMIZpus",
+			"watchUrl": "https://www.youtube.com/watch?v=Tg4PlMIZpus",
+			"sourceTitle": "Panthers vs. Blue Jackets | NHL Highlights | Oct 13, 2026",
+			"publishedAt": "2026-10-14T01:28:35.000Z",
 			"nhlUrl": "https://www.nhl.com/video/fla-at-cbj-recap-6406809880112",
-			"updatedAt": "2026-10-14T01:20:21.606Z"
+			"updatedAt": "2026-10-14T01:30:49.266Z"
+		},
+		"2026020092": {
+			"gameId": "2026020092",
+			"date": "2026-10-13",
+			"start": "2026-10-13T22:30:00Z",
+			"home": "MTL",
+			"away": "BUF",
+			"slug": "mtl-buf",
+			"finalSeenAt": "2026-10-14T01:30:49.266Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-14T01:30:49.266Z"
+		},
+		"2026020093": {
+			"gameId": "2026020093",
+			"date": "2026-10-13",
+			"start": "2026-10-13T22:45:00Z",
+			"home": "CAR",
+			"away": "WSH",
+			"slug": "car-wsh",
+			"finalSeenAt": "2026-10-14T01:30:49.266Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-14T01:30:49.266Z"
 		}
 	}
 }
