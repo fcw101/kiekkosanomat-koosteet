@@ -783,6 +783,18 @@
 			"watchUrl": "https://www.nhl.com/video/tor-at-uta-recap-6406824607112",
 			"nhlUrl": "https://www.nhl.com/video/tor-at-uta-recap-6406824607112",
 			"updatedAt": "2026-10-14T04:10:44.423Z"
+		},
+		"2026020103": {
+			"gameId": "2026020103",
+			"date": "2026-10-13",
+			"start": "2026-10-14T01:45:00Z",
+			"home": "ANA",
+			"away": "CGY",
+			"slug": "ana-cgy",
+			"finalSeenAt": "2026-10-14T04:30:09.382Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-14T04:30:09.382Z"
 		}
 	}
 }
