@@ -792,9 +792,11 @@
 			"away": "CGY",
 			"slug": "ana-cgy",
 			"finalSeenAt": "2026-10-14T04:30:09.382Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-14T04:30:09.382Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/cgy-at-ana-recap-6406825857112",
+			"nhlUrl": "https://www.nhl.com/video/cgy-at-ana-recap-6406825857112",
+			"updatedAt": "2026-10-14T04:50:19.895Z"
 		}
 	}
 }
