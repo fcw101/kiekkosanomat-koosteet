@@ -892,9 +892,11 @@
 			"away": "DAL",
 			"slug": "col-dal",
 			"finalSeenAt": "2026-10-15T03:40:26.278Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-15T03:40:26.278Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/dal-at-col-recap-6406886166112",
+			"nhlUrl": "https://www.nhl.com/video/dal-at-col-recap-6406886166112",
+			"updatedAt": "2026-10-15T04:20:25.515Z"
 		}
 	}
 }
