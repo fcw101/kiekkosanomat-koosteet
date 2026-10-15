@@ -883,6 +883,18 @@
 			"watchUrl": "https://www.nhl.com/video/mtl-at-wsh-recap-6406882206112",
 			"nhlUrl": "https://www.nhl.com/video/mtl-at-wsh-recap-6406882206112",
 			"updatedAt": "2026-10-15T03:11:00.731Z"
+		},
+		"2026020107": {
+			"gameId": "2026020107",
+			"date": "2026-10-14",
+			"start": "2026-10-15T00:30:00Z",
+			"home": "COL",
+			"away": "DAL",
+			"slug": "col-dal",
+			"finalSeenAt": "2026-10-15T03:40:26.278Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-15T03:40:26.278Z"
 		}
 	}
 }
