@@ -879,10 +879,14 @@
 			"slug": "wsh-mtl",
 			"finalSeenAt": "2026-10-15T03:00:00.000Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/mtl-at-wsh-recap-6406882206112",
+			"provider": "youtube",
+			"videoId": "QrrWdVPOYT8",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/QrrWdVPOYT8",
+			"watchUrl": "https://www.youtube.com/watch?v=QrrWdVPOYT8",
+			"sourceTitle": "Canadiens vs. Capitals | NHL Highlights | Oct 14, 2026",
+			"publishedAt": "2026-10-15T02:38:50.000Z",
 			"nhlUrl": "https://www.nhl.com/video/mtl-at-wsh-recap-6406882206112",
-			"updatedAt": "2026-10-15T03:11:00.731Z"
+			"updatedAt": "2026-10-15T04:50:19.080Z"
 		},
 		"2026020107": {
 			"gameId": "2026020107",
@@ -893,10 +897,14 @@
 			"slug": "col-dal",
 			"finalSeenAt": "2026-10-15T03:40:26.278Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/dal-at-col-recap-6406886166112",
+			"provider": "youtube",
+			"videoId": "b1ci6oyPVJ0",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/b1ci6oyPVJ0",
+			"watchUrl": "https://www.youtube.com/watch?v=b1ci6oyPVJ0",
+			"sourceTitle": "Stars vs. Avalanche | NHL Highlights | Oct 14, 2026",
+			"publishedAt": "2026-10-15T03:42:32.000Z",
 			"nhlUrl": "https://www.nhl.com/video/dal-at-col-recap-6406886166112",
-			"updatedAt": "2026-10-15T04:20:25.515Z"
+			"updatedAt": "2026-10-15T04:50:19.080Z"
 		}
 	}
 }
