@@ -869,6 +869,20 @@
 			"publishedAt": "2026-10-14T06:07:53.000Z",
 			"nhlUrl": "https://www.nhl.com/video/bos-at-sjs-recap-6406827636112",
 			"updatedAt": "2026-10-14T07:00:18.679Z"
+		},
+		"2026020106": {
+			"gameId": "2026020106",
+			"date": "2026-10-14",
+			"start": "2026-10-14T23:30:00Z",
+			"home": "WSH",
+			"away": "MTL",
+			"slug": "wsh-mtl",
+			"finalSeenAt": "2026-10-15T03:00:00.000Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/mtl-at-wsh-recap-6406882206112",
+			"nhlUrl": "https://www.nhl.com/video/mtl-at-wsh-recap-6406882206112",
+			"updatedAt": "2026-10-15T03:11:00.731Z"
 		}
 	}
 }
