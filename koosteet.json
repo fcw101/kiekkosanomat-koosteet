@@ -998,9 +998,39 @@
 			"away": "WPG",
 			"slug": "chi-wpg",
 			"finalSeenAt": "2026-10-16T02:50:14.320Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-16T02:50:14.320Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/wpg-at-chi-recap-6406944230112",
+			"nhlUrl": "https://www.nhl.com/video/wpg-at-chi-recap-6406944230112",
+			"updatedAt": "2026-10-16T03:20:24.838Z"
+		},
+		"2026020115": {
+			"gameId": "2026020115",
+			"date": "2026-10-15",
+			"start": "2026-10-16T00:00:00Z",
+			"home": "NSH",
+			"away": "SJS",
+			"slug": "nsh-sjs",
+			"finalSeenAt": "2026-10-16T03:20:24.838Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/sjs-at-nsh-recap-6406944850112",
+			"nhlUrl": "https://www.nhl.com/video/sjs-at-nsh-recap-6406944850112",
+			"updatedAt": "2026-10-16T03:20:24.838Z"
+		},
+		"2026020116": {
+			"gameId": "2026020116",
+			"date": "2026-10-15",
+			"start": "2026-10-16T00:00:00Z",
+			"home": "MIN",
+			"away": "STL",
+			"slug": "min-stl",
+			"finalSeenAt": "2026-10-16T03:20:24.838Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/stl-at-min-recap-6406945208112",
+			"nhlUrl": "https://www.nhl.com/video/stl-at-min-recap-6406945208112",
+			"updatedAt": "2026-10-16T03:20:24.838Z"
 		}
 	}
 }
