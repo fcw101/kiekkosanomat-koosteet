@@ -1040,9 +1040,11 @@
 			"away": "UTA",
 			"slug": "edm-uta",
 			"finalSeenAt": "2026-10-16T03:40:23.455Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-16T03:40:23.455Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/uta-at-edm-recap-6406946057112",
+			"nhlUrl": "https://www.nhl.com/video/uta-at-edm-recap-6406946057112",
+			"updatedAt": "2026-10-16T04:17:53.649Z"
 		}
 	}
 }
