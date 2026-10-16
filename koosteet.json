@@ -1031,6 +1031,18 @@
 			"watchUrl": "https://www.nhl.com/video/stl-at-min-recap-6406945208112",
 			"nhlUrl": "https://www.nhl.com/video/stl-at-min-recap-6406945208112",
 			"updatedAt": "2026-10-16T03:20:24.838Z"
+		},
+		"2026020117": {
+			"gameId": "2026020117",
+			"date": "2026-10-15",
+			"start": "2026-10-16T01:00:00Z",
+			"home": "EDM",
+			"away": "UTA",
+			"slug": "edm-uta",
+			"finalSeenAt": "2026-10-16T03:40:23.455Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-16T03:40:23.455Z"
 		}
 	}
 }
