@@ -950,9 +950,11 @@
 			"away": "VAN",
 			"slug": "fla-van",
 			"finalSeenAt": "2026-10-16T01:50:13.605Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-16T01:50:13.605Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/van-at-fla-recap-6406942002112",
+			"nhlUrl": "https://www.nhl.com/video/van-at-fla-recap-6406942002112",
+			"updatedAt": "2026-10-16T02:10:20.530Z"
 		},
 		"2026020113": {
 			"gameId": "2026020113",
