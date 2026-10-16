@@ -1054,9 +1054,11 @@
 			"away": "CGY",
 			"slug": "vgk-cgy",
 			"finalSeenAt": "2026-10-16T04:50:21.345Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-16T04:50:21.345Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/cgy-at-vgk-recap-6406946690112",
+			"nhlUrl": "https://www.nhl.com/video/cgy-at-vgk-recap-6406946690112",
+			"updatedAt": "2026-10-16T05:10:27.631Z"
 		}
 	}
 }
