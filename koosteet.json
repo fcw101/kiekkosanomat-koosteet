@@ -905,6 +905,32 @@
 			"publishedAt": "2026-10-15T03:42:32.000Z",
 			"nhlUrl": "https://www.nhl.com/video/dal-at-col-recap-6406886166112",
 			"updatedAt": "2026-10-15T04:50:19.080Z"
+		},
+		"2026020112": {
+			"gameId": "2026020112",
+			"date": "2026-10-15",
+			"start": "2026-10-15T23:00:00Z",
+			"home": "FLA",
+			"away": "VAN",
+			"slug": "fla-van",
+			"finalSeenAt": "2026-10-16T01:50:13.605Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-16T01:50:13.605Z"
+		},
+		"2026020113": {
+			"gameId": "2026020113",
+			"date": "2026-10-15",
+			"start": "2026-10-15T23:00:00Z",
+			"home": "NJD",
+			"away": "NYR",
+			"slug": "njd-nyr",
+			"finalSeenAt": "2026-10-16T01:50:13.605Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/nyr-at-njd-recap-6406940694112",
+			"nhlUrl": "https://www.nhl.com/video/nyr-at-njd-recap-6406940694112",
+			"updatedAt": "2026-10-16T01:50:13.605Z"
 		}
 	}
 }
