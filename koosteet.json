@@ -1139,6 +1139,24 @@
 			"publishedAt": "2026-10-17T04:50:16.000Z",
 			"nhlUrl": "https://www.nhl.com/video/bos-at-ana-recap-6406997905112",
 			"updatedAt": "2026-10-17T07:50:25.565Z"
+		},
+		"2026020121": {
+			"gameId": "2026020121",
+			"date": "2026-10-17",
+			"start": "2026-10-17T17:00:00Z",
+			"home": "WSH",
+			"away": "NJD",
+			"slug": "wsh-njd",
+			"finalSeenAt": "2026-10-17T20:15:30.392Z",
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "Qwe2TYU94bA",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/Qwe2TYU94bA",
+			"watchUrl": "https://www.youtube.com/watch?v=Qwe2TYU94bA",
+			"sourceTitle": "Devils vs. Capitals | NHL Highlights | Oct 17, 2026",
+			"publishedAt": "2026-10-17T19:56:07.000Z",
+			"nhlUrl": "https://www.nhl.com/video/njd-at-wsh-recap-6407021399112",
+			"updatedAt": "2026-10-17T20:15:30.392Z"
 		}
 	}
 }
