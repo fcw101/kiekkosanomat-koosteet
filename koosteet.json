@@ -1126,9 +1126,11 @@
 			"away": "BOS",
 			"slug": "ana-bos",
 			"finalSeenAt": "2026-10-17T04:50:16.759Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-17T04:50:16.759Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/bos-at-ana-recap-6406997905112",
+			"nhlUrl": "https://www.nhl.com/video/bos-at-ana-recap-6406997905112",
+			"updatedAt": "2026-10-17T05:00:19.090Z"
 		}
 	}
 }
