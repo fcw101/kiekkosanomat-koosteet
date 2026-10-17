@@ -1184,9 +1184,15 @@
 			"away": "VAN",
 			"slug": "tbl-van",
 			"finalSeenAt": "2026-10-17T22:41:07.530Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-17T22:41:07.530Z"
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "pQ8NAAzlM_E",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/pQ8NAAzlM_E",
+			"watchUrl": "https://www.youtube.com/watch?v=pQ8NAAzlM_E",
+			"sourceTitle": "Canucks vs. Lightning | NHL Highlights | Oct 17, 2026",
+			"publishedAt": "2026-10-17T22:51:24.000Z",
+			"nhlUrl": "https://www.nhl.com/video/van-at-tbl-recap-6407025288112",
+			"updatedAt": "2026-10-17T23:00:13.018Z"
 		}
 	}
 }
