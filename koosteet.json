@@ -1103,6 +1103,18 @@
 			"publishedAt": "2026-10-16T05:16:18.000Z",
 			"nhlUrl": "https://www.nhl.com/video/cgy-at-vgk-recap-6406946690112",
 			"updatedAt": "2026-10-16T07:00:22.595Z"
+		},
+		"2026020119": {
+			"gameId": "2026020119",
+			"date": "2026-10-16",
+			"start": "2026-10-17T01:00:00Z",
+			"home": "COL",
+			"away": "PIT",
+			"slug": "col-pit",
+			"finalSeenAt": "2026-10-17T03:50:51.908Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-17T03:50:51.908Z"
 		}
 	}
 }
