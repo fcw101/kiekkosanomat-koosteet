@@ -1157,6 +1157,36 @@
 			"publishedAt": "2026-10-17T19:56:07.000Z",
 			"nhlUrl": "https://www.nhl.com/video/njd-at-wsh-recap-6407021399112",
 			"updatedAt": "2026-10-17T20:15:30.392Z"
+		},
+		"2026020122": {
+			"gameId": "2026020122",
+			"date": "2026-10-17",
+			"start": "2026-10-17T19:30:00Z",
+			"home": "WPG",
+			"away": "CAR",
+			"slug": "wpg-car",
+			"finalSeenAt": "2026-10-17T22:41:07.530Z",
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "a-gQ3_J3CB8",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/a-gQ3_J3CB8",
+			"watchUrl": "https://www.youtube.com/watch?v=a-gQ3_J3CB8",
+			"sourceTitle": "Hurricanes vs. Jets | NHL Highlights | Oct 17, 2026",
+			"publishedAt": "2026-10-17T22:32:18.000Z",
+			"nhlUrl": "https://www.nhl.com/video/car-at-wpg-recap-6407026055112",
+			"updatedAt": "2026-10-17T22:41:07.530Z"
+		},
+		"2026020123": {
+			"gameId": "2026020123",
+			"date": "2026-10-17",
+			"start": "2026-10-17T20:00:00Z",
+			"home": "TBL",
+			"away": "VAN",
+			"slug": "tbl-van",
+			"finalSeenAt": "2026-10-17T22:41:07.530Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-17T22:41:07.530Z"
 		}
 	}
 }
