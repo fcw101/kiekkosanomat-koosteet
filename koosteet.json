@@ -1220,6 +1220,18 @@
 			"nhlUrl": null,
 			"updatedAt": "2026-10-18T01:40:13.903Z"
 		},
+		"2026020126": {
+			"gameId": "2026020126",
+			"date": "2026-10-17",
+			"start": "2026-10-17T23:00:00Z",
+			"home": "MTL",
+			"away": "BUF",
+			"slug": "mtl-buf",
+			"finalSeenAt": "2026-10-18T01:50:27.826Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-18T01:50:27.826Z"
+		},
 		"2026020130": {
 			"gameId": "2026020130",
 			"date": "2026-10-17",
