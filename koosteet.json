@@ -1305,6 +1305,20 @@
 			"watchUrl": "https://www.nhl.com/video/stl-at-nsh-recap-6407034451112",
 			"nhlUrl": "https://www.nhl.com/video/stl-at-nsh-recap-6407034451112",
 			"updatedAt": "2026-10-18T03:10:26.470Z"
+		},
+		"2026020132": {
+			"gameId": "2026020132",
+			"date": "2026-10-17",
+			"start": "2026-10-18T01:00:00Z",
+			"home": "LAK",
+			"away": "BOS",
+			"slug": "lak-bos",
+			"finalSeenAt": "2026-10-18T04:16:11.698Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/bos-at-lak-recap-6407037679112",
+			"nhlUrl": "https://www.nhl.com/video/bos-at-lak-recap-6407037679112",
+			"updatedAt": "2026-10-18T04:16:11.698Z"
 		}
 	}
 }
