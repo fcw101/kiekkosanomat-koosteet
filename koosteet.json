@@ -1274,9 +1274,9 @@
 			"finalSeenAt": "2026-10-18T02:00:10.774Z",
 			"status": "available",
 			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/nyr-at-cbj-recap-6407034324112",
-			"nhlUrl": "https://www.nhl.com/video/nyr-at-cbj-recap-6407034324112",
-			"updatedAt": "2026-10-18T02:20:17.066Z"
+			"watchUrl": "https://www.nhl.com/video/nyr-at-cbj-recap-6407034520112",
+			"nhlUrl": "https://www.nhl.com/video/nyr-at-cbj-recap-6407034520112",
+			"updatedAt": "2026-10-18T02:50:09.991Z"
 		},
 		"2026020130": {
 			"gameId": "2026020130",
@@ -1291,6 +1291,20 @@
 			"watchUrl": "https://www.nhl.com/video/dal-at-chi-recap-6407034208112",
 			"nhlUrl": "https://www.nhl.com/video/dal-at-chi-recap-6407034208112",
 			"updatedAt": "2026-10-18T02:10:13.633Z"
+		},
+		"2026020131": {
+			"gameId": "2026020131",
+			"date": "2026-10-17",
+			"start": "2026-10-18T00:00:00Z",
+			"home": "NSH",
+			"away": "STL",
+			"slug": "nsh-stl",
+			"finalSeenAt": "2026-10-18T02:50:09.991Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/stl-at-nsh-recap-6407034665112",
+			"nhlUrl": "https://www.nhl.com/video/stl-at-nsh-recap-6407034665112",
+			"updatedAt": "2026-10-18T02:50:09.991Z"
 		}
 	}
 }
