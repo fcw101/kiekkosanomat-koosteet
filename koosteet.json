@@ -1216,9 +1216,11 @@
 			"away": "NYI",
 			"slug": "tor-nyi",
 			"finalSeenAt": "2026-10-18T01:40:13.903Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-18T01:40:13.903Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/nyi-at-tor-recap-6407034589112",
+			"nhlUrl": "https://www.nhl.com/video/nyi-at-tor-recap-6407034589112",
+			"updatedAt": "2026-10-18T02:00:10.774Z"
 		},
 		"2026020126": {
 			"gameId": "2026020126",
@@ -1232,6 +1234,42 @@
 			"nhlUrl": null,
 			"updatedAt": "2026-10-18T01:50:27.826Z"
 		},
+		"2026020127": {
+			"gameId": "2026020127",
+			"date": "2026-10-17",
+			"start": "2026-10-17T23:00:00Z",
+			"home": "DET",
+			"away": "SJS",
+			"slug": "det-sjs",
+			"finalSeenAt": "2026-10-18T02:00:10.774Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-18T02:00:10.774Z"
+		},
+		"2026020128": {
+			"gameId": "2026020128",
+			"date": "2026-10-17",
+			"start": "2026-10-17T23:00:00Z",
+			"home": "PHI",
+			"away": "OTT",
+			"slug": "phi-ott",
+			"finalSeenAt": "2026-10-18T02:00:10.774Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-18T02:00:10.774Z"
+		},
+		"2026020129": {
+			"gameId": "2026020129",
+			"date": "2026-10-17",
+			"start": "2026-10-17T23:00:00Z",
+			"home": "CBJ",
+			"away": "NYR",
+			"slug": "cbj-nyr",
+			"finalSeenAt": "2026-10-18T02:00:10.774Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-18T02:00:10.774Z"
+		},
 		"2026020130": {
 			"gameId": "2026020130",
 			"date": "2026-10-17",
@@ -1240,9 +1278,11 @@
 			"away": "DAL",
 			"slug": "chi-dal",
 			"finalSeenAt": "2026-10-18T01:40:13.903Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-18T01:40:13.903Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/dal-at-chi-recap-6407034590112",
+			"nhlUrl": "https://www.nhl.com/video/dal-at-chi-recap-6407034590112",
+			"updatedAt": "2026-10-18T02:00:10.774Z"
 		}
 	}
 }
