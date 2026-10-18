@@ -1319,6 +1319,34 @@
 			"watchUrl": "https://www.nhl.com/video/bos-at-lak-recap-6407037691112",
 			"nhlUrl": "https://www.nhl.com/video/bos-at-lak-recap-6407037691112",
 			"updatedAt": "2026-10-18T04:30:26.306Z"
+		},
+		"2026020133": {
+			"gameId": "2026020133",
+			"date": "2026-10-17",
+			"start": "2026-10-18T02:00:00Z",
+			"home": "UTA",
+			"away": "EDM",
+			"slug": "uta-edm",
+			"finalSeenAt": "2026-10-18T05:10:11.758Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/edm-at-uta-recap-6407039756112",
+			"nhlUrl": "https://www.nhl.com/video/edm-at-uta-recap-6407039756112",
+			"updatedAt": "2026-10-18T05:10:11.758Z"
+		},
+		"2026020134": {
+			"gameId": "2026020134",
+			"date": "2026-10-17",
+			"start": "2026-10-18T02:00:00Z",
+			"home": "VGK",
+			"away": "PIT",
+			"slug": "vgk-pit",
+			"finalSeenAt": "2026-10-18T05:10:11.758Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/pit-at-vgk-recap-6407038001112",
+			"nhlUrl": "https://www.nhl.com/video/pit-at-vgk-recap-6407038001112",
+			"updatedAt": "2026-10-18T05:10:11.758Z"
 		}
 	}
 }
