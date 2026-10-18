@@ -1202,9 +1202,35 @@
 			"away": "SEA",
 			"slug": "fla-sea",
 			"finalSeenAt": "2026-10-18T00:50:19.164Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/sea-at-fla-recap-6407032473112",
+			"nhlUrl": "https://www.nhl.com/video/sea-at-fla-recap-6407032473112",
+			"updatedAt": "2026-10-18T01:40:13.903Z"
+		},
+		"2026020125": {
+			"gameId": "2026020125",
+			"date": "2026-10-17",
+			"start": "2026-10-17T23:00:00Z",
+			"home": "TOR",
+			"away": "NYI",
+			"slug": "tor-nyi",
+			"finalSeenAt": "2026-10-18T01:40:13.903Z",
 			"status": "pending",
 			"nhlUrl": null,
-			"updatedAt": "2026-10-18T00:50:19.164Z"
+			"updatedAt": "2026-10-18T01:40:13.903Z"
+		},
+		"2026020130": {
+			"gameId": "2026020130",
+			"date": "2026-10-17",
+			"start": "2026-10-17T23:00:00Z",
+			"home": "CHI",
+			"away": "DAL",
+			"slug": "chi-dal",
+			"finalSeenAt": "2026-10-18T01:40:13.903Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-18T01:40:13.903Z"
 		}
 	}
 }
