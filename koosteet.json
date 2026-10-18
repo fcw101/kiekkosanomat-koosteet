@@ -1230,9 +1230,11 @@
 			"away": "BUF",
 			"slug": "mtl-buf",
 			"finalSeenAt": "2026-10-18T01:50:27.826Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-18T01:50:27.826Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/buf-at-mtl-recap-6407035303112",
+			"nhlUrl": "https://www.nhl.com/video/buf-at-mtl-recap-6407035303112",
+			"updatedAt": "2026-10-18T02:20:17.066Z"
 		},
 		"2026020127": {
 			"gameId": "2026020127",
@@ -1242,9 +1244,11 @@
 			"away": "SJS",
 			"slug": "det-sjs",
 			"finalSeenAt": "2026-10-18T02:00:10.774Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-18T02:00:10.774Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/sjs-at-det-recap-6407034623112",
+			"nhlUrl": "https://www.nhl.com/video/sjs-at-det-recap-6407034623112",
+			"updatedAt": "2026-10-18T02:20:17.066Z"
 		},
 		"2026020128": {
 			"gameId": "2026020128",
@@ -1268,9 +1272,11 @@
 			"away": "NYR",
 			"slug": "cbj-nyr",
 			"finalSeenAt": "2026-10-18T02:00:10.774Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-18T02:00:10.774Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/nyr-at-cbj-recap-6407034324112",
+			"nhlUrl": "https://www.nhl.com/video/nyr-at-cbj-recap-6407034324112",
+			"updatedAt": "2026-10-18T02:20:17.066Z"
 		},
 		"2026020130": {
 			"gameId": "2026020130",
