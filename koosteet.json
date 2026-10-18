@@ -1193,6 +1193,18 @@
 			"publishedAt": "2026-10-17T22:51:24.000Z",
 			"nhlUrl": "https://www.nhl.com/video/van-at-tbl-recap-6407025292112",
 			"updatedAt": "2026-10-17T23:10:14.192Z"
+		},
+		"2026020124": {
+			"gameId": "2026020124",
+			"date": "2026-10-17",
+			"start": "2026-10-17T22:00:00Z",
+			"home": "FLA",
+			"away": "SEA",
+			"slug": "fla-sea",
+			"finalSeenAt": "2026-10-18T00:50:19.164Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-18T00:50:19.164Z"
 		}
 	}
 }
