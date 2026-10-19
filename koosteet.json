@@ -1401,10 +1401,14 @@
 			"slug": "min-cbj",
 			"finalSeenAt": "2026-10-19T00:30:31.053Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/cbj-at-min-recap-6407062986112",
+			"provider": "youtube",
+			"videoId": "MmtkRLNEGAM",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/MmtkRLNEGAM",
+			"watchUrl": "https://www.youtube.com/watch?v=MmtkRLNEGAM",
+			"sourceTitle": "Blue Jackets vs. Wild | NHL Highlights | Oct 18, 2026",
+			"publishedAt": "2026-10-19T00:39:32.000Z",
 			"nhlUrl": "https://www.nhl.com/video/cbj-at-min-recap-6407062986112",
-			"updatedAt": "2026-10-19T00:50:19.253Z"
+			"updatedAt": "2026-10-19T05:00:27.168Z"
 		},
 		"2026020136": {
 			"gameId": "2026020136",
@@ -1415,10 +1419,14 @@
 			"slug": "cgy-car",
 			"finalSeenAt": "2026-10-19T02:50:23.488Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/car-at-cgy-recap-6407066612112",
+			"provider": "youtube",
+			"videoId": "2Dmv4RqQ4CM",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/2Dmv4RqQ4CM",
+			"watchUrl": "https://www.youtube.com/watch?v=2Dmv4RqQ4CM",
+			"sourceTitle": "Hurricanes vs. Flames | NHL Highlights | Oct 18, 2026",
+			"publishedAt": "2026-10-19T02:50:22.000Z",
 			"nhlUrl": "https://www.nhl.com/video/car-at-cgy-recap-6407066612112",
-			"updatedAt": "2026-10-19T03:20:17.114Z"
+			"updatedAt": "2026-10-19T05:00:27.168Z"
 		}
 	}
 }
