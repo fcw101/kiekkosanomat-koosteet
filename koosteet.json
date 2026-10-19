@@ -1400,9 +1400,11 @@
 			"away": "CBJ",
 			"slug": "min-cbj",
 			"finalSeenAt": "2026-10-19T00:30:31.053Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-19T00:30:31.053Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/cbj-at-min-recap-6407062986112",
+			"nhlUrl": "https://www.nhl.com/video/cbj-at-min-recap-6407062986112",
+			"updatedAt": "2026-10-19T00:50:19.253Z"
 		}
 	}
 }
