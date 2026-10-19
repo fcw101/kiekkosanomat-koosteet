@@ -1414,9 +1414,11 @@
 			"away": "CAR",
 			"slug": "cgy-car",
 			"finalSeenAt": "2026-10-19T02:50:23.488Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-19T02:50:23.488Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/car-at-cgy-recap-6407066612112",
+			"nhlUrl": "https://www.nhl.com/video/car-at-cgy-recap-6407066612112",
+			"updatedAt": "2026-10-19T03:20:17.114Z"
 		}
 	}
 }
