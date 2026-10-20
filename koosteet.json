@@ -1491,10 +1491,14 @@
 			"slug": "uta-pit",
 			"finalSeenAt": "2026-10-20T03:50:22.035Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/pit-at-uta-recap-6407115520112",
+			"provider": "youtube",
+			"videoId": "tOgPWs_8sq0",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/tOgPWs_8sq0",
+			"watchUrl": "https://www.youtube.com/watch?v=tOgPWs_8sq0",
+			"sourceTitle": "Penguins vs. Mammoth | NHL Highlights | Oct 19, 2026",
+			"publishedAt": "2026-10-20T03:59:12.000Z",
 			"nhlUrl": "https://www.nhl.com/video/pit-at-uta-recap-6407115520112",
-			"updatedAt": "2026-10-20T04:20:26.678Z"
+			"updatedAt": "2026-10-20T07:00:20.525Z"
 		}
 	}
 }
