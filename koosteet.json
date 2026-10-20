@@ -1472,9 +1472,11 @@
 			"away": "SJS",
 			"slug": "tor-sjs",
 			"finalSeenAt": "2026-10-20T02:20:15.062Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-20T02:20:15.062Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/sjs-at-tor-recap-6407113089112",
+			"nhlUrl": "https://www.nhl.com/video/sjs-at-tor-recap-6407113089112",
+			"updatedAt": "2026-10-20T02:40:26.614Z"
 		}
 	}
 }
