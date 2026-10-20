@@ -1427,6 +1427,30 @@
 			"publishedAt": "2026-10-19T02:50:22.000Z",
 			"nhlUrl": "https://www.nhl.com/video/car-at-cgy-recap-6407066612112",
 			"updatedAt": "2026-10-19T05:00:27.168Z"
+		},
+		"2026020137": {
+			"gameId": "2026020137",
+			"date": "2026-10-19",
+			"start": "2026-10-19T23:00:00Z",
+			"home": "NYR",
+			"away": "ANA",
+			"slug": "nyr-ana",
+			"finalSeenAt": "2026-10-20T01:50:19.333Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-20T01:50:19.333Z"
+		},
+		"2026020138": {
+			"gameId": "2026020138",
+			"date": "2026-10-19",
+			"start": "2026-10-19T23:00:00Z",
+			"home": "PHI",
+			"away": "COL",
+			"slug": "phi-col",
+			"finalSeenAt": "2026-10-20T01:50:19.333Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-20T01:50:19.333Z"
 		}
 	}
 }
