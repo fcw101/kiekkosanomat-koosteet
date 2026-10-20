@@ -1436,9 +1436,11 @@
 			"away": "ANA",
 			"slug": "nyr-ana",
 			"finalSeenAt": "2026-10-20T01:50:19.333Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-20T01:50:19.333Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/ana-at-nyr-recap-6407110021112",
+			"nhlUrl": "https://www.nhl.com/video/ana-at-nyr-recap-6407110021112",
+			"updatedAt": "2026-10-20T02:00:21.194Z"
 		},
 		"2026020138": {
 			"gameId": "2026020138",
