@@ -1490,9 +1490,11 @@
 			"away": "PIT",
 			"slug": "uta-pit",
 			"finalSeenAt": "2026-10-20T03:50:22.035Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-20T03:50:22.035Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/pit-at-uta-recap-6407115520112",
+			"nhlUrl": "https://www.nhl.com/video/pit-at-uta-recap-6407115520112",
+			"updatedAt": "2026-10-20T04:20:26.678Z"
 		}
 	}
 }
