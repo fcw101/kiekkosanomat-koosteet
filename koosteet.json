@@ -1473,10 +1473,14 @@
 			"slug": "tor-sjs",
 			"finalSeenAt": "2026-10-20T02:20:15.062Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/sjs-at-tor-recap-6407113089112",
+			"provider": "youtube",
+			"videoId": "OQ1KvteZyE8",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/OQ1KvteZyE8",
+			"watchUrl": "https://www.youtube.com/watch?v=OQ1KvteZyE8",
+			"sourceTitle": "Sharks vs. Maple Leafs | NHL Highlights | Oct 19, 2026",
+			"publishedAt": "2026-10-20T02:40:59.000Z",
 			"nhlUrl": "https://www.nhl.com/video/sjs-at-tor-recap-6407113089112",
-			"updatedAt": "2026-10-20T02:40:26.614Z"
+			"updatedAt": "2026-10-20T03:30:22.718Z"
 		}
 	}
 }
