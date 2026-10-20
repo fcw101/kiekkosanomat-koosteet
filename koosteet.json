@@ -1481,6 +1481,18 @@
 			"publishedAt": "2026-10-20T02:40:59.000Z",
 			"nhlUrl": "https://www.nhl.com/video/sjs-at-tor-recap-6407113089112",
 			"updatedAt": "2026-10-20T03:30:22.718Z"
+		},
+		"2026020140": {
+			"gameId": "2026020140",
+			"date": "2026-10-19",
+			"start": "2026-10-20T01:00:00Z",
+			"home": "UTA",
+			"away": "PIT",
+			"slug": "uta-pit",
+			"finalSeenAt": "2026-10-20T03:50:22.035Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-20T03:50:22.035Z"
 		}
 	}
 }
