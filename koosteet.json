@@ -1672,9 +1672,11 @@
 			"away": "TBL",
 			"slug": "vgk-tbl",
 			"finalSeenAt": "2026-10-21T05:20:24.081Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-21T05:20:24.081Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/tbl-at-vgk-recap-6407167899112",
+			"nhlUrl": "https://www.nhl.com/video/tbl-at-vgk-recap-6407167899112",
+			"updatedAt": "2026-10-21T06:20:16.599Z"
 		}
 	}
 }
