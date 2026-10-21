@@ -1605,8 +1605,8 @@
 			"watchUrl": "https://www.youtube.com/watch?v=dJB0nDTqd3k",
 			"sourceTitle": "Jets vs. Blues | NHL Highlights | Oct 20, 2026",
 			"publishedAt": "2026-10-21T02:43:48.000Z",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-21T02:50:13.859Z"
+			"nhlUrl": "https://www.nhl.com/video/wpg-at-stl-recap-6407163114112",
+			"updatedAt": "2026-10-21T03:10:16.250Z"
 		},
 		"2026020147": {
 			"gameId": "2026020147",
@@ -1616,9 +1616,11 @@
 			"away": "BOS",
 			"slug": "dal-bos",
 			"finalSeenAt": "2026-10-21T02:50:13.859Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-21T02:50:13.859Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/bos-at-dal-recap-6407164206112",
+			"nhlUrl": "https://www.nhl.com/video/bos-at-dal-recap-6407164206112",
+			"updatedAt": "2026-10-21T03:10:16.250Z"
 		}
 	}
 }
