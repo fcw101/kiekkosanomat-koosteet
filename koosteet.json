@@ -1630,9 +1630,11 @@
 			"away": "MIN",
 			"slug": "edm-min",
 			"finalSeenAt": "2026-10-21T04:00:22.694Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-21T04:00:22.694Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/min-at-edm-recap-6407167709112",
+			"nhlUrl": "https://www.nhl.com/video/min-at-edm-recap-6407167709112",
+			"updatedAt": "2026-10-21T04:20:25.876Z"
 		}
 	}
 }
