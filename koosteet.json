@@ -1621,6 +1621,18 @@
 			"watchUrl": "https://www.nhl.com/video/bos-at-dal-recap-6407164206112",
 			"nhlUrl": "https://www.nhl.com/video/bos-at-dal-recap-6407164206112",
 			"updatedAt": "2026-10-21T03:10:16.250Z"
+		},
+		"2026020148": {
+			"gameId": "2026020148",
+			"date": "2026-10-20",
+			"start": "2026-10-21T01:00:00Z",
+			"home": "EDM",
+			"away": "MIN",
+			"slug": "edm-min",
+			"finalSeenAt": "2026-10-21T04:00:22.694Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-21T04:00:22.694Z"
 		}
 	}
 }
