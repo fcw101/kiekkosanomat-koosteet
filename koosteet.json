@@ -1644,9 +1644,11 @@
 			"away": "DET",
 			"slug": "sea-det",
 			"finalSeenAt": "2026-10-21T04:40:11.017Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-21T04:40:11.017Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/det-at-sea-recap-6407166588112",
+			"nhlUrl": "https://www.nhl.com/video/det-at-sea-recap-6407166588112",
+			"updatedAt": "2026-10-21T05:00:20.400Z"
 		},
 		"2026020150": {
 			"gameId": "2026020150",
