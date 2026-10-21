@@ -1646,9 +1646,9 @@
 			"finalSeenAt": "2026-10-21T04:40:11.017Z",
 			"status": "available",
 			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/det-at-sea-recap-6407166588112",
-			"nhlUrl": "https://www.nhl.com/video/det-at-sea-recap-6407166588112",
-			"updatedAt": "2026-10-21T05:00:20.400Z"
+			"watchUrl": "https://www.nhl.com/video/det-at-sea-recap-6407166181112",
+			"nhlUrl": "https://www.nhl.com/video/det-at-sea-recap-6407166181112",
+			"updatedAt": "2026-10-21T05:10:23.440Z"
 		},
 		"2026020150": {
 			"gameId": "2026020150",
@@ -1658,9 +1658,11 @@
 			"away": "CAR",
 			"slug": "van-car",
 			"finalSeenAt": "2026-10-21T04:50:17.921Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-21T04:50:17.921Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/car-at-van-recap-6407169122112",
+			"nhlUrl": "https://www.nhl.com/video/car-at-van-recap-6407169122112",
+			"updatedAt": "2026-10-21T05:10:23.440Z"
 		}
 	}
 }
