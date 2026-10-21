@@ -1499,6 +1499,42 @@
 			"publishedAt": "2026-10-20T03:59:12.000Z",
 			"nhlUrl": "https://www.nhl.com/video/pit-at-uta-recap-6407115520112",
 			"updatedAt": "2026-10-20T07:00:20.525Z"
+		},
+		"2026020142": {
+			"gameId": "2026020142",
+			"date": "2026-10-20",
+			"start": "2026-10-20T23:00:00Z",
+			"home": "NJD",
+			"away": "COL",
+			"slug": "njd-col",
+			"finalSeenAt": "2026-10-21T01:40:20.421Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-21T01:40:20.421Z"
+		},
+		"2026020143": {
+			"gameId": "2026020143",
+			"date": "2026-10-20",
+			"start": "2026-10-20T23:00:00Z",
+			"home": "NYI",
+			"away": "ANA",
+			"slug": "nyi-ana",
+			"finalSeenAt": "2026-10-21T01:40:20.421Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-21T01:40:20.421Z"
+		},
+		"2026020144": {
+			"gameId": "2026020144",
+			"date": "2026-10-20",
+			"start": "2026-10-20T23:00:00Z",
+			"home": "WSH",
+			"away": "LAK",
+			"slug": "wsh-lak",
+			"finalSeenAt": "2026-10-21T01:40:20.421Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-21T01:40:20.421Z"
 		}
 	}
 }
