@@ -1564,9 +1564,23 @@
 			"away": "TOR",
 			"slug": "cbj-tor",
 			"finalSeenAt": "2026-10-21T01:50:27.696Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/tor-at-cbj-recap-6407163180112",
+			"nhlUrl": "https://www.nhl.com/video/tor-at-cbj-recap-6407163180112",
+			"updatedAt": "2026-10-21T02:40:26.652Z"
+		},
+		"2026020146": {
+			"gameId": "2026020146",
+			"date": "2026-10-20",
+			"start": "2026-10-21T00:00:00Z",
+			"home": "STL",
+			"away": "WPG",
+			"slug": "stl-wpg",
+			"finalSeenAt": "2026-10-21T02:40:26.652Z",
 			"status": "pending",
 			"nhlUrl": null,
-			"updatedAt": "2026-10-21T01:50:27.696Z"
+			"updatedAt": "2026-10-21T02:40:26.652Z"
 		}
 	}
 }
