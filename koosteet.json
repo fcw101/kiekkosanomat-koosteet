@@ -1520,9 +1520,11 @@
 			"away": "COL",
 			"slug": "njd-col",
 			"finalSeenAt": "2026-10-21T01:40:20.421Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-21T01:40:20.421Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/col-at-njd-recap-6407160804112",
+			"nhlUrl": "https://www.nhl.com/video/col-at-njd-recap-6407160804112",
+			"updatedAt": "2026-10-21T01:57:35.878Z"
 		},
 		"2026020143": {
 			"gameId": "2026020143",
@@ -1532,9 +1534,11 @@
 			"away": "ANA",
 			"slug": "nyi-ana",
 			"finalSeenAt": "2026-10-21T01:40:20.421Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-21T01:40:20.421Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/ana-at-nyi-recap-6407162260112",
+			"nhlUrl": "https://www.nhl.com/video/ana-at-nyi-recap-6407162260112",
+			"updatedAt": "2026-10-21T01:57:35.878Z"
 		},
 		"2026020144": {
 			"gameId": "2026020144",
@@ -1544,9 +1548,11 @@
 			"away": "LAK",
 			"slug": "wsh-lak",
 			"finalSeenAt": "2026-10-21T01:40:20.421Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-21T01:40:20.421Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/lak-at-wsh-recap-6407162262112",
+			"nhlUrl": "https://www.nhl.com/video/lak-at-wsh-recap-6407162262112",
+			"updatedAt": "2026-10-21T01:57:35.878Z"
 		},
 		"2026020145": {
 			"gameId": "2026020145",
