@@ -1508,9 +1508,11 @@
 			"away": "SJS",
 			"slug": "mtl-sjs",
 			"finalSeenAt": "2026-10-21T01:50:27.696Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-21T01:50:27.696Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/sjs-at-mtl-recap-6407161869112",
+			"nhlUrl": "https://www.nhl.com/video/sjs-at-mtl-recap-6407161869112",
+			"updatedAt": "2026-10-21T02:10:12.636Z"
 		},
 		"2026020142": {
 			"gameId": "2026020142",
@@ -1522,9 +1524,9 @@
 			"finalSeenAt": "2026-10-21T01:40:20.421Z",
 			"status": "available",
 			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/col-at-njd-recap-6407160804112",
-			"nhlUrl": "https://www.nhl.com/video/col-at-njd-recap-6407160804112",
-			"updatedAt": "2026-10-21T01:57:35.878Z"
+			"watchUrl": "https://www.nhl.com/video/col-at-njd-recap-6407160909112",
+			"nhlUrl": "https://www.nhl.com/video/col-at-njd-recap-6407160909112",
+			"updatedAt": "2026-10-21T02:10:12.636Z"
 		},
 		"2026020143": {
 			"gameId": "2026020143",
