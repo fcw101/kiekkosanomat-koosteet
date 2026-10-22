@@ -1707,10 +1707,14 @@
 			"slug": "buf-phi",
 			"finalSeenAt": "2026-10-22T02:10:23.266Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/phi-at-buf-recap-6407212465112",
+			"provider": "youtube",
+			"videoId": "FiEgWCMykH4",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/FiEgWCMykH4",
+			"watchUrl": "https://www.youtube.com/watch?v=FiEgWCMykH4",
+			"sourceTitle": "Flyers vs. Sabres | NHL Highlights | Oct 21, 2026",
+			"publishedAt": "2026-10-22T02:26:06.000Z",
 			"nhlUrl": "https://www.nhl.com/video/phi-at-buf-recap-6407212465112",
-			"updatedAt": "2026-10-22T02:40:20.710Z"
+			"updatedAt": "2026-10-22T07:00:18.021Z"
 		},
 		"2026020153": {
 			"gameId": "2026020153",
@@ -1721,10 +1725,14 @@
 			"slug": "ott-fla",
 			"finalSeenAt": "2026-10-22T02:40:20.710Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/fla-at-ott-recap-6407213186112",
+			"provider": "youtube",
+			"videoId": "gyU5mDEYup8",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/gyU5mDEYup8",
+			"watchUrl": "https://www.youtube.com/watch?v=gyU5mDEYup8",
+			"sourceTitle": "Panthers vs. Senators | NHL Highlights | Oct 21, 2026",
+			"publishedAt": "2026-10-22T02:38:16.000Z",
 			"nhlUrl": "https://www.nhl.com/video/fla-at-ott-recap-6407213186112",
-			"updatedAt": "2026-10-22T03:11:06.107Z"
+			"updatedAt": "2026-10-22T07:00:18.021Z"
 		}
 	}
 }
