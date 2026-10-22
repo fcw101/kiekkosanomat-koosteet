@@ -1697,6 +1697,18 @@
 			"publishedAt": "2026-10-21T06:01:11.000Z",
 			"nhlUrl": "https://www.nhl.com/video/tbl-at-vgk-recap-6407167899112",
 			"updatedAt": "2026-10-21T07:00:17.107Z"
+		},
+		"2026020152": {
+			"gameId": "2026020152",
+			"date": "2026-10-21",
+			"start": "2026-10-21T23:30:00Z",
+			"home": "BUF",
+			"away": "PHI",
+			"slug": "buf-phi",
+			"finalSeenAt": "2026-10-22T02:10:23.266Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-22T02:10:23.266Z"
 		}
 	}
 }
