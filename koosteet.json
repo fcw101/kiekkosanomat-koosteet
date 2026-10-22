@@ -1706,9 +1706,23 @@
 			"away": "PHI",
 			"slug": "buf-phi",
 			"finalSeenAt": "2026-10-22T02:10:23.266Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/phi-at-buf-recap-6407212465112",
+			"nhlUrl": "https://www.nhl.com/video/phi-at-buf-recap-6407212465112",
+			"updatedAt": "2026-10-22T02:40:20.710Z"
+		},
+		"2026020153": {
+			"gameId": "2026020153",
+			"date": "2026-10-21",
+			"start": "2026-10-21T23:30:00Z",
+			"home": "OTT",
+			"away": "FLA",
+			"slug": "ott-fla",
+			"finalSeenAt": "2026-10-22T02:40:20.710Z",
 			"status": "pending",
 			"nhlUrl": null,
-			"updatedAt": "2026-10-22T02:10:23.266Z"
+			"updatedAt": "2026-10-22T02:40:20.710Z"
 		}
 	}
 }
