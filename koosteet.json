@@ -1720,9 +1720,11 @@
 			"away": "FLA",
 			"slug": "ott-fla",
 			"finalSeenAt": "2026-10-22T02:40:20.710Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-22T02:40:20.710Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/fla-at-ott-recap-6407213186112",
+			"nhlUrl": "https://www.nhl.com/video/fla-at-ott-recap-6407213186112",
+			"updatedAt": "2026-10-22T03:11:06.107Z"
 		}
 	}
 }
