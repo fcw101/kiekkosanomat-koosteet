@@ -1815,6 +1815,18 @@
 			"status": "pending",
 			"nhlUrl": null,
 			"updatedAt": "2026-10-23T02:20:22.198Z"
+		},
+		"2026020160": {
+			"gameId": "2026020160",
+			"date": "2026-10-22",
+			"start": "2026-10-23T00:00:00Z",
+			"home": "STL",
+			"away": "VGK",
+			"slug": "stl-vgk",
+			"finalSeenAt": "2026-10-23T02:40:16.674Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-23T02:40:16.674Z"
 		}
 	}
 }
