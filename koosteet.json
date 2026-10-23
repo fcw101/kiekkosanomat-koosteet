@@ -1868,9 +1868,23 @@
 			"away": "CAR",
 			"slug": "edm-car",
 			"finalSeenAt": "2026-10-23T04:20:26.253Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/car-at-edm-recap-6407272928112",
+			"nhlUrl": "https://www.nhl.com/video/car-at-edm-recap-6407272928112",
+			"updatedAt": "2026-10-23T04:30:28.305Z"
+		},
+		"2026020165": {
+			"gameId": "2026020165",
+			"date": "2026-10-22",
+			"start": "2026-10-23T02:00:00Z",
+			"home": "VAN",
+			"away": "DET",
+			"slug": "van-det",
+			"finalSeenAt": "2026-10-23T04:30:28.305Z",
 			"status": "pending",
 			"nhlUrl": null,
-			"updatedAt": "2026-10-23T04:20:26.253Z"
+			"updatedAt": "2026-10-23T04:30:28.305Z"
 		}
 	}
 }
