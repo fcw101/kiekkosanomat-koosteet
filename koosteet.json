@@ -1854,9 +1854,23 @@
 			"away": "MIN",
 			"slug": "cgy-min",
 			"finalSeenAt": "2026-10-23T03:50:22.174Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/min-at-cgy-recap-6407271020112",
+			"nhlUrl": "https://www.nhl.com/video/min-at-cgy-recap-6407271020112",
+			"updatedAt": "2026-10-23T04:20:26.253Z"
+		},
+		"2026020163": {
+			"gameId": "2026020163",
+			"date": "2026-10-22",
+			"start": "2026-10-23T01:00:00Z",
+			"home": "EDM",
+			"away": "CAR",
+			"slug": "edm-car",
+			"finalSeenAt": "2026-10-23T04:20:26.253Z",
 			"status": "pending",
 			"nhlUrl": null,
-			"updatedAt": "2026-10-23T03:50:22.174Z"
+			"updatedAt": "2026-10-23T04:20:26.253Z"
 		}
 	}
 }
