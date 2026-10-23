@@ -1812,9 +1812,11 @@
 			"away": "LAK",
 			"slug": "nyi-lak",
 			"finalSeenAt": "2026-10-23T02:20:22.198Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-23T02:20:22.198Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/lak-at-nyi-recap-6407269941112",
+			"nhlUrl": "https://www.nhl.com/video/lak-at-nyi-recap-6407269941112",
+			"updatedAt": "2026-10-23T03:20:21.216Z"
 		},
 		"2026020160": {
 			"gameId": "2026020160",
@@ -1824,9 +1826,25 @@
 			"away": "VGK",
 			"slug": "stl-vgk",
 			"finalSeenAt": "2026-10-23T02:40:16.674Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-23T02:40:16.674Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/vgk-at-stl-recap-6407268787112",
+			"nhlUrl": "https://www.nhl.com/video/vgk-at-stl-recap-6407268787112",
+			"updatedAt": "2026-10-23T03:20:21.216Z"
+		},
+		"2026020161": {
+			"gameId": "2026020161",
+			"date": "2026-10-22",
+			"start": "2026-10-23T00:00:00Z",
+			"home": "DAL",
+			"away": "WPG",
+			"slug": "dal-wpg",
+			"finalSeenAt": "2026-10-23T03:20:21.216Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/wpg-at-dal-recap-6407269684112",
+			"nhlUrl": "https://www.nhl.com/video/wpg-at-dal-recap-6407269684112",
+			"updatedAt": "2026-10-23T03:20:21.216Z"
 		}
 	}
 }
