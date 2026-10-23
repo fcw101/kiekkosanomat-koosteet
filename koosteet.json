@@ -1742,9 +1742,23 @@
 			"away": "NSH",
 			"slug": "bos-nsh",
 			"finalSeenAt": "2026-10-23T01:50:10.071Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/nsh-at-bos-recap-6407265065112",
+			"nhlUrl": "https://www.nhl.com/video/nsh-at-bos-recap-6407265065112",
+			"updatedAt": "2026-10-23T02:00:12.812Z"
+		},
+		"2026020155": {
+			"gameId": "2026020155",
+			"date": "2026-10-22",
+			"start": "2026-10-22T23:00:00Z",
+			"home": "TOR",
+			"away": "NYR",
+			"slug": "tor-nyr",
+			"finalSeenAt": "2026-10-23T02:00:12.812Z",
 			"status": "pending",
 			"nhlUrl": null,
-			"updatedAt": "2026-10-23T01:50:10.071Z"
+			"updatedAt": "2026-10-23T02:00:12.812Z"
 		},
 		"2026020156": {
 			"gameId": "2026020156",
@@ -1766,9 +1780,11 @@
 			"away": "ANA",
 			"slug": "njd-ana",
 			"finalSeenAt": "2026-10-23T01:50:10.071Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-23T01:50:10.071Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/ana-at-njd-recap-6407265842112",
+			"nhlUrl": "https://www.nhl.com/video/ana-at-njd-recap-6407265842112",
+			"updatedAt": "2026-10-23T02:00:12.812Z"
 		},
 		"2026020158": {
 			"gameId": "2026020158",
@@ -1778,9 +1794,11 @@
 			"away": "FLA",
 			"slug": "pit-fla",
 			"finalSeenAt": "2026-10-23T01:50:10.071Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-23T01:50:10.071Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/fla-at-pit-recap-6407267208112",
+			"nhlUrl": "https://www.nhl.com/video/fla-at-pit-recap-6407267208112",
+			"updatedAt": "2026-10-23T02:00:12.812Z"
 		}
 	}
 }
