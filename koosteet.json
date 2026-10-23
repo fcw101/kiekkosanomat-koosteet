@@ -1882,9 +1882,11 @@
 			"away": "DET",
 			"slug": "van-det",
 			"finalSeenAt": "2026-10-23T04:30:28.305Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-23T04:30:28.305Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/det-at-van-recap-6407276497112",
+			"nhlUrl": "https://www.nhl.com/video/det-at-van-recap-6407276497112",
+			"updatedAt": "2026-10-23T04:50:25.435Z"
 		}
 	}
 }
