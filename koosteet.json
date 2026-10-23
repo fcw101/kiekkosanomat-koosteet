@@ -1882,9 +1882,11 @@
 			"away": "UTA",
 			"slug": "sea-uta",
 			"finalSeenAt": "2026-10-23T05:00:11.379Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-23T05:00:11.379Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/uta-at-sea-recap-6407275615112",
+			"nhlUrl": "https://www.nhl.com/video/uta-at-sea-recap-6407275615112",
+			"updatedAt": "2026-10-23T05:20:22.395Z"
 		},
 		"2026020165": {
 			"gameId": "2026020165",
