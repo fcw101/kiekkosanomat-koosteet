@@ -1874,6 +1874,18 @@
 			"nhlUrl": "https://www.nhl.com/video/car-at-edm-recap-6407275101112",
 			"updatedAt": "2026-10-23T04:31:54.252Z"
 		},
+		"2026020164": {
+			"gameId": "2026020164",
+			"date": "2026-10-22",
+			"start": "2026-10-23T02:00:00Z",
+			"home": "SEA",
+			"away": "UTA",
+			"slug": "sea-uta",
+			"finalSeenAt": "2026-10-23T05:00:11.379Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-23T05:00:11.379Z"
+		},
 		"2026020165": {
 			"gameId": "2026020165",
 			"date": "2026-10-22",
@@ -1884,9 +1896,9 @@
 			"finalSeenAt": "2026-10-23T04:30:28.305Z",
 			"status": "available",
 			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/det-at-van-recap-6407276497112",
-			"nhlUrl": "https://www.nhl.com/video/det-at-van-recap-6407276497112",
-			"updatedAt": "2026-10-23T04:50:25.435Z"
+			"watchUrl": "https://www.nhl.com/video/det-at-van-recap-6407276994112",
+			"nhlUrl": "https://www.nhl.com/video/det-at-van-recap-6407276994112",
+			"updatedAt": "2026-10-23T05:00:11.379Z"
 		}
 	}
 }
