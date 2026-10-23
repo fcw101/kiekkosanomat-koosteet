@@ -1756,9 +1756,11 @@
 			"away": "NYR",
 			"slug": "tor-nyr",
 			"finalSeenAt": "2026-10-23T02:00:12.812Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-23T02:00:12.812Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/nyr-at-tor-recap-6407266748112",
+			"nhlUrl": "https://www.nhl.com/video/nyr-at-tor-recap-6407266748112",
+			"updatedAt": "2026-10-23T02:20:22.198Z"
 		},
 		"2026020156": {
 			"gameId": "2026020156",
@@ -1801,6 +1803,18 @@
 			"watchUrl": "https://www.nhl.com/video/fla-at-pit-recap-6407266256112",
 			"nhlUrl": "https://www.nhl.com/video/fla-at-pit-recap-6407266256112",
 			"updatedAt": "2026-10-23T02:10:17.378Z"
+		},
+		"2026020159": {
+			"gameId": "2026020159",
+			"date": "2026-10-22",
+			"start": "2026-10-22T23:30:00Z",
+			"home": "NYI",
+			"away": "LAK",
+			"slug": "nyi-lak",
+			"finalSeenAt": "2026-10-23T02:20:22.198Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-23T02:20:22.198Z"
 		}
 	}
 }
