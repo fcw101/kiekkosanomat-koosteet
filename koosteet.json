@@ -2003,6 +2003,18 @@
 			"publishedAt": "2026-10-24T20:10:30.000Z",
 			"nhlUrl": "https://www.nhl.com/video/ana-at-phi-recap-6407349778112",
 			"updatedAt": "2026-10-24T20:15:21.367Z"
+		},
+		"2026020169": {
+			"gameId": "2026020169",
+			"date": "2026-10-24",
+			"start": "2026-10-24T19:30:00Z",
+			"home": "NJD",
+			"away": "LAK",
+			"slug": "njd-lak",
+			"finalSeenAt": "2026-10-24T22:00:12.085Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-24T22:00:12.085Z"
 		}
 	}
 }
