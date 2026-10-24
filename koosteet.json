@@ -1972,9 +1972,11 @@
 			"away": "TBL",
 			"slug": "col-tbl",
 			"finalSeenAt": "2026-10-24T04:20:28.389Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-24T04:20:28.389Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/tbl-at-col-recap-6407323125112",
+			"nhlUrl": "https://www.nhl.com/video/tbl-at-col-recap-6407323125112",
+			"updatedAt": "2026-10-24T04:22:22.093Z"
 		}
 	}
 }
