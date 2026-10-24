@@ -2012,9 +2012,15 @@
 			"away": "LAK",
 			"slug": "njd-lak",
 			"finalSeenAt": "2026-10-24T22:00:12.085Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-24T22:00:12.085Z"
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "n2r2lz5mwXI",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/n2r2lz5mwXI",
+			"watchUrl": "https://www.youtube.com/watch?v=n2r2lz5mwXI",
+			"sourceTitle": "Kings vs. Devils | NHL Highlights | Oct 24, 2026",
+			"publishedAt": "2026-10-24T22:12:35.000Z",
+			"nhlUrl": "https://www.nhl.com/video/lak-at-njd-recap-6407353983112",
+			"updatedAt": "2026-10-24T22:40:16.772Z"
 		}
 	}
 }
