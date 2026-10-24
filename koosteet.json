@@ -1949,6 +1949,20 @@
 			"publishedAt": "2026-10-23T04:43:11.000Z",
 			"nhlUrl": "https://www.nhl.com/video/det-at-van-recap-6407276994112",
 			"updatedAt": "2026-10-23T05:30:24.070Z"
+		},
+		"2026020166": {
+			"gameId": "2026020166",
+			"date": "2026-10-23",
+			"start": "2026-10-24T00:00:00Z",
+			"home": "CHI",
+			"away": "MTL",
+			"slug": "chi-mtl",
+			"finalSeenAt": "2026-10-24T03:00:59.139Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/mtl-at-chi-recap-6407320484112",
+			"nhlUrl": "https://www.nhl.com/video/mtl-at-chi-recap-6407320484112",
+			"updatedAt": "2026-10-24T03:00:59.139Z"
 		}
 	}
 }
