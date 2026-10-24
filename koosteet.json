@@ -1985,6 +1985,24 @@
 			"publishedAt": "2026-10-24T04:25:24.000Z",
 			"nhlUrl": "https://www.nhl.com/video/tbl-at-col-recap-6407323125112",
 			"updatedAt": "2026-10-24T07:00:12.314Z"
+		},
+		"2026020168": {
+			"gameId": "2026020168",
+			"date": "2026-10-24",
+			"start": "2026-10-24T17:00:00Z",
+			"home": "PHI",
+			"away": "ANA",
+			"slug": "phi-ana",
+			"finalSeenAt": "2026-10-24T20:15:21.367Z",
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "uyWmKeedtS0",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/uyWmKeedtS0",
+			"watchUrl": "https://www.youtube.com/watch?v=uyWmKeedtS0",
+			"sourceTitle": "Ducks vs. Flyers | NHL Highlights | Oct 24, 2026",
+			"publishedAt": "2026-10-24T20:10:30.000Z",
+			"nhlUrl": "https://www.nhl.com/video/ana-at-phi-recap-6407349778112",
+			"updatedAt": "2026-10-24T20:15:21.367Z"
 		}
 	}
 }
