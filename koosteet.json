@@ -1963,6 +1963,18 @@
 			"watchUrl": "https://www.nhl.com/video/mtl-at-chi-recap-6407320484112",
 			"nhlUrl": "https://www.nhl.com/video/mtl-at-chi-recap-6407320484112",
 			"updatedAt": "2026-10-24T03:00:59.139Z"
+		},
+		"2026020167": {
+			"gameId": "2026020167",
+			"date": "2026-10-23",
+			"start": "2026-10-24T01:00:00Z",
+			"home": "COL",
+			"away": "TBL",
+			"slug": "col-tbl",
+			"finalSeenAt": "2026-10-24T04:20:28.389Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-24T04:20:28.389Z"
 		}
 	}
 }
