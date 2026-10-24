@@ -1959,10 +1959,14 @@
 			"slug": "chi-mtl",
 			"finalSeenAt": "2026-10-24T03:00:59.139Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/mtl-at-chi-recap-6407320484112",
+			"provider": "youtube",
+			"videoId": "BvKeBTlwabM",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/BvKeBTlwabM",
+			"watchUrl": "https://www.youtube.com/watch?v=BvKeBTlwabM",
+			"sourceTitle": "Canadiens vs. Blackhawks | NHL Highlights | Oct 23, 2026",
+			"publishedAt": "2026-10-24T02:55:14.000Z",
 			"nhlUrl": "https://www.nhl.com/video/mtl-at-chi-recap-6407320484112",
-			"updatedAt": "2026-10-24T03:00:59.139Z"
+			"updatedAt": "2026-10-24T07:00:12.314Z"
 		},
 		"2026020167": {
 			"gameId": "2026020167",
@@ -1973,10 +1977,14 @@
 			"slug": "col-tbl",
 			"finalSeenAt": "2026-10-24T04:20:28.389Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/tbl-at-col-recap-6407323125112",
+			"provider": "youtube",
+			"videoId": "VPyMhbPeFfM",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/VPyMhbPeFfM",
+			"watchUrl": "https://www.youtube.com/watch?v=VPyMhbPeFfM",
+			"sourceTitle": "Lightning vs. Avalanche | NHL Highlights | Oct 23, 2026",
+			"publishedAt": "2026-10-24T04:25:24.000Z",
 			"nhlUrl": "https://www.nhl.com/video/tbl-at-col-recap-6407323125112",
-			"updatedAt": "2026-10-24T04:22:22.093Z"
+			"updatedAt": "2026-10-24T07:00:12.314Z"
 		}
 	}
 }
