@@ -2156,9 +2156,11 @@
 			"away": "MIN",
 			"slug": "sea-min",
 			"finalSeenAt": "2026-10-25T05:00:25.458Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-25T05:00:25.458Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/min-at-sea-recap-6407369442112",
+			"nhlUrl": "https://www.nhl.com/video/min-at-sea-recap-6407369442112",
+			"updatedAt": "2026-10-25T05:10:14.491Z"
 		}
 	}
 }
