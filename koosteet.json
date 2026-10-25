@@ -2133,6 +2133,32 @@
 			"watchUrl": "https://www.nhl.com/video/tbl-at-uta-recap-6407369105112",
 			"nhlUrl": "https://www.nhl.com/video/tbl-at-uta-recap-6407369105112",
 			"updatedAt": "2026-10-25T04:26:11.688Z"
+		},
+		"2026020178": {
+			"gameId": "2026020178",
+			"date": "2026-10-24",
+			"start": "2026-10-25T02:00:00Z",
+			"home": "CGY",
+			"away": "DET",
+			"slug": "cgy-det",
+			"finalSeenAt": "2026-10-25T05:00:25.458Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/det-at-cgy-recap-6407369333112",
+			"nhlUrl": "https://www.nhl.com/video/det-at-cgy-recap-6407369333112",
+			"updatedAt": "2026-10-25T05:00:25.458Z"
+		},
+		"2026020179": {
+			"gameId": "2026020179",
+			"date": "2026-10-24",
+			"start": "2026-10-25T02:00:00Z",
+			"home": "SEA",
+			"away": "MIN",
+			"slug": "sea-min",
+			"finalSeenAt": "2026-10-25T05:00:25.458Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-25T05:00:25.458Z"
 		}
 	}
 }
