@@ -2119,6 +2119,20 @@
 			"watchUrl": "https://www.nhl.com/video/tor-at-edm-recap-6407363673112",
 			"nhlUrl": "https://www.nhl.com/video/tor-at-edm-recap-6407363673112",
 			"updatedAt": "2026-10-25T02:50:16.176Z"
+		},
+		"2026020177": {
+			"gameId": "2026020177",
+			"date": "2026-10-24",
+			"start": "2026-10-25T01:00:00Z",
+			"home": "UTA",
+			"away": "TBL",
+			"slug": "uta-tbl",
+			"finalSeenAt": "2026-10-25T04:26:11.688Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/tbl-at-uta-recap-6407369105112",
+			"nhlUrl": "https://www.nhl.com/video/tbl-at-uta-recap-6407369105112",
+			"updatedAt": "2026-10-25T04:26:11.688Z"
 		}
 	}
 }
