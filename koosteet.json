@@ -2201,6 +2201,18 @@
 			"publishedAt": "2026-10-25T05:05:55.000Z",
 			"nhlUrl": "https://www.nhl.com/video/min-at-sea-recap-6407369442112",
 			"updatedAt": "2026-10-25T07:00:24.894Z"
+		},
+		"2026020180": {
+			"gameId": "2026020180",
+			"date": "2026-10-25",
+			"start": "2026-10-25T19:00:00Z",
+			"home": "CHI",
+			"away": "FLA",
+			"slug": "chi-fla",
+			"finalSeenAt": "2026-10-25T21:50:28.418Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-25T21:50:28.418Z"
 		}
 	}
 }
