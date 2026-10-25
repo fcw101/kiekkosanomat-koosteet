@@ -2210,9 +2210,15 @@
 			"away": "FLA",
 			"slug": "chi-fla",
 			"finalSeenAt": "2026-10-25T21:50:28.418Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-25T21:50:28.418Z"
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "54ZniUGLBew",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/54ZniUGLBew",
+			"watchUrl": "https://www.youtube.com/watch?v=54ZniUGLBew",
+			"sourceTitle": "Panthers vs. Blackhawks | NHL Highlights | Oct 25, 2026",
+			"publishedAt": "2026-10-25T22:04:08.000Z",
+			"nhlUrl": "https://www.nhl.com/video/fla-at-chi-recap-6407393639112",
+			"updatedAt": "2026-10-25T22:05:27.963Z"
 		}
 	}
 }
