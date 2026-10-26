@@ -2270,9 +2270,11 @@
 			"away": "MIN",
 			"slug": "van-min",
 			"finalSeenAt": "2026-10-26T04:40:28.936Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-26T04:40:28.936Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/min-at-van-recap-6407407581112",
+			"nhlUrl": "https://www.nhl.com/video/min-at-van-recap-6407407581112",
+			"updatedAt": "2026-10-26T05:10:18.999Z"
 		}
 	}
 }
