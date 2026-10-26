@@ -2219,6 +2219,18 @@
 			"publishedAt": "2026-10-25T22:04:08.000Z",
 			"nhlUrl": "https://www.nhl.com/video/fla-at-chi-recap-6407394718112",
 			"updatedAt": "2026-10-25T22:20:24.431Z"
+		},
+		"2026020181": {
+			"gameId": "2026020181",
+			"date": "2026-10-25",
+			"start": "2026-10-25T22:00:00Z",
+			"home": "DAL",
+			"away": "NYI",
+			"slug": "dal-nyi",
+			"finalSeenAt": "2026-10-26T00:40:27.136Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-26T00:40:27.136Z"
 		}
 	}
 }
