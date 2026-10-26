@@ -2228,9 +2228,11 @@
 			"away": "NYI",
 			"slug": "dal-nyi",
 			"finalSeenAt": "2026-10-26T00:40:27.136Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-26T00:40:27.136Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/nyi-at-dal-recap-6407400716112",
+			"nhlUrl": "https://www.nhl.com/video/nyi-at-dal-recap-6407400716112",
+			"updatedAt": "2026-10-26T00:51:15.936Z"
 		}
 	}
 }
