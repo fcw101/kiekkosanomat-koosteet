@@ -2261,6 +2261,18 @@
 			"watchUrl": "https://www.nhl.com/video/col-at-nsh-recap-6407404354112",
 			"nhlUrl": "https://www.nhl.com/video/col-at-nsh-recap-6407404354112",
 			"updatedAt": "2026-10-26T03:10:21.727Z"
+		},
+		"2026020184": {
+			"gameId": "2026020184",
+			"date": "2026-10-25",
+			"start": "2026-10-26T02:00:00Z",
+			"home": "VAN",
+			"away": "MIN",
+			"slug": "van-min",
+			"finalSeenAt": "2026-10-26T04:40:28.936Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-26T04:40:28.936Z"
 		}
 	}
 }
