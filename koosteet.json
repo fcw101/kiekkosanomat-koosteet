@@ -2229,10 +2229,14 @@
 			"slug": "dal-nyi",
 			"finalSeenAt": "2026-10-26T00:40:27.136Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/nyi-at-dal-recap-6407400716112",
+			"provider": "youtube",
+			"videoId": "Kvga5mA6K8c",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/Kvga5mA6K8c",
+			"watchUrl": "https://www.youtube.com/watch?v=Kvga5mA6K8c",
+			"sourceTitle": "Islanders vs. Stars | NHL Highlights | Oct 25, 2026",
+			"publishedAt": "2026-10-26T00:42:43.000Z",
 			"nhlUrl": "https://www.nhl.com/video/nyi-at-dal-recap-6407400716112",
-			"updatedAt": "2026-10-26T00:51:15.936Z"
+			"updatedAt": "2026-10-26T07:00:29.420Z"
 		},
 		"2026020182": {
 			"gameId": "2026020182",
@@ -2257,10 +2261,14 @@
 			"slug": "nsh-col",
 			"finalSeenAt": "2026-10-26T02:46:29.025Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/col-at-nsh-recap-6407404354112",
+			"provider": "youtube",
+			"videoId": "7L_-NPYXk0U",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/7L_-NPYXk0U",
+			"watchUrl": "https://www.youtube.com/watch?v=7L_-NPYXk0U",
+			"sourceTitle": "Avalanche vs. Predators | NHL Highlights | Oct 25, 2026",
+			"publishedAt": "2026-10-26T03:00:41.000Z",
 			"nhlUrl": "https://www.nhl.com/video/col-at-nsh-recap-6407404354112",
-			"updatedAt": "2026-10-26T03:10:21.727Z"
+			"updatedAt": "2026-10-26T07:00:29.420Z"
 		},
 		"2026020184": {
 			"gameId": "2026020184",
@@ -2271,10 +2279,14 @@
 			"slug": "van-min",
 			"finalSeenAt": "2026-10-26T04:40:28.936Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/min-at-van-recap-6407407581112",
+			"provider": "youtube",
+			"videoId": "vEVsQD5oslA",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/vEVsQD5oslA",
+			"watchUrl": "https://www.youtube.com/watch?v=vEVsQD5oslA",
+			"sourceTitle": "Wild vs. Canucks | NHL Highlights | Oct 25, 2026",
+			"publishedAt": "2026-10-26T04:50:51.000Z",
 			"nhlUrl": "https://www.nhl.com/video/min-at-van-recap-6407407581112",
-			"updatedAt": "2026-10-26T05:10:18.999Z"
+			"updatedAt": "2026-10-26T07:00:29.420Z"
 		}
 	}
 }
