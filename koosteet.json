@@ -2233,6 +2233,18 @@
 			"watchUrl": "https://www.nhl.com/video/nyi-at-dal-recap-6407400716112",
 			"nhlUrl": "https://www.nhl.com/video/nyi-at-dal-recap-6407400716112",
 			"updatedAt": "2026-10-26T00:51:15.936Z"
+		},
+		"2026020182": {
+			"gameId": "2026020182",
+			"date": "2026-10-25",
+			"start": "2026-10-25T23:00:00Z",
+			"home": "WPG",
+			"away": "MTL",
+			"slug": "wpg-mtl",
+			"finalSeenAt": "2026-10-26T02:00:27.476Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-26T02:00:27.476Z"
 		}
 	}
 }
