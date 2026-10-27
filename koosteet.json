@@ -2301,6 +2301,20 @@
 			"watchUrl": "https://www.nhl.com/video/lak-at-nyr-recap-6407450310112",
 			"nhlUrl": "https://www.nhl.com/video/lak-at-nyr-recap-6407450310112",
 			"updatedAt": "2026-10-27T02:50:31.412Z"
+		},
+		"2026020186": {
+			"gameId": "2026020186",
+			"date": "2026-10-26",
+			"start": "2026-10-27T00:30:00Z",
+			"home": "CGY",
+			"away": "TOR",
+			"slug": "cgy-tor",
+			"finalSeenAt": "2026-10-27T03:40:13.402Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/tor-at-cgy-recap-6407452646112",
+			"nhlUrl": "https://www.nhl.com/video/tor-at-cgy-recap-6407452646112",
+			"updatedAt": "2026-10-27T03:40:13.402Z"
 		}
 	}
 }
