@@ -2315,6 +2315,18 @@
 			"watchUrl": "https://www.nhl.com/video/tor-at-cgy-recap-6407452646112",
 			"nhlUrl": "https://www.nhl.com/video/tor-at-cgy-recap-6407452646112",
 			"updatedAt": "2026-10-27T03:40:13.402Z"
+		},
+		"2026020187": {
+			"gameId": "2026020187",
+			"date": "2026-10-26",
+			"start": "2026-10-27T01:30:00Z",
+			"home": "EDM",
+			"away": "DET",
+			"slug": "edm-det",
+			"finalSeenAt": "2026-10-27T04:40:22.267Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-27T04:40:22.267Z"
 		}
 	}
 }
