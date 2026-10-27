@@ -2324,9 +2324,11 @@
 			"away": "DET",
 			"slug": "edm-det",
 			"finalSeenAt": "2026-10-27T04:40:22.267Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-27T04:40:22.267Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/det-at-edm-recap-6407453985112",
+			"nhlUrl": "https://www.nhl.com/video/det-at-edm-recap-6407453985112",
+			"updatedAt": "2026-10-27T05:20:18.910Z"
 		}
 	}
 }
