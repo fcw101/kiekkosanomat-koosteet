@@ -2297,10 +2297,14 @@
 			"slug": "nyr-lak",
 			"finalSeenAt": "2026-10-27T02:20:30.146Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/lak-at-nyr-recap-6407450310112",
+			"provider": "youtube",
+			"videoId": "703SY6hadII",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/703SY6hadII",
+			"watchUrl": "https://www.youtube.com/watch?v=703SY6hadII",
+			"sourceTitle": "Kings vs. Rangers | NHL Highlights | Oct 26, 2026",
+			"publishedAt": "2026-10-27T02:16:58.000Z",
 			"nhlUrl": "https://www.nhl.com/video/lak-at-nyr-recap-6407450310112",
-			"updatedAt": "2026-10-27T02:50:31.412Z"
+			"updatedAt": "2026-10-27T07:00:21.636Z"
 		},
 		"2026020186": {
 			"gameId": "2026020186",
@@ -2311,10 +2315,14 @@
 			"slug": "cgy-tor",
 			"finalSeenAt": "2026-10-27T03:40:13.402Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/tor-at-cgy-recap-6407452646112",
+			"provider": "youtube",
+			"videoId": "7TnQuLk7MGw",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/7TnQuLk7MGw",
+			"watchUrl": "https://www.youtube.com/watch?v=7TnQuLk7MGw",
+			"sourceTitle": "Maple Leafs vs. Flames | NHL Highlights | Oct 26, 2026",
+			"publishedAt": "2026-10-27T04:47:50.000Z",
 			"nhlUrl": "https://www.nhl.com/video/tor-at-cgy-recap-6407452646112",
-			"updatedAt": "2026-10-27T03:40:13.402Z"
+			"updatedAt": "2026-10-27T07:00:21.636Z"
 		},
 		"2026020187": {
 			"gameId": "2026020187",
@@ -2325,10 +2333,14 @@
 			"slug": "edm-det",
 			"finalSeenAt": "2026-10-27T04:40:22.267Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/det-at-edm-recap-6407453985112",
+			"provider": "youtube",
+			"videoId": "6wTBZ0GTo8k",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/6wTBZ0GTo8k",
+			"watchUrl": "https://www.youtube.com/watch?v=6wTBZ0GTo8k",
+			"sourceTitle": "Red Wings vs. Oilers | NHL Highlights | Oct 26, 2026",
+			"publishedAt": "2026-10-27T04:47:40.000Z",
 			"nhlUrl": "https://www.nhl.com/video/det-at-edm-recap-6407453985112",
-			"updatedAt": "2026-10-27T05:20:18.910Z"
+			"updatedAt": "2026-10-27T07:00:21.636Z"
 		}
 	}
 }
