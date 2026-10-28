@@ -2364,9 +2364,11 @@
 			"away": "BOS",
 			"slug": "car-bos",
 			"finalSeenAt": "2026-10-28T02:50:18.196Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-28T02:50:18.196Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/bos-at-car-recap-6407510103112",
+			"nhlUrl": "https://www.nhl.com/video/bos-at-car-recap-6407510103112",
+			"updatedAt": "2026-10-28T03:20:30.673Z"
 		},
 		"2026020190": {
 			"gameId": "2026020190",
@@ -2430,9 +2432,9 @@
 			"finalSeenAt": "2026-10-28T02:50:18.196Z",
 			"status": "available",
 			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/fla-at-wpg-recap-6407510101112",
-			"nhlUrl": "https://www.nhl.com/video/fla-at-wpg-recap-6407510101112",
-			"updatedAt": "2026-10-28T03:10:24.856Z"
+			"watchUrl": "https://www.nhl.com/video/fla-at-wpg-recap-6407509403112",
+			"nhlUrl": "https://www.nhl.com/video/fla-at-wpg-recap-6407509403112",
+			"updatedAt": "2026-10-28T03:20:30.673Z"
 		}
 	}
 }
