@@ -2490,9 +2490,11 @@
 			"away": "BUF",
 			"slug": "sjs-buf",
 			"finalSeenAt": "2026-10-28T05:22:35.886Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-28T05:22:35.886Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/buf-at-sjs-recap-6407512913112",
+			"nhlUrl": "https://www.nhl.com/video/buf-at-sjs-recap-6407512913112",
+			"updatedAt": "2026-10-28T05:50:21.022Z"
 		}
 	}
 }
