@@ -2462,9 +2462,11 @@
 			"away": "OTT",
 			"slug": "vgk-ott",
 			"finalSeenAt": "2026-10-28T05:00:27.844Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-28T05:00:27.844Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/ott-at-vgk-recap-6407514951112",
+			"nhlUrl": "https://www.nhl.com/video/ott-at-vgk-recap-6407514951112",
+			"updatedAt": "2026-10-28T05:22:35.886Z"
 		},
 		"2026020197": {
 			"gameId": "2026020197",
@@ -2474,9 +2476,23 @@
 			"away": "VAN",
 			"slug": "ana-van",
 			"finalSeenAt": "2026-10-28T05:00:27.844Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/van-at-ana-recap-6407513683112",
+			"nhlUrl": "https://www.nhl.com/video/van-at-ana-recap-6407513683112",
+			"updatedAt": "2026-10-28T05:22:35.886Z"
+		},
+		"2026020198": {
+			"gameId": "2026020198",
+			"date": "2026-10-27",
+			"start": "2026-10-28T02:30:00Z",
+			"home": "SJS",
+			"away": "BUF",
+			"slug": "sjs-buf",
+			"finalSeenAt": "2026-10-28T05:22:35.886Z",
 			"status": "pending",
 			"nhlUrl": null,
-			"updatedAt": "2026-10-28T05:00:27.844Z"
+			"updatedAt": "2026-10-28T05:22:35.886Z"
 		}
 	}
 }
