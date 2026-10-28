@@ -2448,9 +2448,11 @@
 			"away": "MIN",
 			"slug": "uta-min",
 			"finalSeenAt": "2026-10-28T04:00:19.790Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-28T04:00:19.790Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/min-at-uta-recap-6407511566112",
+			"nhlUrl": "https://www.nhl.com/video/min-at-uta-recap-6407511566112",
+			"updatedAt": "2026-10-28T04:20:11.814Z"
 		}
 	}
 }
