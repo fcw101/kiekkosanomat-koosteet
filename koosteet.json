@@ -2376,9 +2376,11 @@
 			"away": "LAK",
 			"slug": "chi-lak",
 			"finalSeenAt": "2026-10-28T02:50:18.196Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-28T02:50:18.196Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/lak-at-chi-recap-6407506629112",
+			"nhlUrl": "https://www.nhl.com/video/lak-at-chi-recap-6407506629112",
+			"updatedAt": "2026-10-28T03:10:24.856Z"
 		},
 		"2026020191": {
 			"gameId": "2026020191",
@@ -2412,9 +2414,11 @@
 			"away": "NJD",
 			"slug": "dal-njd",
 			"finalSeenAt": "2026-10-28T02:50:18.196Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-28T02:50:18.196Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/njd-at-dal-recap-6407509212112",
+			"nhlUrl": "https://www.nhl.com/video/njd-at-dal-recap-6407509212112",
+			"updatedAt": "2026-10-28T03:10:24.856Z"
 		},
 		"2026020194": {
 			"gameId": "2026020194",
@@ -2424,9 +2428,11 @@
 			"away": "FLA",
 			"slug": "wpg-fla",
 			"finalSeenAt": "2026-10-28T02:50:18.196Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-28T02:50:18.196Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/fla-at-wpg-recap-6407510101112",
+			"nhlUrl": "https://www.nhl.com/video/fla-at-wpg-recap-6407510101112",
+			"updatedAt": "2026-10-28T03:10:24.856Z"
 		}
 	}
 }
