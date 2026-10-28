@@ -2341,6 +2341,18 @@
 			"publishedAt": "2026-10-27T04:47:40.000Z",
 			"nhlUrl": "https://www.nhl.com/video/det-at-edm-recap-6407453985112",
 			"updatedAt": "2026-10-27T07:00:21.636Z"
+		},
+		"2026020188": {
+			"gameId": "2026020188",
+			"date": "2026-10-27",
+			"start": "2026-10-27T23:00:00Z",
+			"home": "PHI",
+			"away": "CBJ",
+			"slug": "phi-cbj",
+			"finalSeenAt": "2026-10-28T01:40:29.282Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-28T01:40:29.282Z"
 		}
 	}
 }
