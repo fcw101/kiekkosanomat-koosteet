@@ -2366,9 +2366,9 @@
 			"finalSeenAt": "2026-10-28T02:50:18.196Z",
 			"status": "available",
 			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/bos-at-car-recap-6407510103112",
-			"nhlUrl": "https://www.nhl.com/video/bos-at-car-recap-6407510103112",
-			"updatedAt": "2026-10-28T03:20:30.673Z"
+			"watchUrl": "https://www.nhl.com/video/bos-at-car-recap-6407507563112",
+			"nhlUrl": "https://www.nhl.com/video/bos-at-car-recap-6407507563112",
+			"updatedAt": "2026-10-28T03:30:12.063Z"
 		},
 		"2026020190": {
 			"gameId": "2026020190",
@@ -2392,9 +2392,11 @@
 			"away": "MTL",
 			"slug": "stl-mtl",
 			"finalSeenAt": "2026-10-28T02:50:18.196Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-28T02:50:18.196Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/mtl-at-stl-recap-6407510404112",
+			"nhlUrl": "https://www.nhl.com/video/mtl-at-stl-recap-6407510404112",
+			"updatedAt": "2026-10-28T03:30:12.063Z"
 		},
 		"2026020192": {
 			"gameId": "2026020192",
@@ -2404,9 +2406,11 @@
 			"away": "NYI",
 			"slug": "nsh-nyi",
 			"finalSeenAt": "2026-10-28T02:50:18.196Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-28T02:50:18.196Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/nyi-at-nsh-recap-6407509920112",
+			"nhlUrl": "https://www.nhl.com/video/nyi-at-nsh-recap-6407509920112",
+			"updatedAt": "2026-10-28T03:30:12.063Z"
 		},
 		"2026020193": {
 			"gameId": "2026020193",
