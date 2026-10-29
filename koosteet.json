@@ -2549,6 +2549,18 @@
 			"watchUrl": "https://www.nhl.com/video/phi-at-wsh-recap-6407568251112",
 			"nhlUrl": "https://www.nhl.com/video/phi-at-wsh-recap-6407568251112",
 			"updatedAt": "2026-10-29T02:50:19.330Z"
+		},
+		"2026020200": {
+			"gameId": "2026020200",
+			"date": "2026-10-28",
+			"start": "2026-10-29T00:30:00Z",
+			"home": "EDM",
+			"away": "CGY",
+			"slug": "edm-cgy",
+			"finalSeenAt": "2026-10-29T03:20:12.380Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-29T03:20:12.380Z"
 		}
 	}
 }
