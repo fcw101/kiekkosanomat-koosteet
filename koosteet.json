@@ -2544,9 +2544,11 @@
 			"away": "PHI",
 			"slug": "wsh-phi",
 			"finalSeenAt": "2026-10-29T02:20:29.399Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-29T02:20:29.399Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/phi-at-wsh-recap-6407568251112",
+			"nhlUrl": "https://www.nhl.com/video/phi-at-wsh-recap-6407568251112",
+			"updatedAt": "2026-10-29T02:50:19.330Z"
 		}
 	}
 }
