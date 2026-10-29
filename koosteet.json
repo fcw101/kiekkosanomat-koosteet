@@ -2545,10 +2545,14 @@
 			"slug": "wsh-phi",
 			"finalSeenAt": "2026-10-29T02:20:29.399Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/phi-at-wsh-recap-6407568251112",
+			"provider": "youtube",
+			"videoId": "54nsfz7zh64",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/54nsfz7zh64",
+			"watchUrl": "https://www.youtube.com/watch?v=54nsfz7zh64",
+			"sourceTitle": "Flyers vs. Capitals | NHL Highlights | Oct 28, 2026",
+			"publishedAt": "2026-10-29T02:24:28.000Z",
 			"nhlUrl": "https://www.nhl.com/video/phi-at-wsh-recap-6407568251112",
-			"updatedAt": "2026-10-29T02:50:19.330Z"
+			"updatedAt": "2026-10-29T07:00:20.676Z"
 		},
 		"2026020200": {
 			"gameId": "2026020200",
@@ -2559,10 +2563,14 @@
 			"slug": "edm-cgy",
 			"finalSeenAt": "2026-10-29T03:20:12.380Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/cgy-at-edm-recap-6407573225112",
+			"provider": "youtube",
+			"videoId": "97q7fqqNdPY",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/97q7fqqNdPY",
+			"watchUrl": "https://www.youtube.com/watch?v=97q7fqqNdPY",
+			"sourceTitle": "Flames vs. Oilers | NHL Highlights | Oct 28, 2026",
+			"publishedAt": "2026-10-29T03:33:15.000Z",
 			"nhlUrl": "https://www.nhl.com/video/cgy-at-edm-recap-6407573225112",
-			"updatedAt": "2026-10-29T04:00:15.730Z"
+			"updatedAt": "2026-10-29T07:00:20.676Z"
 		},
 		"2026020201": {
 			"gameId": "2026020201",
@@ -2573,10 +2581,14 @@
 			"slug": "col-njd",
 			"finalSeenAt": "2026-10-29T04:00:15.730Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/njd-at-col-recap-6407572774112",
+			"provider": "youtube",
+			"videoId": "gzg8u8_kDbA",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/gzg8u8_kDbA",
+			"watchUrl": "https://www.youtube.com/watch?v=gzg8u8_kDbA",
+			"sourceTitle": "Devils vs. Avalanche | NHL Highlights | Oct 28, 2026",
+			"publishedAt": "2026-10-29T04:00:44.000Z",
 			"nhlUrl": "https://www.nhl.com/video/njd-at-col-recap-6407572774112",
-			"updatedAt": "2026-10-29T04:00:15.730Z"
+			"updatedAt": "2026-10-29T07:00:20.676Z"
 		},
 		"2026020202": {
 			"gameId": "2026020202",
@@ -2587,10 +2599,14 @@
 			"slug": "sea-tor",
 			"finalSeenAt": "2026-10-29T04:40:25.828Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/tor-at-sea-recap-6407574698112",
+			"provider": "youtube",
+			"videoId": "83tpUO1BSf0",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/83tpUO1BSf0",
+			"watchUrl": "https://www.youtube.com/watch?v=83tpUO1BSf0",
+			"sourceTitle": "Maple Leafs vs. Kraken | NHL Highlights | Oct 28, 2026",
+			"publishedAt": "2026-10-29T05:02:59.000Z",
 			"nhlUrl": "https://www.nhl.com/video/tor-at-sea-recap-6407574698112",
-			"updatedAt": "2026-10-29T05:10:19.032Z"
+			"updatedAt": "2026-10-29T07:00:20.676Z"
 		}
 	}
 }
