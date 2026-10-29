@@ -2558,9 +2558,25 @@
 			"away": "CGY",
 			"slug": "edm-cgy",
 			"finalSeenAt": "2026-10-29T03:20:12.380Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-29T03:20:12.380Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/cgy-at-edm-recap-6407573225112",
+			"nhlUrl": "https://www.nhl.com/video/cgy-at-edm-recap-6407573225112",
+			"updatedAt": "2026-10-29T04:00:15.730Z"
+		},
+		"2026020201": {
+			"gameId": "2026020201",
+			"date": "2026-10-28",
+			"start": "2026-10-29T01:00:00Z",
+			"home": "COL",
+			"away": "NJD",
+			"slug": "col-njd",
+			"finalSeenAt": "2026-10-29T04:00:15.730Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/njd-at-col-recap-6407572774112",
+			"nhlUrl": "https://www.nhl.com/video/njd-at-col-recap-6407572774112",
+			"updatedAt": "2026-10-29T04:00:15.730Z"
 		}
 	}
 }
