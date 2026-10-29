@@ -2586,9 +2586,11 @@
 			"away": "TOR",
 			"slug": "sea-tor",
 			"finalSeenAt": "2026-10-29T04:40:25.828Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-29T04:40:25.828Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/tor-at-sea-recap-6407574698112",
+			"nhlUrl": "https://www.nhl.com/video/tor-at-sea-recap-6407574698112",
+			"updatedAt": "2026-10-29T05:10:19.032Z"
 		}
 	}
 }
