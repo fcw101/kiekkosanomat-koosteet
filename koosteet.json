@@ -2672,9 +2672,23 @@
 			"away": "BOS",
 			"slug": "stl-bos",
 			"finalSeenAt": "2026-10-30T02:50:29.105Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/bos-at-stl-recap-6407635120112",
+			"nhlUrl": "https://www.nhl.com/video/bos-at-stl-recap-6407635120112",
+			"updatedAt": "2026-10-30T03:00:13.186Z"
+		},
+		"2026020208": {
+			"gameId": "2026020208",
+			"date": "2026-10-29",
+			"start": "2026-10-30T00:00:00Z",
+			"home": "NSH",
+			"away": "WSH",
+			"slug": "nsh-wsh",
+			"finalSeenAt": "2026-10-30T03:00:13.186Z",
 			"status": "pending",
 			"nhlUrl": null,
-			"updatedAt": "2026-10-30T02:50:29.105Z"
+			"updatedAt": "2026-10-30T03:00:13.186Z"
 		},
 		"2026020209": {
 			"gameId": "2026020209",
@@ -2684,9 +2698,11 @@
 			"away": "MTL",
 			"slug": "dal-mtl",
 			"finalSeenAt": "2026-10-30T02:40:21.052Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-30T02:40:21.052Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/mtl-at-dal-recap-6407635691112",
+			"nhlUrl": "https://www.nhl.com/video/mtl-at-dal-recap-6407635691112",
+			"updatedAt": "2026-10-30T03:00:13.186Z"
 		},
 		"2026020210": {
 			"gameId": "2026020210",
