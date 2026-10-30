@@ -2608,6 +2608,20 @@
 			"nhlUrl": "https://www.nhl.com/video/tor-at-sea-recap-6407574698112",
 			"updatedAt": "2026-10-29T07:00:20.676Z"
 		},
+		"2026020203": {
+			"gameId": "2026020203",
+			"date": "2026-10-29",
+			"start": "2026-10-29T23:30:00Z",
+			"home": "DET",
+			"away": "CHI",
+			"slug": "det-chi",
+			"finalSeenAt": "2026-10-30T02:30:40.294Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/chi-at-det-recap-6407633760112",
+			"nhlUrl": "https://www.nhl.com/video/chi-at-det-recap-6407633760112",
+			"updatedAt": "2026-10-30T02:30:40.294Z"
+		},
 		"2026020204": {
 			"gameId": "2026020204",
 			"date": "2026-10-29",
@@ -2616,9 +2630,11 @@
 			"away": "WPG",
 			"slug": "tbl-wpg",
 			"finalSeenAt": "2026-10-30T02:00:14.966Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-30T02:00:14.966Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/wpg-at-tbl-recap-6407632940112",
+			"nhlUrl": "https://www.nhl.com/video/wpg-at-tbl-recap-6407632940112",
+			"updatedAt": "2026-10-30T02:30:40.294Z"
 		},
 		"2026020205": {
 			"gameId": "2026020205",
@@ -2628,9 +2644,11 @@
 			"away": "UTA",
 			"slug": "pit-uta",
 			"finalSeenAt": "2026-10-30T02:00:14.966Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-30T02:00:14.966Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/uta-at-pit-recap-6407632379112",
+			"nhlUrl": "https://www.nhl.com/video/uta-at-pit-recap-6407632379112",
+			"updatedAt": "2026-10-30T02:30:40.294Z"
 		},
 		"2026020206": {
 			"gameId": "2026020206",
