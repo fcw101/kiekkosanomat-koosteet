@@ -2663,6 +2663,18 @@
 			"watchUrl": "https://www.nhl.com/video/cbj-at-car-recap-6407632722112",
 			"nhlUrl": "https://www.nhl.com/video/cbj-at-car-recap-6407632722112",
 			"updatedAt": "2026-10-30T02:00:14.966Z"
+		},
+		"2026020209": {
+			"gameId": "2026020209",
+			"date": "2026-10-29",
+			"start": "2026-10-30T00:00:00Z",
+			"home": "DAL",
+			"away": "MTL",
+			"slug": "dal-mtl",
+			"finalSeenAt": "2026-10-30T02:40:21.052Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-30T02:40:21.052Z"
 		}
 	}
 }
