@@ -2728,9 +2728,25 @@
 			"away": "BUF",
 			"slug": "ana-buf",
 			"finalSeenAt": "2026-10-30T04:50:25.979Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-30T04:50:25.979Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/buf-at-ana-recap-6407641338112",
+			"nhlUrl": "https://www.nhl.com/video/buf-at-ana-recap-6407641338112",
+			"updatedAt": "2026-10-30T05:20:20.275Z"
+		},
+		"2026020212": {
+			"gameId": "2026020212",
+			"date": "2026-10-29",
+			"start": "2026-10-30T02:00:00Z",
+			"home": "LAK",
+			"away": "OTT",
+			"slug": "lak-ott",
+			"finalSeenAt": "2026-10-30T05:20:20.275Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/ott-at-lak-recap-6407642417112",
+			"nhlUrl": "https://www.nhl.com/video/ott-at-lak-recap-6407642417112",
+			"updatedAt": "2026-10-30T05:20:20.275Z"
 		},
 		"2026020213": {
 			"gameId": "2026020213",
