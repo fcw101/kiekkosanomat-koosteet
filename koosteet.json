@@ -2833,6 +2833,18 @@
 			"watchUrl": "https://www.nhl.com/video/wpg-at-fla-recap-6407690884112",
 			"nhlUrl": "https://www.nhl.com/video/wpg-at-fla-recap-6407690884112",
 			"updatedAt": "2026-10-31T02:40:18.400Z"
+		},
+		"2026020216": {
+			"gameId": "2026020216",
+			"date": "2026-10-30",
+			"start": "2026-10-31T00:00:00Z",
+			"home": "CGY",
+			"away": "SEA",
+			"slug": "cgy-sea",
+			"finalSeenAt": "2026-10-31T02:50:22.895Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-31T02:50:22.895Z"
 		}
 	}
 }
