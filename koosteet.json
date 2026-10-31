@@ -2805,6 +2805,18 @@
 			"publishedAt": "2026-10-30T04:49:23.000Z",
 			"nhlUrl": "https://www.nhl.com/video/van-at-sjs-recap-6407639953112",
 			"updatedAt": "2026-10-30T07:21:00.118Z"
+		},
+		"2026020214": {
+			"gameId": "2026020214",
+			"date": "2026-10-30",
+			"start": "2026-10-30T22:00:00Z",
+			"home": "VGK",
+			"away": "NJD",
+			"slug": "vgk-njd",
+			"finalSeenAt": "2026-10-31T00:40:22.650Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-31T00:40:22.650Z"
 		}
 	}
 }
