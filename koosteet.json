@@ -2896,6 +2896,18 @@
 			"nhlUrl": "https://www.nhl.com/video/stl-at-det-recap-6407721316112",
 			"updatedAt": "2026-10-31T20:15:30.591Z"
 		},
+		"2026020219": {
+			"gameId": "2026020219",
+			"date": "2026-10-31",
+			"start": "2026-10-31T18:00:00Z",
+			"home": "NSH",
+			"away": "TBL",
+			"slug": "nsh-tbl",
+			"finalSeenAt": "2026-10-31T21:00:17.829Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-31T21:00:17.829Z"
+		},
 		"2026020220": {
 			"gameId": "2026020220",
 			"date": "2026-10-31",
@@ -2904,9 +2916,15 @@
 			"away": "EDM",
 			"slug": "nyi-edm",
 			"finalSeenAt": "2026-10-31T20:41:33.054Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-31T20:41:33.054Z"
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "ZqP3pqgdTl0",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/ZqP3pqgdTl0",
+			"watchUrl": "https://www.youtube.com/watch?v=ZqP3pqgdTl0",
+			"sourceTitle": "Oilers vs. Islanders | NHL Highlights | Oct 31, 2026",
+			"publishedAt": "2026-10-31T20:51:56.000Z",
+			"nhlUrl": "https://www.nhl.com/video/edm-at-nyi-recap-6407721966112",
+			"updatedAt": "2026-10-31T21:00:17.829Z"
 		}
 	}
 }
