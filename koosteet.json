@@ -2859,6 +2859,38 @@
 			"publishedAt": "2026-10-31T03:01:58.000Z",
 			"nhlUrl": "https://www.nhl.com/video/sea-at-cgy-recap-6407691451112",
 			"updatedAt": "2026-10-31T07:00:19.154Z"
+		},
+		"2026020217": {
+			"gameId": "2026020217",
+			"date": "2026-10-31",
+			"start": "2026-10-31T17:00:00Z",
+			"home": "BOS",
+			"away": "CHI",
+			"slug": "bos-chi",
+			"finalSeenAt": "2026-10-31T20:15:30.591Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/chi-at-bos-recap-6407721921112",
+			"nhlUrl": "https://www.nhl.com/video/chi-at-bos-recap-6407721921112",
+			"updatedAt": "2026-10-31T20:15:30.591Z"
+		},
+		"2026020218": {
+			"gameId": "2026020218",
+			"date": "2026-10-31",
+			"start": "2026-10-31T17:00:00Z",
+			"home": "DET",
+			"away": "STL",
+			"slug": "det-stl",
+			"finalSeenAt": "2026-10-31T20:15:30.591Z",
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "3HMmDHOghGs",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/3HMmDHOghGs",
+			"watchUrl": "https://www.youtube.com/watch?v=3HMmDHOghGs",
+			"sourceTitle": "Blues vs. Red Wings | NHL Highlights | Oct 31, 2026",
+			"publishedAt": "2026-10-31T19:53:38.000Z",
+			"nhlUrl": "https://www.nhl.com/video/stl-at-det-recap-6407721316112",
+			"updatedAt": "2026-10-31T20:15:30.591Z"
 		}
 	}
 }
