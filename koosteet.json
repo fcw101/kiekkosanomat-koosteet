@@ -2814,9 +2814,11 @@
 			"away": "NJD",
 			"slug": "vgk-njd",
 			"finalSeenAt": "2026-10-31T00:40:22.650Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-31T00:40:22.650Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/njd-at-vgk-recap-6407686616112",
+			"nhlUrl": "https://www.nhl.com/video/njd-at-vgk-recap-6407686616112",
+			"updatedAt": "2026-10-31T01:20:18.120Z"
 		}
 	}
 }
