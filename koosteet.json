@@ -2932,6 +2932,20 @@
 			"nhlUrl": "https://www.nhl.com/video/edm-at-nyi-recap-6407721966112",
 			"updatedAt": "2026-10-31T21:00:17.829Z"
 		},
+		"2026020221": {
+			"gameId": "2026020221",
+			"date": "2026-10-31",
+			"start": "2026-10-31T20:00:00Z",
+			"home": "LAK",
+			"away": "BUF",
+			"slug": "lak-buf",
+			"finalSeenAt": "2026-10-31T23:20:14.311Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/buf-at-lak-recap-6407728569112",
+			"nhlUrl": "https://www.nhl.com/video/buf-at-lak-recap-6407728569112",
+			"updatedAt": "2026-10-31T23:20:14.311Z"
+		},
 		"2026020222": {
 			"gameId": "2026020222",
 			"date": "2026-10-31",
@@ -2940,9 +2954,11 @@
 			"away": "OTT",
 			"slug": "sjs-ott",
 			"finalSeenAt": "2026-10-31T22:40:29.617Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-31T22:40:29.617Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/ott-at-sjs-recap-6407728166112",
+			"nhlUrl": "https://www.nhl.com/video/ott-at-sjs-recap-6407728166112",
+			"updatedAt": "2026-10-31T23:20:14.311Z"
 		}
 	}
 }
