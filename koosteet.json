@@ -2869,10 +2869,14 @@
 			"slug": "bos-chi",
 			"finalSeenAt": "2026-10-31T20:15:30.591Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/chi-at-bos-recap-6407721921112",
+			"provider": "youtube",
+			"videoId": "h-k_Z3EDDuk",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/h-k_Z3EDDuk",
+			"watchUrl": "https://www.youtube.com/watch?v=h-k_Z3EDDuk",
+			"sourceTitle": "Blackhawks vs. Bruins | NHL Highlights | Oct 31, 2026",
+			"publishedAt": "2026-10-31T20:18:36.000Z",
 			"nhlUrl": "https://www.nhl.com/video/chi-at-bos-recap-6407721921112",
-			"updatedAt": "2026-10-31T20:15:30.591Z"
+			"updatedAt": "2026-10-31T20:41:33.054Z"
 		},
 		"2026020218": {
 			"gameId": "2026020218",
@@ -2891,6 +2895,18 @@
 			"publishedAt": "2026-10-31T19:53:38.000Z",
 			"nhlUrl": "https://www.nhl.com/video/stl-at-det-recap-6407721316112",
 			"updatedAt": "2026-10-31T20:15:30.591Z"
+		},
+		"2026020220": {
+			"gameId": "2026020220",
+			"date": "2026-10-31",
+			"start": "2026-10-31T18:00:00Z",
+			"home": "NYI",
+			"away": "EDM",
+			"slug": "nyi-edm",
+			"finalSeenAt": "2026-10-31T20:41:33.054Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-31T20:41:33.054Z"
 		}
 	}
 }
