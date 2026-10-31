@@ -2819,6 +2819,18 @@
 			"watchUrl": "https://www.nhl.com/video/njd-at-vgk-recap-6407686616112",
 			"nhlUrl": "https://www.nhl.com/video/njd-at-vgk-recap-6407686616112",
 			"updatedAt": "2026-10-31T01:20:18.120Z"
+		},
+		"2026020215": {
+			"gameId": "2026020215",
+			"date": "2026-10-30",
+			"start": "2026-10-30T23:00:00Z",
+			"home": "FLA",
+			"away": "WPG",
+			"slug": "fla-wpg",
+			"finalSeenAt": "2026-10-31T02:00:16.040Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-10-31T02:00:16.040Z"
 		}
 	}
 }
