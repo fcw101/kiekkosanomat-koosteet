@@ -2828,9 +2828,11 @@
 			"away": "WPG",
 			"slug": "fla-wpg",
 			"finalSeenAt": "2026-10-31T02:00:16.040Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-10-31T02:00:16.040Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/wpg-at-fla-recap-6407690884112",
+			"nhlUrl": "https://www.nhl.com/video/wpg-at-fla-recap-6407690884112",
+			"updatedAt": "2026-10-31T02:40:18.400Z"
 		}
 	}
 }
