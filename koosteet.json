@@ -2987,6 +2987,18 @@
 			"watchUrl": "https://www.nhl.com/video/tor-at-van-recap-6407731752112",
 			"nhlUrl": "https://www.nhl.com/video/tor-at-van-recap-6407731752112",
 			"updatedAt": "2026-11-01T02:20:29.264Z"
+		},
+		"2026020225": {
+			"gameId": "2026020225",
+			"date": "2026-10-31",
+			"start": "2026-11-01T00:00:00Z",
+			"home": "DAL",
+			"away": "CBJ",
+			"slug": "dal-cbj",
+			"finalSeenAt": "2026-11-01T02:50:25.564Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-01T02:50:25.564Z"
 		}
 	}
 }
