@@ -2959,6 +2959,18 @@
 			"watchUrl": "https://www.nhl.com/video/ott-at-sjs-recap-6407728166112",
 			"nhlUrl": "https://www.nhl.com/video/ott-at-sjs-recap-6407728166112",
 			"updatedAt": "2026-10-31T23:20:14.311Z"
+		},
+		"2026020224": {
+			"gameId": "2026020224",
+			"date": "2026-10-31",
+			"start": "2026-10-31T23:00:00Z",
+			"home": "VAN",
+			"away": "TOR",
+			"slug": "van-tor",
+			"finalSeenAt": "2026-11-01T01:50:28.220Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-01T01:50:28.220Z"
 		}
 	}
 }
