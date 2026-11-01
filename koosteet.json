@@ -3039,6 +3039,24 @@
 			"publishedAt": "2026-11-01T05:12:09.000Z",
 			"nhlUrl": "https://www.nhl.com/video/cgy-at-col-recap-6407738258112",
 			"updatedAt": "2026-11-01T07:00:29.218Z"
+		},
+		"2026020227": {
+			"gameId": "2026020227",
+			"date": "2026-11-01",
+			"start": "2026-11-01T18:00:00Z",
+			"home": "CAR",
+			"away": "WPG",
+			"slug": "car-wpg",
+			"finalSeenAt": "2026-11-01T21:00:23.284Z",
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "iZ5HAgYFq8M",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/iZ5HAgYFq8M",
+			"watchUrl": "https://www.youtube.com/watch?v=iZ5HAgYFq8M",
+			"sourceTitle": "Jets vs. Hurricanes | NHL Highlights | Nov 1, 2026",
+			"publishedAt": "2026-11-01T20:56:11.000Z",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-01T21:00:23.284Z"
 		}
 	}
 }
