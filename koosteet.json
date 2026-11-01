@@ -2960,6 +2960,20 @@
 			"nhlUrl": "https://www.nhl.com/video/ott-at-sjs-recap-6407728166112",
 			"updatedAt": "2026-10-31T23:20:14.311Z"
 		},
+		"2026020223": {
+			"gameId": "2026020223",
+			"date": "2026-10-31",
+			"start": "2026-10-31T23:00:00Z",
+			"home": "MTL",
+			"away": "PIT",
+			"slug": "mtl-pit",
+			"finalSeenAt": "2026-11-01T02:20:29.264Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/pit-at-mtl-recap-6407733047112",
+			"nhlUrl": "https://www.nhl.com/video/pit-at-mtl-recap-6407733047112",
+			"updatedAt": "2026-11-01T02:20:29.264Z"
+		},
 		"2026020224": {
 			"gameId": "2026020224",
 			"date": "2026-10-31",
@@ -2968,9 +2982,11 @@
 			"away": "TOR",
 			"slug": "van-tor",
 			"finalSeenAt": "2026-11-01T01:50:28.220Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-01T01:50:28.220Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/tor-at-van-recap-6407731752112",
+			"nhlUrl": "https://www.nhl.com/video/tor-at-van-recap-6407731752112",
+			"updatedAt": "2026-11-01T02:20:29.264Z"
 		}
 	}
 }
