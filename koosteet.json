@@ -3010,9 +3010,11 @@
 			"away": "CGY",
 			"slug": "col-cgy",
 			"finalSeenAt": "2026-11-01T04:40:29.533Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-01T04:40:29.533Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/cgy-at-col-recap-6407736398112",
+			"nhlUrl": "https://www.nhl.com/video/cgy-at-col-recap-6407736398112",
+			"updatedAt": "2026-11-01T06:10:21.130Z"
 		}
 	}
 }
