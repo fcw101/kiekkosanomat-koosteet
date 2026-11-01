@@ -2996,9 +2996,11 @@
 			"away": "CBJ",
 			"slug": "dal-cbj",
 			"finalSeenAt": "2026-11-01T02:50:25.564Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-01T02:50:25.564Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/cbj-at-dal-recap-6407734168112",
+			"nhlUrl": "https://www.nhl.com/video/cbj-at-dal-recap-6407734168112",
+			"updatedAt": "2026-11-01T03:00:25.750Z"
 		}
 	}
 }
