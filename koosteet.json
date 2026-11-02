@@ -3099,6 +3099,18 @@
 			"watchUrl": "https://www.nhl.com/video/edm-at-nyr-recap-6407767872112",
 			"nhlUrl": "https://www.nhl.com/video/edm-at-nyr-recap-6407767872112",
 			"updatedAt": "2026-11-02T02:20:13.729Z"
+		},
+		"2026020231": {
+			"gameId": "2026020231",
+			"date": "2026-11-01",
+			"start": "2026-11-02T01:00:00Z",
+			"home": "ANA",
+			"away": "OTT",
+			"slug": "ana-ott",
+			"finalSeenAt": "2026-11-02T04:00:26.553Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-02T04:00:26.553Z"
 		}
 	}
 }
