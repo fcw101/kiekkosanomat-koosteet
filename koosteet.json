@@ -3067,10 +3067,14 @@
 			"slug": "wsh-min",
 			"finalSeenAt": "2026-11-01T23:20:22.458Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/min-at-wsh-recap-6407767909112",
+			"provider": "youtube",
+			"videoId": "ZFbl9GZ7dts",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/ZFbl9GZ7dts",
+			"watchUrl": "https://www.youtube.com/watch?v=ZFbl9GZ7dts",
+			"sourceTitle": "Wild vs. Capitals | NHL Highlights | Nov 1, 2026",
+			"publishedAt": "2026-11-01T23:37:31.000Z",
 			"nhlUrl": "https://www.nhl.com/video/min-at-wsh-recap-6407767909112",
-			"updatedAt": "2026-11-02T02:40:27.825Z"
+			"updatedAt": "2026-11-02T08:00:13.932Z"
 		},
 		"2026020229": {
 			"gameId": "2026020229",
@@ -3081,10 +3085,14 @@
 			"slug": "phi-uta",
 			"finalSeenAt": "2026-11-02T00:00:21.460Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/uta-at-phi-recap-6407764145112",
+			"provider": "youtube",
+			"videoId": "GI8Ooc1wE8U",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/GI8Ooc1wE8U",
+			"watchUrl": "https://www.youtube.com/watch?v=GI8Ooc1wE8U",
+			"sourceTitle": "Mammoth vs. Flyers | NHL Highlights | Nov 1, 2026",
+			"publishedAt": "2026-11-01T23:57:08.000Z",
 			"nhlUrl": "https://www.nhl.com/video/uta-at-phi-recap-6407764145112",
-			"updatedAt": "2026-11-02T00:00:21.460Z"
+			"updatedAt": "2026-11-02T08:00:13.932Z"
 		},
 		"2026020230": {
 			"gameId": "2026020230",
@@ -3095,10 +3103,14 @@
 			"slug": "nyr-edm",
 			"finalSeenAt": "2026-11-02T01:50:29.594Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/edm-at-nyr-recap-6407767872112",
+			"provider": "youtube",
+			"videoId": "-3n_ghgbBcQ",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/-3n_ghgbBcQ",
+			"watchUrl": "https://www.youtube.com/watch?v=-3n_ghgbBcQ",
+			"sourceTitle": "Oilers vs. Rangers | NHL Highlights | Nov 1, 2026",
+			"publishedAt": "2026-11-02T01:56:00.000Z",
 			"nhlUrl": "https://www.nhl.com/video/edm-at-nyr-recap-6407767872112",
-			"updatedAt": "2026-11-02T02:20:13.729Z"
+			"updatedAt": "2026-11-02T08:00:13.932Z"
 		},
 		"2026020231": {
 			"gameId": "2026020231",
@@ -3109,10 +3121,14 @@
 			"slug": "ana-ott",
 			"finalSeenAt": "2026-11-02T04:00:26.553Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/ott-at-ana-recap-6407770605112",
+			"provider": "youtube",
+			"videoId": "NXmCbSK2ijI",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/NXmCbSK2ijI",
+			"watchUrl": "https://www.youtube.com/watch?v=NXmCbSK2ijI",
+			"sourceTitle": "Senators vs. Ducks | NHL Highlights | Nov 1, 2026",
+			"publishedAt": "2026-11-02T03:53:32.000Z",
 			"nhlUrl": "https://www.nhl.com/video/ott-at-ana-recap-6407770605112",
-			"updatedAt": "2026-11-02T04:20:17.721Z"
+			"updatedAt": "2026-11-02T08:00:13.932Z"
 		}
 	}
 }
