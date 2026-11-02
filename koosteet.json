@@ -3094,9 +3094,11 @@
 			"away": "EDM",
 			"slug": "nyr-edm",
 			"finalSeenAt": "2026-11-02T01:50:29.594Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-02T01:50:29.594Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/edm-at-nyr-recap-6407767872112",
+			"nhlUrl": "https://www.nhl.com/video/edm-at-nyr-recap-6407767872112",
+			"updatedAt": "2026-11-02T02:20:13.729Z"
 		}
 	}
 }
