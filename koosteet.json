@@ -3066,9 +3066,25 @@
 			"away": "MIN",
 			"slug": "wsh-min",
 			"finalSeenAt": "2026-11-01T23:20:22.458Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-01T23:20:22.458Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/min-at-wsh-recap-6407763924112",
+			"nhlUrl": "https://www.nhl.com/video/min-at-wsh-recap-6407763924112",
+			"updatedAt": "2026-11-02T00:00:21.460Z"
+		},
+		"2026020229": {
+			"gameId": "2026020229",
+			"date": "2026-11-01",
+			"start": "2026-11-01T21:00:00Z",
+			"home": "PHI",
+			"away": "UTA",
+			"slug": "phi-uta",
+			"finalSeenAt": "2026-11-02T00:00:21.460Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/uta-at-phi-recap-6407764145112",
+			"nhlUrl": "https://www.nhl.com/video/uta-at-phi-recap-6407764145112",
+			"updatedAt": "2026-11-02T00:00:21.460Z"
 		}
 	}
 }
