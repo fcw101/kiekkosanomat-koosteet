@@ -3085,6 +3085,18 @@
 			"watchUrl": "https://www.nhl.com/video/uta-at-phi-recap-6407764145112",
 			"nhlUrl": "https://www.nhl.com/video/uta-at-phi-recap-6407764145112",
 			"updatedAt": "2026-11-02T00:00:21.460Z"
+		},
+		"2026020230": {
+			"gameId": "2026020230",
+			"date": "2026-11-01",
+			"start": "2026-11-01T23:00:00Z",
+			"home": "NYR",
+			"away": "EDM",
+			"slug": "nyr-edm",
+			"finalSeenAt": "2026-11-02T01:50:29.594Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-02T01:50:29.594Z"
 		}
 	}
 }
