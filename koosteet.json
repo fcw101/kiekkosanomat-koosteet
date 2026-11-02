@@ -3108,9 +3108,11 @@
 			"away": "OTT",
 			"slug": "ana-ott",
 			"finalSeenAt": "2026-11-02T04:00:26.553Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-02T04:00:26.553Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/ott-at-ana-recap-6407770605112",
+			"nhlUrl": "https://www.nhl.com/video/ott-at-ana-recap-6407770605112",
+			"updatedAt": "2026-11-02T04:20:17.721Z"
 		}
 	}
 }
