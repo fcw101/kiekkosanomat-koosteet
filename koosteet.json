@@ -3157,6 +3157,20 @@
 			"watchUrl": "https://www.nhl.com/video/det-at-fla-recap-6407819471112",
 			"nhlUrl": "https://www.nhl.com/video/det-at-fla-recap-6407819471112",
 			"updatedAt": "2026-11-03T03:00:10.274Z"
+		},
+		"2026020234": {
+			"gameId": "2026020234",
+			"date": "2026-11-02",
+			"start": "2026-11-03T01:00:00Z",
+			"home": "CHI",
+			"away": "COL",
+			"slug": "chi-col",
+			"finalSeenAt": "2026-11-03T04:20:22.308Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/col-at-chi-recap-6407821729112",
+			"nhlUrl": "https://www.nhl.com/video/col-at-chi-recap-6407821729112",
+			"updatedAt": "2026-11-03T04:20:22.308Z"
 		}
 	}
 }
