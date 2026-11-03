@@ -3138,9 +3138,11 @@
 			"away": "VGK",
 			"slug": "bos-vgk",
 			"finalSeenAt": "2026-11-03T03:00:10.274Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-03T03:00:10.274Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/vgk-at-bos-recap-6407818133112",
+			"nhlUrl": "https://www.nhl.com/video/vgk-at-bos-recap-6407818133112",
+			"updatedAt": "2026-11-03T03:30:29.390Z"
 		},
 		"2026020233": {
 			"gameId": "2026020233",
