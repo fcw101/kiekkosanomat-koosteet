@@ -3130,6 +3130,18 @@
 			"nhlUrl": "https://www.nhl.com/video/ott-at-ana-recap-6407770605112",
 			"updatedAt": "2026-11-02T08:00:13.932Z"
 		},
+		"2026020232": {
+			"gameId": "2026020232",
+			"date": "2026-11-02",
+			"start": "2026-11-03T00:00:00Z",
+			"home": "BOS",
+			"away": "VGK",
+			"slug": "bos-vgk",
+			"finalSeenAt": "2026-11-03T03:00:10.274Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-03T03:00:10.274Z"
+		},
 		"2026020233": {
 			"gameId": "2026020233",
 			"date": "2026-11-02",
@@ -3140,9 +3152,9 @@
 			"finalSeenAt": "2026-11-03T02:42:37.417Z",
 			"status": "available",
 			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/det-at-fla-recap-6407817911112",
-			"nhlUrl": "https://www.nhl.com/video/det-at-fla-recap-6407817911112",
-			"updatedAt": "2026-11-03T02:42:37.417Z"
+			"watchUrl": "https://www.nhl.com/video/det-at-fla-recap-6407819471112",
+			"nhlUrl": "https://www.nhl.com/video/det-at-fla-recap-6407819471112",
+			"updatedAt": "2026-11-03T03:00:10.274Z"
 		}
 	}
 }
