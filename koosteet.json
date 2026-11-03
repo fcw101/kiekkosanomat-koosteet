@@ -3153,10 +3153,14 @@
 			"slug": "fla-det",
 			"finalSeenAt": "2026-11-03T02:42:37.417Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/det-at-fla-recap-6407819471112",
+			"provider": "youtube",
+			"videoId": "lPLEhITKLFc",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/lPLEhITKLFc",
+			"watchUrl": "https://www.youtube.com/watch?v=lPLEhITKLFc",
+			"sourceTitle": "Red Wings vs. Panthers | NHL Highlights | Nov 2, 2026",
+			"publishedAt": "2026-11-03T02:45:06.000Z",
 			"nhlUrl": "https://www.nhl.com/video/det-at-fla-recap-6407819471112",
-			"updatedAt": "2026-11-03T03:00:10.274Z"
+			"updatedAt": "2026-11-03T08:20:13.775Z"
 		},
 		"2026020234": {
 			"gameId": "2026020234",
@@ -3167,10 +3171,14 @@
 			"slug": "chi-col",
 			"finalSeenAt": "2026-11-03T04:20:22.308Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/col-at-chi-recap-6407821729112",
+			"provider": "youtube",
+			"videoId": "BCWCA5VQ33g",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/BCWCA5VQ33g",
+			"watchUrl": "https://www.youtube.com/watch?v=BCWCA5VQ33g",
+			"sourceTitle": "Avalanche vs. Blackhawks | NHL Highlights | Nov 2, 2026",
+			"publishedAt": "2026-11-03T04:05:22.000Z",
 			"nhlUrl": "https://www.nhl.com/video/col-at-chi-recap-6407821729112",
-			"updatedAt": "2026-11-03T04:20:22.308Z"
+			"updatedAt": "2026-11-03T08:20:13.775Z"
 		},
 		"2026020235": {
 			"gameId": "2026020235",
@@ -3181,10 +3189,14 @@
 			"slug": "sjs-cgy",
 			"finalSeenAt": "2026-11-03T05:00:18.006Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/cgy-at-sjs-recap-6407823682112",
+			"provider": "youtube",
+			"videoId": "kX8VoYcnhEM",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/kX8VoYcnhEM",
+			"watchUrl": "https://www.youtube.com/watch?v=kX8VoYcnhEM",
+			"sourceTitle": "Flames vs. Sharks | NHL Highlights | Nov 2, 2026",
+			"publishedAt": "2026-11-03T04:55:33.000Z",
 			"nhlUrl": "https://www.nhl.com/video/cgy-at-sjs-recap-6407823682112",
-			"updatedAt": "2026-11-03T05:50:25.915Z"
+			"updatedAt": "2026-11-03T08:20:13.775Z"
 		}
 	}
 }
