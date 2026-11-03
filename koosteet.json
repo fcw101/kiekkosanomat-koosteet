@@ -3139,10 +3139,14 @@
 			"slug": "bos-vgk",
 			"finalSeenAt": "2026-11-03T03:00:10.274Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/vgk-at-bos-recap-6407818133112",
+			"provider": "youtube",
+			"videoId": "Xm8mnc7nXnw",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/Xm8mnc7nXnw",
+			"watchUrl": "https://www.youtube.com/watch?v=Xm8mnc7nXnw",
+			"sourceTitle": "Golden Knights vs. Bruins | NHL Highlights | Nov 2, 2026",
+			"publishedAt": "2026-11-03T03:19:35.000Z",
 			"nhlUrl": "https://www.nhl.com/video/vgk-at-bos-recap-6407818133112",
-			"updatedAt": "2026-11-03T03:30:29.390Z"
+			"updatedAt": "2026-11-03T19:31:20.413Z"
 		},
 		"2026020233": {
 			"gameId": "2026020233",
