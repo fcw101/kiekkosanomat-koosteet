@@ -3180,9 +3180,11 @@
 			"away": "CGY",
 			"slug": "sjs-cgy",
 			"finalSeenAt": "2026-11-03T05:00:18.006Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-03T05:00:18.006Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/cgy-at-sjs-recap-6407823682112",
+			"nhlUrl": "https://www.nhl.com/video/cgy-at-sjs-recap-6407823682112",
+			"updatedAt": "2026-11-03T05:50:25.915Z"
 		}
 	}
 }
