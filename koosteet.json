@@ -3171,6 +3171,18 @@
 			"watchUrl": "https://www.nhl.com/video/col-at-chi-recap-6407821729112",
 			"nhlUrl": "https://www.nhl.com/video/col-at-chi-recap-6407821729112",
 			"updatedAt": "2026-11-03T04:20:22.308Z"
+		},
+		"2026020235": {
+			"gameId": "2026020235",
+			"date": "2026-11-02",
+			"start": "2026-11-03T02:00:00Z",
+			"home": "SJS",
+			"away": "CGY",
+			"slug": "sjs-cgy",
+			"finalSeenAt": "2026-11-03T05:00:18.006Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-03T05:00:18.006Z"
 		}
 	}
 }
