@@ -3226,6 +3226,18 @@
 			"nhlUrl": null,
 			"updatedAt": "2026-11-04T02:50:34.709Z"
 		},
+		"2026020240": {
+			"gameId": "2026020240",
+			"date": "2026-11-03",
+			"start": "2026-11-04T00:00:00Z",
+			"home": "NYR",
+			"away": "STL",
+			"slug": "nyr-stl",
+			"finalSeenAt": "2026-11-04T03:00:19.894Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-04T03:00:19.894Z"
+		},
 		"2026020241": {
 			"gameId": "2026020241",
 			"date": "2026-11-03",
@@ -3234,9 +3246,11 @@
 			"away": "MIN",
 			"slug": "phi-min",
 			"finalSeenAt": "2026-11-04T02:50:34.709Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-04T02:50:34.709Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/min-at-phi-recap-6407880158112",
+			"nhlUrl": "https://www.nhl.com/video/min-at-phi-recap-6407880158112",
+			"updatedAt": "2026-11-04T03:00:19.894Z"
 		},
 		"2026020242": {
 			"gameId": "2026020242",
@@ -3270,9 +3284,11 @@
 			"away": "COL",
 			"slug": "cbj-col",
 			"finalSeenAt": "2026-11-04T02:50:34.709Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-04T02:50:34.709Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/col-at-cbj-recap-6407878100112",
+			"nhlUrl": "https://www.nhl.com/video/col-at-cbj-recap-6407878100112",
+			"updatedAt": "2026-11-04T03:00:19.894Z"
 		}
 	}
 }
