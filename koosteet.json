@@ -3201,6 +3201,78 @@
 			"publishedAt": "2026-11-03T04:55:33.000Z",
 			"nhlUrl": "https://www.nhl.com/video/cgy-at-sjs-recap-6407823682112",
 			"updatedAt": "2026-11-03T08:20:13.775Z"
+		},
+		"2026020236": {
+			"gameId": "2026020236",
+			"date": "2026-11-03",
+			"start": "2026-11-04T00:00:00Z",
+			"home": "TOR",
+			"away": "UTA",
+			"slug": "tor-uta",
+			"finalSeenAt": "2026-11-04T02:50:34.709Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-04T02:50:34.709Z"
+		},
+		"2026020238": {
+			"gameId": "2026020238",
+			"date": "2026-11-03",
+			"start": "2026-11-04T00:00:00Z",
+			"home": "TBL",
+			"away": "DET",
+			"slug": "tbl-det",
+			"finalSeenAt": "2026-11-04T02:50:34.709Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-04T02:50:34.709Z"
+		},
+		"2026020241": {
+			"gameId": "2026020241",
+			"date": "2026-11-03",
+			"start": "2026-11-04T00:00:00Z",
+			"home": "PHI",
+			"away": "MIN",
+			"slug": "phi-min",
+			"finalSeenAt": "2026-11-04T02:50:34.709Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-04T02:50:34.709Z"
+		},
+		"2026020242": {
+			"gameId": "2026020242",
+			"date": "2026-11-03",
+			"start": "2026-11-04T00:00:00Z",
+			"home": "PIT",
+			"away": "VGK",
+			"slug": "pit-vgk",
+			"finalSeenAt": "2026-11-04T02:50:34.709Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-04T02:50:34.709Z"
+		},
+		"2026020243": {
+			"gameId": "2026020243",
+			"date": "2026-11-03",
+			"start": "2026-11-04T00:00:00Z",
+			"home": "WSH",
+			"away": "DAL",
+			"slug": "wsh-dal",
+			"finalSeenAt": "2026-11-04T02:50:34.709Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-04T02:50:34.709Z"
+		},
+		"2026020244": {
+			"gameId": "2026020244",
+			"date": "2026-11-03",
+			"start": "2026-11-04T00:00:00Z",
+			"home": "CBJ",
+			"away": "COL",
+			"slug": "cbj-col",
+			"finalSeenAt": "2026-11-04T02:50:34.709Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-04T02:50:34.709Z"
 		}
 	}
 }
