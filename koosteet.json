@@ -3210,9 +3210,23 @@
 			"away": "UTA",
 			"slug": "tor-uta",
 			"finalSeenAt": "2026-11-04T02:50:34.709Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/uta-at-tor-recap-6407880367112",
+			"nhlUrl": "https://www.nhl.com/video/uta-at-tor-recap-6407880367112",
+			"updatedAt": "2026-11-04T03:10:23.953Z"
+		},
+		"2026020237": {
+			"gameId": "2026020237",
+			"date": "2026-11-03",
+			"start": "2026-11-04T00:00:00Z",
+			"home": "MTL",
+			"away": "WPG",
+			"slug": "mtl-wpg",
+			"finalSeenAt": "2026-11-04T03:10:23.953Z",
 			"status": "pending",
 			"nhlUrl": null,
-			"updatedAt": "2026-11-04T02:50:34.709Z"
+			"updatedAt": "2026-11-04T03:10:23.953Z"
 		},
 		"2026020238": {
 			"gameId": "2026020238",
@@ -3222,9 +3236,11 @@
 			"away": "DET",
 			"slug": "tbl-det",
 			"finalSeenAt": "2026-11-04T02:50:34.709Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-04T02:50:34.709Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/det-at-tbl-recap-6407878533112",
+			"nhlUrl": "https://www.nhl.com/video/det-at-tbl-recap-6407878533112",
+			"updatedAt": "2026-11-04T03:10:23.953Z"
 		},
 		"2026020240": {
 			"gameId": "2026020240",
@@ -3260,9 +3276,11 @@
 			"away": "VGK",
 			"slug": "pit-vgk",
 			"finalSeenAt": "2026-11-04T02:50:34.709Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-04T02:50:34.709Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/vgk-at-pit-recap-6407878910112",
+			"nhlUrl": "https://www.nhl.com/video/vgk-at-pit-recap-6407878910112",
+			"updatedAt": "2026-11-04T03:10:23.953Z"
 		},
 		"2026020243": {
 			"gameId": "2026020243",
@@ -3272,9 +3290,11 @@
 			"away": "DAL",
 			"slug": "wsh-dal",
 			"finalSeenAt": "2026-11-04T02:50:34.709Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-04T02:50:34.709Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/dal-at-wsh-recap-6407880169112",
+			"nhlUrl": "https://www.nhl.com/video/dal-at-wsh-recap-6407880169112",
+			"updatedAt": "2026-11-04T03:10:23.953Z"
 		},
 		"2026020244": {
 			"gameId": "2026020244",
@@ -3286,9 +3306,9 @@
 			"finalSeenAt": "2026-11-04T02:50:34.709Z",
 			"status": "available",
 			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/col-at-cbj-recap-6407878100112",
-			"nhlUrl": "https://www.nhl.com/video/col-at-cbj-recap-6407878100112",
-			"updatedAt": "2026-11-04T03:00:19.894Z"
+			"watchUrl": "https://www.nhl.com/video/col-at-cbj-recap-6407878235112",
+			"nhlUrl": "https://www.nhl.com/video/col-at-cbj-recap-6407878235112",
+			"updatedAt": "2026-11-04T03:10:23.953Z"
 		}
 	}
 }
