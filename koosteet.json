@@ -3224,9 +3224,11 @@
 			"away": "WPG",
 			"slug": "mtl-wpg",
 			"finalSeenAt": "2026-11-04T03:10:23.953Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-04T03:10:23.953Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/wpg-at-mtl-recap-6407879954112",
+			"nhlUrl": "https://www.nhl.com/video/wpg-at-mtl-recap-6407879954112",
+			"updatedAt": "2026-11-04T03:50:18.924Z"
 		},
 		"2026020238": {
 			"gameId": "2026020238",
@@ -3250,9 +3252,11 @@
 			"away": "EDM",
 			"slug": "njd-edm",
 			"finalSeenAt": "2026-11-04T03:20:17.532Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-04T03:20:17.532Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/edm-at-njd-recap-6407882789112",
+			"nhlUrl": "https://www.nhl.com/video/edm-at-njd-recap-6407882789112",
+			"updatedAt": "2026-11-04T03:50:18.924Z"
 		},
 		"2026020240": {
 			"gameId": "2026020240",
@@ -3262,9 +3266,11 @@
 			"away": "STL",
 			"slug": "nyr-stl",
 			"finalSeenAt": "2026-11-04T03:00:19.894Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-04T03:00:19.894Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/stl-at-nyr-recap-6407880397112",
+			"nhlUrl": "https://www.nhl.com/video/stl-at-nyr-recap-6407880397112",
+			"updatedAt": "2026-11-04T03:50:18.924Z"
 		},
 		"2026020241": {
 			"gameId": "2026020241",
@@ -3321,6 +3327,18 @@
 			"watchUrl": "https://www.nhl.com/video/col-at-cbj-recap-6407878235112",
 			"nhlUrl": "https://www.nhl.com/video/col-at-cbj-recap-6407878235112",
 			"updatedAt": "2026-11-04T03:10:23.953Z"
+		},
+		"2026020245": {
+			"gameId": "2026020245",
+			"date": "2026-11-03",
+			"start": "2026-11-04T01:00:00Z",
+			"home": "NSH",
+			"away": "CAR",
+			"slug": "nsh-car",
+			"finalSeenAt": "2026-11-04T03:50:18.924Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-04T03:50:18.924Z"
 		}
 	}
 }
