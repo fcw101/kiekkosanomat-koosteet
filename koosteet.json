@@ -3350,9 +3350,11 @@
 			"away": "ANA",
 			"slug": "van-ana",
 			"finalSeenAt": "2026-11-04T05:00:12.146Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-04T05:00:12.146Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/ana-at-van-recap-6407886321112",
+			"nhlUrl": "https://www.nhl.com/video/ana-at-van-recap-6407886321112",
+			"updatedAt": "2026-11-04T05:20:18.888Z"
 		}
 	}
 }
