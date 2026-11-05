@@ -3428,6 +3428,18 @@
 			"nhlUrl": "https://www.nhl.com/video/chi-at-fla-recap-6407937129112",
 			"updatedAt": "2026-11-05T04:00:13.088Z"
 		},
+		"2026020249": {
+			"gameId": "2026020249",
+			"date": "2026-11-04",
+			"start": "2026-11-05T03:00:00Z",
+			"home": "LAK",
+			"away": "SJS",
+			"slug": "lak-sjs",
+			"finalSeenAt": "2026-11-05T05:50:57.183Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-05T05:50:57.183Z"
+		},
 		"2026020250": {
 			"gameId": "2026020250",
 			"date": "2026-11-04",
