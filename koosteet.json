@@ -3399,6 +3399,30 @@
 			"publishedAt": "2026-11-04T05:09:01.000Z",
 			"nhlUrl": "https://www.nhl.com/video/ana-at-van-recap-6407886321112",
 			"updatedAt": "2026-11-04T08:40:20.133Z"
+		},
+		"2026020247": {
+			"gameId": "2026020247",
+			"date": "2026-11-04",
+			"start": "2026-11-05T00:30:00Z",
+			"home": "BUF",
+			"away": "OTT",
+			"slug": "buf-ott",
+			"finalSeenAt": "2026-11-05T03:20:22.755Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-05T03:20:22.755Z"
+		},
+		"2026020248": {
+			"gameId": "2026020248",
+			"date": "2026-11-04",
+			"start": "2026-11-05T00:30:00Z",
+			"home": "FLA",
+			"away": "CHI",
+			"slug": "fla-chi",
+			"finalSeenAt": "2026-11-05T03:20:22.755Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-05T03:20:22.755Z"
 		}
 	}
 }
