@@ -3427,6 +3427,18 @@
 			"watchUrl": "https://www.nhl.com/video/chi-at-fla-recap-6407937129112",
 			"nhlUrl": "https://www.nhl.com/video/chi-at-fla-recap-6407937129112",
 			"updatedAt": "2026-11-05T04:00:13.088Z"
+		},
+		"2026020250": {
+			"gameId": "2026020250",
+			"date": "2026-11-04",
+			"start": "2026-11-05T03:00:00Z",
+			"home": "SEA",
+			"away": "CGY",
+			"slug": "sea-cgy",
+			"finalSeenAt": "2026-11-05T05:40:39.192Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-05T05:40:39.192Z"
 		}
 	}
 }
