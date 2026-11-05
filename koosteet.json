@@ -3409,10 +3409,14 @@
 			"slug": "buf-ott",
 			"finalSeenAt": "2026-11-05T03:20:22.755Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/ott-at-buf-recap-6407936357112",
+			"provider": "youtube",
+			"videoId": "CxDC8uvP7ns",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/CxDC8uvP7ns",
+			"watchUrl": "https://www.youtube.com/watch?v=CxDC8uvP7ns",
+			"sourceTitle": "Senators vs. Sabres | NHL Highlights | Nov 4, 2026",
+			"publishedAt": "2026-11-05T03:49:48.000Z",
 			"nhlUrl": "https://www.nhl.com/video/ott-at-buf-recap-6407936357112",
-			"updatedAt": "2026-11-05T04:00:13.088Z"
+			"updatedAt": "2026-11-05T08:20:44.972Z"
 		},
 		"2026020248": {
 			"gameId": "2026020248",
@@ -3423,10 +3427,14 @@
 			"slug": "fla-chi",
 			"finalSeenAt": "2026-11-05T03:20:22.755Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/chi-at-fla-recap-6407937129112",
+			"provider": "youtube",
+			"videoId": "4BtG6ogYZVo",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/4BtG6ogYZVo",
+			"watchUrl": "https://www.youtube.com/watch?v=4BtG6ogYZVo",
+			"sourceTitle": "Blackhawks vs. Panthers | NHL Highlights | Nov 4, 2026",
+			"publishedAt": "2026-11-05T03:58:04.000Z",
 			"nhlUrl": "https://www.nhl.com/video/chi-at-fla-recap-6407937129112",
-			"updatedAt": "2026-11-05T04:00:13.088Z"
+			"updatedAt": "2026-11-05T08:20:44.972Z"
 		},
 		"2026020249": {
 			"gameId": "2026020249",
@@ -3437,10 +3445,14 @@
 			"slug": "lak-sjs",
 			"finalSeenAt": "2026-11-05T05:50:57.183Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/sjs-at-lak-recap-6407941444112",
+			"provider": "youtube",
+			"videoId": "7Q1a_yEzZEk",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/7Q1a_yEzZEk",
+			"watchUrl": "https://www.youtube.com/watch?v=7Q1a_yEzZEk",
+			"sourceTitle": "Sharks vs. Kings | NHL Highlights | Nov 4, 2026",
+			"publishedAt": "2026-11-05T06:12:37.000Z",
 			"nhlUrl": "https://www.nhl.com/video/sjs-at-lak-recap-6407941444112",
-			"updatedAt": "2026-11-05T06:21:09.439Z"
+			"updatedAt": "2026-11-05T08:20:44.972Z"
 		},
 		"2026020250": {
 			"gameId": "2026020250",
@@ -3451,10 +3463,14 @@
 			"slug": "sea-cgy",
 			"finalSeenAt": "2026-11-05T05:40:39.192Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/cgy-at-sea-recap-6407942016112",
+			"provider": "youtube",
+			"videoId": "-jrkWcMrmiw",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/-jrkWcMrmiw",
+			"watchUrl": "https://www.youtube.com/watch?v=-jrkWcMrmiw",
+			"sourceTitle": "Flames vs. Kraken | NHL Highlights | Nov 4, 2026",
+			"publishedAt": "2026-11-05T06:03:36.000Z",
 			"nhlUrl": "https://www.nhl.com/video/cgy-at-sea-recap-6407942016112",
-			"updatedAt": "2026-11-05T06:21:09.439Z"
+			"updatedAt": "2026-11-05T08:20:44.972Z"
 		}
 	}
 }
