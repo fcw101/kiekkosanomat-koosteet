@@ -3436,9 +3436,11 @@
 			"away": "SJS",
 			"slug": "lak-sjs",
 			"finalSeenAt": "2026-11-05T05:50:57.183Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-05T05:50:57.183Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/sjs-at-lak-recap-6407941444112",
+			"nhlUrl": "https://www.nhl.com/video/sjs-at-lak-recap-6407941444112",
+			"updatedAt": "2026-11-05T06:21:09.439Z"
 		},
 		"2026020250": {
 			"gameId": "2026020250",
@@ -3448,9 +3450,11 @@
 			"away": "CGY",
 			"slug": "sea-cgy",
 			"finalSeenAt": "2026-11-05T05:40:39.192Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-05T05:40:39.192Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/cgy-at-sea-recap-6407942016112",
+			"nhlUrl": "https://www.nhl.com/video/cgy-at-sea-recap-6407942016112",
+			"updatedAt": "2026-11-05T06:21:09.439Z"
 		}
 	}
 }
