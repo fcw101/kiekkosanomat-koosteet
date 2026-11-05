@@ -3408,9 +3408,11 @@
 			"away": "OTT",
 			"slug": "buf-ott",
 			"finalSeenAt": "2026-11-05T03:20:22.755Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-05T03:20:22.755Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/ott-at-buf-recap-6407936357112",
+			"nhlUrl": "https://www.nhl.com/video/ott-at-buf-recap-6407936357112",
+			"updatedAt": "2026-11-05T04:00:13.088Z"
 		},
 		"2026020248": {
 			"gameId": "2026020248",
@@ -3420,9 +3422,11 @@
 			"away": "CHI",
 			"slug": "fla-chi",
 			"finalSeenAt": "2026-11-05T03:20:22.755Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-05T03:20:22.755Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/chi-at-fla-recap-6407937129112",
+			"nhlUrl": "https://www.nhl.com/video/chi-at-fla-recap-6407937129112",
+			"updatedAt": "2026-11-05T04:00:13.088Z"
 		}
 	}
 }
