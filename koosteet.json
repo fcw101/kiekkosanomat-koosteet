@@ -3620,9 +3620,11 @@
 			"away": "NSH",
 			"slug": "col-nsh",
 			"finalSeenAt": "2026-11-06T05:30:13.538Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-06T05:30:13.538Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/nsh-at-col-recap-6408003401112",
+			"nhlUrl": "https://www.nhl.com/video/nsh-at-col-recap-6408003401112",
+			"updatedAt": "2026-11-06T05:50:14.177Z"
 		}
 	}
 }
