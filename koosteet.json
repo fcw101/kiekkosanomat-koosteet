@@ -3480,9 +3480,11 @@
 			"away": "UTA",
 			"slug": "mtl-uta",
 			"finalSeenAt": "2026-11-06T03:00:15.881Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-06T03:00:15.881Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/uta-at-mtl-recap-6407996710112",
+			"nhlUrl": "https://www.nhl.com/video/uta-at-mtl-recap-6407996710112",
+			"updatedAt": "2026-11-06T03:30:30.798Z"
 		},
 		"2026020252": {
 			"gameId": "2026020252",
@@ -3508,9 +3510,9 @@
 			"finalSeenAt": "2026-11-06T03:00:15.881Z",
 			"status": "available",
 			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/chi-at-tbl-recap-6407997101112",
-			"nhlUrl": "https://www.nhl.com/video/chi-at-tbl-recap-6407997101112",
-			"updatedAt": "2026-11-06T03:10:22.810Z"
+			"watchUrl": "https://www.nhl.com/video/chi-at-tbl-recap-6407997968112",
+			"nhlUrl": "https://www.nhl.com/video/chi-at-tbl-recap-6407997968112",
+			"updatedAt": "2026-11-06T03:30:30.798Z"
 		},
 		"2026020254": {
 			"gameId": "2026020254",
@@ -3576,9 +3578,11 @@
 			"away": "DAL",
 			"slug": "cbj-dal",
 			"finalSeenAt": "2026-11-06T03:00:15.881Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-06T03:00:15.881Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/dal-at-cbj-recap-6407997311112",
+			"nhlUrl": "https://www.nhl.com/video/dal-at-cbj-recap-6407997311112",
+			"updatedAt": "2026-11-06T03:30:30.798Z"
 		},
 		"2026020259": {
 			"gameId": "2026020259",
