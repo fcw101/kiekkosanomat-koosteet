@@ -3611,6 +3611,18 @@
 			"watchUrl": "https://www.nhl.com/video/ana-at-edm-recap-6407998522112",
 			"nhlUrl": "https://www.nhl.com/video/ana-at-edm-recap-6407998522112",
 			"updatedAt": "2026-11-06T04:20:17.122Z"
+		},
+		"2026020261": {
+			"gameId": "2026020261",
+			"date": "2026-11-05",
+			"start": "2026-11-06T02:30:00Z",
+			"home": "COL",
+			"away": "NSH",
+			"slug": "col-nsh",
+			"finalSeenAt": "2026-11-06T05:30:13.538Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-06T05:30:13.538Z"
 		}
 	}
 }
