@@ -3597,6 +3597,20 @@
 			"watchUrl": "https://www.nhl.com/video/van-at-wpg-recap-6407998453112",
 			"nhlUrl": "https://www.nhl.com/video/van-at-wpg-recap-6407998453112",
 			"updatedAt": "2026-11-06T03:10:22.810Z"
+		},
+		"2026020260": {
+			"gameId": "2026020260",
+			"date": "2026-11-05",
+			"start": "2026-11-06T01:00:00Z",
+			"home": "EDM",
+			"away": "ANA",
+			"slug": "edm-ana",
+			"finalSeenAt": "2026-11-06T04:20:17.122Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/ana-at-edm-recap-6407998522112",
+			"nhlUrl": "https://www.nhl.com/video/ana-at-edm-recap-6407998522112",
+			"updatedAt": "2026-11-06T04:20:17.122Z"
 		}
 	}
 }
