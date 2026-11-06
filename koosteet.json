@@ -3471,6 +3471,80 @@
 			"publishedAt": "2026-11-05T06:03:36.000Z",
 			"nhlUrl": "https://www.nhl.com/video/cgy-at-sea-recap-6407942016112",
 			"updatedAt": "2026-11-05T08:20:44.972Z"
+		},
+		"2026020252": {
+			"gameId": "2026020252",
+			"date": "2026-11-05",
+			"start": "2026-11-06T00:00:00Z",
+			"home": "DET",
+			"away": "VGK",
+			"slug": "det-vgk",
+			"finalSeenAt": "2026-11-06T02:50:11.015Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-06T02:50:11.015Z"
+		},
+		"2026020254": {
+			"gameId": "2026020254",
+			"date": "2026-11-05",
+			"start": "2026-11-06T00:00:00Z",
+			"home": "NJD",
+			"away": "STL",
+			"slug": "njd-stl",
+			"finalSeenAt": "2026-11-06T02:50:11.015Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-06T02:50:11.015Z"
+		},
+		"2026020255": {
+			"gameId": "2026020255",
+			"date": "2026-11-05",
+			"start": "2026-11-06T00:00:00Z",
+			"home": "NYI",
+			"away": "CAR",
+			"slug": "nyi-car",
+			"finalSeenAt": "2026-11-06T02:50:11.015Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-06T02:50:11.015Z"
+		},
+		"2026020256": {
+			"gameId": "2026020256",
+			"date": "2026-11-05",
+			"start": "2026-11-06T00:00:00Z",
+			"home": "NYR",
+			"away": "PHI",
+			"slug": "nyr-phi",
+			"finalSeenAt": "2026-11-06T02:50:11.015Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-06T02:50:11.015Z"
+		},
+		"2026020257": {
+			"gameId": "2026020257",
+			"date": "2026-11-05",
+			"start": "2026-11-06T00:00:00Z",
+			"home": "PIT",
+			"away": "BOS",
+			"slug": "pit-bos",
+			"finalSeenAt": "2026-11-06T02:50:11.015Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/bos-at-pit-recap-6407996754112",
+			"nhlUrl": "https://www.nhl.com/video/bos-at-pit-recap-6407996754112",
+			"updatedAt": "2026-11-06T02:50:11.015Z"
+		},
+		"2026020259": {
+			"gameId": "2026020259",
+			"date": "2026-11-05",
+			"start": "2026-11-06T00:00:00Z",
+			"home": "WPG",
+			"away": "VAN",
+			"slug": "wpg-van",
+			"finalSeenAt": "2026-11-06T02:50:11.015Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-06T02:50:11.015Z"
 		}
 	}
 }
