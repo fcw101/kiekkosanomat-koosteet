@@ -3472,6 +3472,18 @@
 			"nhlUrl": "https://www.nhl.com/video/cgy-at-sea-recap-6407942016112",
 			"updatedAt": "2026-11-05T08:20:44.972Z"
 		},
+		"2026020251": {
+			"gameId": "2026020251",
+			"date": "2026-11-05",
+			"start": "2026-11-06T00:00:00Z",
+			"home": "MTL",
+			"away": "UTA",
+			"slug": "mtl-uta",
+			"finalSeenAt": "2026-11-06T03:00:15.881Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-06T03:00:15.881Z"
+		},
 		"2026020252": {
 			"gameId": "2026020252",
 			"date": "2026-11-05",
@@ -3483,6 +3495,18 @@
 			"status": "pending",
 			"nhlUrl": null,
 			"updatedAt": "2026-11-06T02:50:11.015Z"
+		},
+		"2026020253": {
+			"gameId": "2026020253",
+			"date": "2026-11-05",
+			"start": "2026-11-06T00:00:00Z",
+			"home": "TBL",
+			"away": "CHI",
+			"slug": "tbl-chi",
+			"finalSeenAt": "2026-11-06T03:00:15.881Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-06T03:00:15.881Z"
 		},
 		"2026020254": {
 			"gameId": "2026020254",
@@ -3516,9 +3540,11 @@
 			"away": "PHI",
 			"slug": "nyr-phi",
 			"finalSeenAt": "2026-11-06T02:50:11.015Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-06T02:50:11.015Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/phi-at-nyr-recap-6407995191112",
+			"nhlUrl": "https://www.nhl.com/video/phi-at-nyr-recap-6407995191112",
+			"updatedAt": "2026-11-06T03:00:15.881Z"
 		},
 		"2026020257": {
 			"gameId": "2026020257",
@@ -3530,9 +3556,21 @@
 			"finalSeenAt": "2026-11-06T02:50:11.015Z",
 			"status": "available",
 			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/bos-at-pit-recap-6407996754112",
-			"nhlUrl": "https://www.nhl.com/video/bos-at-pit-recap-6407996754112",
-			"updatedAt": "2026-11-06T02:50:11.015Z"
+			"watchUrl": "https://www.nhl.com/video/bos-at-pit-recap-6407996761112",
+			"nhlUrl": "https://www.nhl.com/video/bos-at-pit-recap-6407996761112",
+			"updatedAt": "2026-11-06T03:00:15.881Z"
+		},
+		"2026020258": {
+			"gameId": "2026020258",
+			"date": "2026-11-05",
+			"start": "2026-11-06T00:00:00Z",
+			"home": "CBJ",
+			"away": "DAL",
+			"slug": "cbj-dal",
+			"finalSeenAt": "2026-11-06T03:00:15.881Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-06T03:00:15.881Z"
 		},
 		"2026020259": {
 			"gameId": "2026020259",
@@ -3542,9 +3580,11 @@
 			"away": "VAN",
 			"slug": "wpg-van",
 			"finalSeenAt": "2026-11-06T02:50:11.015Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-06T02:50:11.015Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/van-at-wpg-recap-6407997063112",
+			"nhlUrl": "https://www.nhl.com/video/van-at-wpg-recap-6407997063112",
+			"updatedAt": "2026-11-06T03:00:15.881Z"
 		}
 	}
 }
