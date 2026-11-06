@@ -3492,9 +3492,11 @@
 			"away": "VGK",
 			"slug": "det-vgk",
 			"finalSeenAt": "2026-11-06T02:50:11.015Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-06T02:50:11.015Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/vgk-at-det-recap-6407996291112",
+			"nhlUrl": "https://www.nhl.com/video/vgk-at-det-recap-6407996291112",
+			"updatedAt": "2026-11-06T03:10:22.810Z"
 		},
 		"2026020253": {
 			"gameId": "2026020253",
@@ -3504,9 +3506,11 @@
 			"away": "CHI",
 			"slug": "tbl-chi",
 			"finalSeenAt": "2026-11-06T03:00:15.881Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-06T03:00:15.881Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/chi-at-tbl-recap-6407997101112",
+			"nhlUrl": "https://www.nhl.com/video/chi-at-tbl-recap-6407997101112",
+			"updatedAt": "2026-11-06T03:10:22.810Z"
 		},
 		"2026020254": {
 			"gameId": "2026020254",
@@ -3516,9 +3520,11 @@
 			"away": "STL",
 			"slug": "njd-stl",
 			"finalSeenAt": "2026-11-06T02:50:11.015Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-06T02:50:11.015Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/stl-at-njd-recap-6407997192112",
+			"nhlUrl": "https://www.nhl.com/video/stl-at-njd-recap-6407997192112",
+			"updatedAt": "2026-11-06T03:10:22.810Z"
 		},
 		"2026020255": {
 			"gameId": "2026020255",
@@ -3528,9 +3534,11 @@
 			"away": "CAR",
 			"slug": "nyi-car",
 			"finalSeenAt": "2026-11-06T02:50:11.015Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-06T02:50:11.015Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/car-at-nyi-recap-6407998336112",
+			"nhlUrl": "https://www.nhl.com/video/car-at-nyi-recap-6407998336112",
+			"updatedAt": "2026-11-06T03:10:22.810Z"
 		},
 		"2026020256": {
 			"gameId": "2026020256",
@@ -3582,9 +3590,9 @@
 			"finalSeenAt": "2026-11-06T02:50:11.015Z",
 			"status": "available",
 			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/van-at-wpg-recap-6407997063112",
-			"nhlUrl": "https://www.nhl.com/video/van-at-wpg-recap-6407997063112",
-			"updatedAt": "2026-11-06T03:00:15.881Z"
+			"watchUrl": "https://www.nhl.com/video/van-at-wpg-recap-6407998453112",
+			"nhlUrl": "https://www.nhl.com/video/van-at-wpg-recap-6407998453112",
+			"updatedAt": "2026-11-06T03:10:22.810Z"
 		}
 	}
 }
