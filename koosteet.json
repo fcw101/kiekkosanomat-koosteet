@@ -3669,6 +3669,18 @@
 			"publishedAt": "2026-11-06T05:33:35.000Z",
 			"nhlUrl": "https://www.nhl.com/video/nsh-at-col-recap-6408003401112",
 			"updatedAt": "2026-11-06T08:20:11.816Z"
+		},
+		"2026020262": {
+			"gameId": "2026020262",
+			"date": "2026-11-06",
+			"start": "2026-11-07T00:00:00Z",
+			"home": "BUF",
+			"away": "CBJ",
+			"slug": "buf-cbj",
+			"finalSeenAt": "2026-11-07T02:50:22.272Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-07T02:50:22.272Z"
 		}
 	}
 }
