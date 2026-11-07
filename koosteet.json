@@ -3678,9 +3678,11 @@
 			"away": "CBJ",
 			"slug": "buf-cbj",
 			"finalSeenAt": "2026-11-07T02:50:22.272Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-07T02:50:22.272Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/cbj-at-buf-recap-6408049269112",
+			"nhlUrl": "https://www.nhl.com/video/cbj-at-buf-recap-6408049269112",
+			"updatedAt": "2026-11-07T03:30:12.409Z"
 		}
 	}
 }
