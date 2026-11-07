@@ -3679,10 +3679,14 @@
 			"slug": "buf-cbj",
 			"finalSeenAt": "2026-11-07T02:50:22.272Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/cbj-at-buf-recap-6408049269112",
+			"provider": "youtube",
+			"videoId": "pnmF33hLfdM",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/pnmF33hLfdM",
+			"watchUrl": "https://www.youtube.com/watch?v=pnmF33hLfdM",
+			"sourceTitle": "Blue Jackets vs. Sabres | NHL Highlights | Nov 6, 2026",
+			"publishedAt": "2026-11-07T03:08:40.000Z",
 			"nhlUrl": "https://www.nhl.com/video/cbj-at-buf-recap-6408049269112",
-			"updatedAt": "2026-11-07T03:30:12.409Z"
+			"updatedAt": "2026-11-07T08:40:45.746Z"
 		},
 		"2026020263": {
 			"gameId": "2026020263",
@@ -3693,10 +3697,14 @@
 			"slug": "min-sjs",
 			"finalSeenAt": "2026-11-07T03:50:17.966Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/sjs-at-min-recap-6408050423112",
+			"provider": "youtube",
+			"videoId": "sT4lKicXk-U",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/sT4lKicXk-U",
+			"watchUrl": "https://www.youtube.com/watch?v=sT4lKicXk-U",
+			"sourceTitle": "Sharks vs. Wild | NHL Highlights | Nov 6, 2026",
+			"publishedAt": "2026-11-07T03:49:28.000Z",
 			"nhlUrl": "https://www.nhl.com/video/sjs-at-min-recap-6408050423112",
-			"updatedAt": "2026-11-07T04:10:49.028Z"
+			"updatedAt": "2026-11-07T08:40:45.746Z"
 		},
 		"2026020264": {
 			"gameId": "2026020264",
@@ -3707,10 +3715,14 @@
 			"slug": "cgy-ana",
 			"finalSeenAt": "2026-11-07T03:50:17.966Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/ana-at-cgy-recap-6408050315112",
+			"provider": "youtube",
+			"videoId": "bNGH4Krt1AM",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/bNGH4Krt1AM",
+			"watchUrl": "https://www.youtube.com/watch?v=bNGH4Krt1AM",
+			"sourceTitle": "Ducks vs. Flames | NHL Highlights | Nov 6, 2026",
+			"publishedAt": "2026-11-07T03:58:51.000Z",
 			"nhlUrl": "https://www.nhl.com/video/ana-at-cgy-recap-6408050315112",
-			"updatedAt": "2026-11-07T04:10:49.028Z"
+			"updatedAt": "2026-11-07T08:40:45.746Z"
 		}
 	}
 }
