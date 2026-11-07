@@ -3732,9 +3732,33 @@
 			"away": "FLA",
 			"slug": "wsh-fla",
 			"finalSeenAt": "2026-11-07T20:15:23.761Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-07T20:15:23.761Z"
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "x27RbKgo4Nc",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/x27RbKgo4Nc",
+			"watchUrl": "https://www.youtube.com/watch?v=x27RbKgo4Nc",
+			"sourceTitle": "Panthers vs. Capitals | NHL Highlights | Nov 7, 2026",
+			"publishedAt": "2026-11-07T20:30:59.000Z",
+			"nhlUrl": "https://www.nhl.com/video/fla-at-wsh-recap-6408074046112",
+			"updatedAt": "2026-11-07T21:00:10.637Z"
+		},
+		"2026020266": {
+			"gameId": "2026020266",
+			"date": "2026-11-07",
+			"start": "2026-11-07T18:00:00Z",
+			"home": "NSH",
+			"away": "STL",
+			"slug": "nsh-stl",
+			"finalSeenAt": "2026-11-07T21:00:10.637Z",
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "KYYoIEWfd5o",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/KYYoIEWfd5o",
+			"watchUrl": "https://www.youtube.com/watch?v=KYYoIEWfd5o",
+			"sourceTitle": "Blues vs. Predators | NHL Highlights | Nov 7, 2026",
+			"publishedAt": "2026-11-07T20:57:34.000Z",
+			"nhlUrl": "https://www.nhl.com/video/stl-at-nsh-recap-6408076114112",
+			"updatedAt": "2026-11-07T21:00:10.637Z"
 		}
 	}
 }
