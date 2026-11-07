@@ -3683,6 +3683,30 @@
 			"watchUrl": "https://www.nhl.com/video/cbj-at-buf-recap-6408049269112",
 			"nhlUrl": "https://www.nhl.com/video/cbj-at-buf-recap-6408049269112",
 			"updatedAt": "2026-11-07T03:30:12.409Z"
+		},
+		"2026020263": {
+			"gameId": "2026020263",
+			"date": "2026-11-06",
+			"start": "2026-11-07T01:00:00Z",
+			"home": "MIN",
+			"away": "SJS",
+			"slug": "min-sjs",
+			"finalSeenAt": "2026-11-07T03:50:17.966Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-07T03:50:17.966Z"
+		},
+		"2026020264": {
+			"gameId": "2026020264",
+			"date": "2026-11-06",
+			"start": "2026-11-07T01:00:00Z",
+			"home": "CGY",
+			"away": "ANA",
+			"slug": "cgy-ana",
+			"finalSeenAt": "2026-11-07T03:50:17.966Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-07T03:50:17.966Z"
 		}
 	}
 }
