@@ -3692,9 +3692,11 @@
 			"away": "SJS",
 			"slug": "min-sjs",
 			"finalSeenAt": "2026-11-07T03:50:17.966Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-07T03:50:17.966Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/sjs-at-min-recap-6408050423112",
+			"nhlUrl": "https://www.nhl.com/video/sjs-at-min-recap-6408050423112",
+			"updatedAt": "2026-11-07T04:10:49.028Z"
 		},
 		"2026020264": {
 			"gameId": "2026020264",
@@ -3704,9 +3706,11 @@
 			"away": "ANA",
 			"slug": "cgy-ana",
 			"finalSeenAt": "2026-11-07T03:50:17.966Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-07T03:50:17.966Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/ana-at-cgy-recap-6408050315112",
+			"nhlUrl": "https://www.nhl.com/video/ana-at-cgy-recap-6408050315112",
+			"updatedAt": "2026-11-07T04:10:49.028Z"
 		}
 	}
 }
