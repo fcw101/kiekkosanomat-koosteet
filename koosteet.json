@@ -3625,6 +3625,30 @@
 			"status": "pending",
 			"nhlUrl": null,
 			"updatedAt": "2026-11-08T02:50:18.819Z"
+		},
+		"2026020269": {
+			"gameId": "2026020269",
+			"date": "2026-11-07",
+			"start": "2026-11-08T00:00:00Z",
+			"home": "OTT",
+			"away": "UTA",
+			"slug": "ott-uta",
+			"finalSeenAt": "2026-11-08T03:00:22.573Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-08T03:00:22.573Z"
+		},
+		"2026020270": {
+			"gameId": "2026020270",
+			"date": "2026-11-07",
+			"start": "2026-11-08T00:00:00Z",
+			"home": "NYI",
+			"away": "NJD",
+			"slug": "nyi-njd",
+			"finalSeenAt": "2026-11-08T03:00:22.573Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-08T03:00:22.573Z"
 		}
 	}
 }
