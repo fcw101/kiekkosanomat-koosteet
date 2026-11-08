@@ -3779,6 +3779,18 @@
 			"publishedAt": "2026-11-08T05:55:26.000Z",
 			"nhlUrl": "https://www.nhl.com/video/van-at-edm-recap-6408092909112",
 			"updatedAt": "2026-11-08T08:21:05.258Z"
+		},
+		"2026020277": {
+			"gameId": "2026020277",
+			"date": "2026-11-08",
+			"start": "2026-11-08T18:00:00Z",
+			"home": "BOS",
+			"away": "FLA",
+			"slug": "bos-fla",
+			"finalSeenAt": "2026-11-08T21:10:55.793Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-08T21:10:55.793Z"
 		}
 	}
 }
