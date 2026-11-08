@@ -3608,9 +3608,11 @@
 			"away": "NYR",
 			"slug": "sea-nyr",
 			"finalSeenAt": "2026-11-08T00:40:27.042Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-08T00:40:27.042Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/nyr-at-sea-recap-6408082097112",
+			"nhlUrl": "https://www.nhl.com/video/nyr-at-sea-recap-6408082097112",
+			"updatedAt": "2026-11-08T01:10:15.409Z"
 		}
 	}
 }
