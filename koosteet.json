@@ -3638,9 +3638,9 @@
 			"finalSeenAt": "2026-11-08T03:00:22.573Z",
 			"status": "available",
 			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/uta-at-ott-recap-6408086963112",
-			"nhlUrl": "https://www.nhl.com/video/uta-at-ott-recap-6408086963112",
-			"updatedAt": "2026-11-08T03:10:15.863Z"
+			"watchUrl": "https://www.nhl.com/video/uta-at-ott-recap-6408087448112",
+			"nhlUrl": "https://www.nhl.com/video/uta-at-ott-recap-6408087448112",
+			"updatedAt": "2026-11-08T03:40:23.058Z"
 		},
 		"2026020270": {
 			"gameId": "2026020270",
@@ -3650,9 +3650,23 @@
 			"away": "NJD",
 			"slug": "nyi-njd",
 			"finalSeenAt": "2026-11-08T03:00:22.573Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/njd-at-nyi-recap-6408087453112",
+			"nhlUrl": "https://www.nhl.com/video/njd-at-nyi-recap-6408087453112",
+			"updatedAt": "2026-11-08T03:40:23.058Z"
+		},
+		"2026020271": {
+			"gameId": "2026020271",
+			"date": "2026-11-07",
+			"start": "2026-11-08T01:00:00Z",
+			"home": "CAR",
+			"away": "CHI",
+			"slug": "car-chi",
+			"finalSeenAt": "2026-11-08T03:40:23.058Z",
 			"status": "pending",
 			"nhlUrl": null,
-			"updatedAt": "2026-11-08T03:00:22.573Z"
+			"updatedAt": "2026-11-08T03:40:23.058Z"
 		}
 	}
 }
