@@ -3613,6 +3613,18 @@
 			"watchUrl": "https://www.nhl.com/video/nyr-at-sea-recap-6408082097112",
 			"nhlUrl": "https://www.nhl.com/video/nyr-at-sea-recap-6408082097112",
 			"updatedAt": "2026-11-08T01:10:15.409Z"
+		},
+		"2026020268": {
+			"gameId": "2026020268",
+			"date": "2026-11-07",
+			"start": "2026-11-08T00:00:00Z",
+			"home": "TOR",
+			"away": "MTL",
+			"slug": "tor-mtl",
+			"finalSeenAt": "2026-11-08T02:50:18.819Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-08T02:50:18.819Z"
 		}
 	}
 }
