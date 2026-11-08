@@ -3734,9 +3734,11 @@
 			"away": "VAN",
 			"slug": "edm-van",
 			"finalSeenAt": "2026-11-08T05:47:43.541Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-08T05:47:43.541Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/van-at-edm-recap-6408090530112",
+			"nhlUrl": "https://www.nhl.com/video/van-at-edm-recap-6408090530112",
+			"updatedAt": "2026-11-08T06:00:17.095Z"
 		}
 	}
 }
