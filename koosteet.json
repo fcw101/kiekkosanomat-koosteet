@@ -3720,9 +3720,11 @@
 			"away": "PIT",
 			"slug": "lak-pit",
 			"finalSeenAt": "2026-11-08T05:00:30.483Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-08T05:00:30.483Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/pit-at-lak-recap-6408091968112",
+			"nhlUrl": "https://www.nhl.com/video/pit-at-lak-recap-6408091968112",
+			"updatedAt": "2026-11-08T05:10:28.731Z"
 		}
 	}
 }
