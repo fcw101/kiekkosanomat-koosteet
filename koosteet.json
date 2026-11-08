@@ -3678,9 +3678,11 @@
 			"away": "SJS",
 			"slug": "dal-sjs",
 			"finalSeenAt": "2026-11-08T04:00:45.787Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-08T04:00:45.787Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/sjs-at-dal-recap-6408089846112",
+			"nhlUrl": "https://www.nhl.com/video/sjs-at-dal-recap-6408089846112",
+			"updatedAt": "2026-11-08T04:10:20.502Z"
 		},
 		"2026020273": {
 			"gameId": "2026020273",
