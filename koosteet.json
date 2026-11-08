@@ -3725,6 +3725,18 @@
 			"watchUrl": "https://www.nhl.com/video/pit-at-lak-recap-6408091968112",
 			"nhlUrl": "https://www.nhl.com/video/pit-at-lak-recap-6408091968112",
 			"updatedAt": "2026-11-08T05:10:28.731Z"
+		},
+		"2026020276": {
+			"gameId": "2026020276",
+			"date": "2026-11-07",
+			"start": "2026-11-08T03:00:00Z",
+			"home": "EDM",
+			"away": "VAN",
+			"slug": "edm-van",
+			"finalSeenAt": "2026-11-08T05:47:43.541Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-08T05:47:43.541Z"
 		}
 	}
 }
