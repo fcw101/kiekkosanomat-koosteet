@@ -3664,9 +3664,35 @@
 			"away": "CHI",
 			"slug": "car-chi",
 			"finalSeenAt": "2026-11-08T03:40:23.058Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/chi-at-car-recap-6408089937112",
+			"nhlUrl": "https://www.nhl.com/video/chi-at-car-recap-6408089937112",
+			"updatedAt": "2026-11-08T04:00:45.787Z"
+		},
+		"2026020272": {
+			"gameId": "2026020272",
+			"date": "2026-11-07",
+			"start": "2026-11-08T01:00:00Z",
+			"home": "DAL",
+			"away": "SJS",
+			"slug": "dal-sjs",
+			"finalSeenAt": "2026-11-08T04:00:45.787Z",
 			"status": "pending",
 			"nhlUrl": null,
-			"updatedAt": "2026-11-08T03:40:23.058Z"
+			"updatedAt": "2026-11-08T04:00:45.787Z"
+		},
+		"2026020273": {
+			"gameId": "2026020273",
+			"date": "2026-11-07",
+			"start": "2026-11-08T01:00:00Z",
+			"home": "MIN",
+			"away": "TBL",
+			"slug": "min-tbl",
+			"finalSeenAt": "2026-11-08T04:00:45.787Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-08T04:00:45.787Z"
 		}
 	}
 }
