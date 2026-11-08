@@ -3599,6 +3599,18 @@
 			"publishedAt": "2026-11-07T20:57:34.000Z",
 			"nhlUrl": "https://www.nhl.com/video/stl-at-nsh-recap-6408076114112",
 			"updatedAt": "2026-11-07T21:00:10.637Z"
+		},
+		"2026020267": {
+			"gameId": "2026020267",
+			"date": "2026-11-07",
+			"start": "2026-11-07T22:00:00Z",
+			"home": "SEA",
+			"away": "NYR",
+			"slug": "sea-nyr",
+			"finalSeenAt": "2026-11-08T00:40:27.042Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-08T00:40:27.042Z"
 		}
 	}
 }
