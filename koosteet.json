@@ -3797,6 +3797,18 @@
 			"publishedAt": "2026-11-08T21:20:37.000Z",
 			"nhlUrl": "https://www.nhl.com/video/fla-at-bos-recap-6408110867112",
 			"updatedAt": "2026-11-08T21:40:20.975Z"
+		},
+		"2026020278": {
+			"gameId": "2026020278",
+			"date": "2026-11-08",
+			"start": "2026-11-08T20:30:00Z",
+			"home": "BUF",
+			"away": "VGK",
+			"slug": "buf-vgk",
+			"finalSeenAt": "2026-11-08T23:10:22.448Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-08T23:10:22.448Z"
 		}
 	}
 }
