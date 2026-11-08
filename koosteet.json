@@ -3622,9 +3622,11 @@
 			"away": "MTL",
 			"slug": "tor-mtl",
 			"finalSeenAt": "2026-11-08T02:50:18.819Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-08T02:50:18.819Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/mtl-at-tor-recap-6408086363112",
+			"nhlUrl": "https://www.nhl.com/video/mtl-at-tor-recap-6408086363112",
+			"updatedAt": "2026-11-08T03:10:15.863Z"
 		},
 		"2026020269": {
 			"gameId": "2026020269",
@@ -3634,9 +3636,11 @@
 			"away": "UTA",
 			"slug": "ott-uta",
 			"finalSeenAt": "2026-11-08T03:00:22.573Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-08T03:00:22.573Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/uta-at-ott-recap-6408086963112",
+			"nhlUrl": "https://www.nhl.com/video/uta-at-ott-recap-6408086963112",
+			"updatedAt": "2026-11-08T03:10:15.863Z"
 		},
 		"2026020270": {
 			"gameId": "2026020270",
