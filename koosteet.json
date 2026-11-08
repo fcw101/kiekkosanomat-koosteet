@@ -3806,9 +3806,11 @@
 			"away": "VGK",
 			"slug": "buf-vgk",
 			"finalSeenAt": "2026-11-08T23:10:22.448Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-08T23:10:22.448Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/vgk-at-buf-recap-6408113695112",
+			"nhlUrl": "https://www.nhl.com/video/vgk-at-buf-recap-6408113695112",
+			"updatedAt": "2026-11-08T23:40:12.412Z"
 		}
 	}
 }
