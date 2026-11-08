@@ -3788,9 +3788,15 @@
 			"away": "FLA",
 			"slug": "bos-fla",
 			"finalSeenAt": "2026-11-08T21:10:55.793Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-08T21:10:55.793Z"
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "V6RofOU4ZCg",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/V6RofOU4ZCg",
+			"watchUrl": "https://www.youtube.com/watch?v=V6RofOU4ZCg",
+			"sourceTitle": "Panthers vs. Bruins | NHL Highlights | Nov 8, 2026",
+			"publishedAt": "2026-11-08T21:20:37.000Z",
+			"nhlUrl": "https://www.nhl.com/video/fla-at-bos-recap-6408110867112",
+			"updatedAt": "2026-11-08T21:40:20.975Z"
 		}
 	}
 }
