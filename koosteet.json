@@ -3749,10 +3749,14 @@
 			"slug": "tor-njd",
 			"finalSeenAt": "2026-11-09T03:00:21.087Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/njd-at-tor-recap-6408118574112",
+			"provider": "youtube",
+			"videoId": "6RcXPVPOgsA",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/6RcXPVPOgsA",
+			"watchUrl": "https://www.youtube.com/watch?v=6RcXPVPOgsA",
+			"sourceTitle": "Devils vs. Maple Leafs | NHL Highlights | Nov 8, 2026",
+			"publishedAt": "2026-11-09T03:06:00.000Z",
 			"nhlUrl": "https://www.nhl.com/video/njd-at-tor-recap-6408118574112",
-			"updatedAt": "2026-11-09T03:10:22.801Z"
+			"updatedAt": "2026-11-09T06:30:27.572Z"
 		},
 		"2026020280": {
 			"gameId": "2026020280",
@@ -3763,10 +3767,14 @@
 			"slug": "wpg-tbl",
 			"finalSeenAt": "2026-11-09T01:50:16.761Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/tbl-at-wpg-recap-6408117827112",
+			"provider": "youtube",
+			"videoId": "RUhPvlIcERE",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/RUhPvlIcERE",
+			"watchUrl": "https://www.youtube.com/watch?v=RUhPvlIcERE",
+			"sourceTitle": "Lightning vs. Jets | NHL Highlights | Nov 8, 2026",
+			"publishedAt": "2026-11-09T01:49:42.000Z",
 			"nhlUrl": "https://www.nhl.com/video/tbl-at-wpg-recap-6408117827112",
-			"updatedAt": "2026-11-09T02:10:27.096Z"
+			"updatedAt": "2026-11-09T06:30:27.572Z"
 		},
 		"2026020281": {
 			"gameId": "2026020281",
@@ -3777,10 +3785,14 @@
 			"slug": "cgy-phi",
 			"finalSeenAt": "2026-11-09T03:00:21.087Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/phi-at-cgy-recap-6408119835112",
+			"provider": "youtube",
+			"videoId": "T_O2SFhAjG8",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/T_O2SFhAjG8",
+			"watchUrl": "https://www.youtube.com/watch?v=T_O2SFhAjG8",
+			"sourceTitle": "Flyers vs. Flames | NHL Highlights | Nov 8, 2026",
+			"publishedAt": "2026-11-09T03:05:51.000Z",
 			"nhlUrl": "https://www.nhl.com/video/phi-at-cgy-recap-6408119835112",
-			"updatedAt": "2026-11-09T03:30:40.747Z"
+			"updatedAt": "2026-11-09T06:30:27.572Z"
 		},
 		"2026020282": {
 			"gameId": "2026020282",
@@ -3791,10 +3803,14 @@
 			"slug": "ana-pit",
 			"finalSeenAt": "2026-11-09T04:20:26.134Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/pit-at-ana-recap-6408119980112",
+			"provider": "youtube",
+			"videoId": "6DVF7t4o9wY",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/6DVF7t4o9wY",
+			"watchUrl": "https://www.youtube.com/watch?v=6DVF7t4o9wY",
+			"sourceTitle": "Penguins vs. Ducks | NHL Highlights | Nov 8, 2026",
+			"publishedAt": "2026-11-09T04:53:02.000Z",
 			"nhlUrl": "https://www.nhl.com/video/pit-at-ana-recap-6408119980112",
-			"updatedAt": "2026-11-09T04:20:26.134Z"
+			"updatedAt": "2026-11-09T06:30:27.572Z"
 		}
 	}
 }
