@@ -3739,6 +3739,18 @@
 			"watchUrl": "https://www.nhl.com/video/vgk-at-buf-recap-6408113695112",
 			"nhlUrl": "https://www.nhl.com/video/vgk-at-buf-recap-6408113695112",
 			"updatedAt": "2026-11-08T23:40:12.412Z"
+		},
+		"2026020280": {
+			"gameId": "2026020280",
+			"date": "2026-11-08",
+			"start": "2026-11-08T23:00:00Z",
+			"home": "WPG",
+			"away": "TBL",
+			"slug": "wpg-tbl",
+			"finalSeenAt": "2026-11-09T01:50:16.761Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-09T01:50:16.761Z"
 		}
 	}
 }
