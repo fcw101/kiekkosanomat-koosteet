@@ -3781,6 +3781,20 @@
 			"watchUrl": "https://www.nhl.com/video/phi-at-cgy-recap-6408119835112",
 			"nhlUrl": "https://www.nhl.com/video/phi-at-cgy-recap-6408119835112",
 			"updatedAt": "2026-11-09T03:30:40.747Z"
+		},
+		"2026020282": {
+			"gameId": "2026020282",
+			"date": "2026-11-08",
+			"start": "2026-11-09T01:00:00Z",
+			"home": "ANA",
+			"away": "PIT",
+			"slug": "ana-pit",
+			"finalSeenAt": "2026-11-09T04:20:26.134Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/pit-at-ana-recap-6408119980112",
+			"nhlUrl": "https://www.nhl.com/video/pit-at-ana-recap-6408119980112",
+			"updatedAt": "2026-11-09T04:20:26.134Z"
 		}
 	}
 }
