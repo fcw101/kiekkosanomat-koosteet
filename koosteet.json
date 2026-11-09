@@ -3740,6 +3740,18 @@
 			"nhlUrl": "https://www.nhl.com/video/vgk-at-buf-recap-6408113695112",
 			"updatedAt": "2026-11-08T23:40:12.412Z"
 		},
+		"2026020279": {
+			"gameId": "2026020279",
+			"date": "2026-11-08",
+			"start": "2026-11-09T00:00:00Z",
+			"home": "TOR",
+			"away": "NJD",
+			"slug": "tor-njd",
+			"finalSeenAt": "2026-11-09T03:00:21.087Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-09T03:00:21.087Z"
+		},
 		"2026020280": {
 			"gameId": "2026020280",
 			"date": "2026-11-08",
@@ -3753,6 +3765,18 @@
 			"watchUrl": "https://www.nhl.com/video/tbl-at-wpg-recap-6408117827112",
 			"nhlUrl": "https://www.nhl.com/video/tbl-at-wpg-recap-6408117827112",
 			"updatedAt": "2026-11-09T02:10:27.096Z"
+		},
+		"2026020281": {
+			"gameId": "2026020281",
+			"date": "2026-11-08",
+			"start": "2026-11-09T00:00:00Z",
+			"home": "CGY",
+			"away": "PHI",
+			"slug": "cgy-phi",
+			"finalSeenAt": "2026-11-09T03:00:21.087Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-09T03:00:21.087Z"
 		}
 	}
 }
