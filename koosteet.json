@@ -3776,9 +3776,11 @@
 			"away": "PHI",
 			"slug": "cgy-phi",
 			"finalSeenAt": "2026-11-09T03:00:21.087Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-09T03:00:21.087Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/phi-at-cgy-recap-6408119835112",
+			"nhlUrl": "https://www.nhl.com/video/phi-at-cgy-recap-6408119835112",
+			"updatedAt": "2026-11-09T03:30:40.747Z"
 		}
 	}
 }
