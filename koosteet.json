@@ -3748,9 +3748,11 @@
 			"away": "TBL",
 			"slug": "wpg-tbl",
 			"finalSeenAt": "2026-11-09T01:50:16.761Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-09T01:50:16.761Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/tbl-at-wpg-recap-6408117827112",
+			"nhlUrl": "https://www.nhl.com/video/tbl-at-wpg-recap-6408117827112",
+			"updatedAt": "2026-11-09T02:10:27.096Z"
 		}
 	}
 }
