@@ -3748,9 +3748,11 @@
 			"away": "NJD",
 			"slug": "tor-njd",
 			"finalSeenAt": "2026-11-09T03:00:21.087Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-09T03:00:21.087Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/njd-at-tor-recap-6408118574112",
+			"nhlUrl": "https://www.nhl.com/video/njd-at-tor-recap-6408118574112",
+			"updatedAt": "2026-11-09T03:10:22.801Z"
 		},
 		"2026020280": {
 			"gameId": "2026020280",
