@@ -3735,10 +3735,14 @@
 			"slug": "buf-vgk",
 			"finalSeenAt": "2026-11-08T23:10:22.448Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/vgk-at-buf-recap-6408113695112",
+			"provider": "youtube",
+			"videoId": "e9qh3_krcg4",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/e9qh3_krcg4",
+			"watchUrl": "https://www.youtube.com/watch?v=e9qh3_krcg4",
+			"sourceTitle": "Golden Knights vs. Sabres | NHL Highlights | Nov 8, 2026",
+			"publishedAt": "2026-11-08T23:23:33.000Z",
 			"nhlUrl": "https://www.nhl.com/video/vgk-at-buf-recap-6408113695112",
-			"updatedAt": "2026-11-08T23:40:12.412Z"
+			"updatedAt": "2026-11-09T15:45:26.755Z"
 		},
 		"2026020279": {
 			"gameId": "2026020279",
