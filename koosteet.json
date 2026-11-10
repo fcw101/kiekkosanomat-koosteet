@@ -3573,10 +3573,14 @@
 			"slug": "edm-nyr",
 			"finalSeenAt": "2026-11-10T04:10:08.789Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/nyr-at-edm-recap-6408167927112",
+			"provider": "youtube",
+			"videoId": "KH9YP7YKtCk",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/KH9YP7YKtCk",
+			"watchUrl": "https://www.youtube.com/watch?v=KH9YP7YKtCk",
+			"sourceTitle": "Rangers vs. Oilers | NHL Highlights | Nov 9, 2026",
+			"publishedAt": "2026-11-10T03:58:10.000Z",
 			"nhlUrl": "https://www.nhl.com/video/nyr-at-edm-recap-6408167927112",
-			"updatedAt": "2026-11-10T04:10:08.789Z"
+			"updatedAt": "2026-11-10T08:00:24.048Z"
 		},
 		"2026020284": {
 			"gameId": "2026020284",
@@ -3587,10 +3591,14 @@
 			"slug": "van-phi",
 			"finalSeenAt": "2026-11-10T05:20:21.018Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/phi-at-van-recap-6408169654112",
+			"provider": "youtube",
+			"videoId": "sF3uOcJlHrs",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/sF3uOcJlHrs",
+			"watchUrl": "https://www.youtube.com/watch?v=sF3uOcJlHrs",
+			"sourceTitle": "Flyers vs. Canucks | NHL Highlights | Nov 9, 2026",
+			"publishedAt": "2026-11-10T05:25:54.000Z",
 			"nhlUrl": "https://www.nhl.com/video/phi-at-van-recap-6408169654112",
-			"updatedAt": "2026-11-10T05:50:19.186Z"
+			"updatedAt": "2026-11-10T08:00:24.048Z"
 		},
 		"2026020285": {
 			"gameId": "2026020285",
@@ -3601,10 +3609,14 @@
 			"slug": "sjs-nyi",
 			"finalSeenAt": "2026-11-10T06:00:21.883Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/nyi-at-sjs-recap-6408170478112",
+			"provider": "youtube",
+			"videoId": "3DbjTAoK0m4",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/3DbjTAoK0m4",
+			"watchUrl": "https://www.youtube.com/watch?v=3DbjTAoK0m4",
+			"sourceTitle": "Islanders vs. Sharks | NHL Highlights | Nov 9, 2026",
+			"publishedAt": "2026-11-10T06:17:58.000Z",
 			"nhlUrl": "https://www.nhl.com/video/nyi-at-sjs-recap-6408170478112",
-			"updatedAt": "2026-11-10T06:30:16.695Z"
+			"updatedAt": "2026-11-10T08:00:24.048Z"
 		}
 	}
 }
