@@ -3600,9 +3600,11 @@
 			"away": "NYI",
 			"slug": "sjs-nyi",
 			"finalSeenAt": "2026-11-10T06:00:21.883Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-10T06:00:21.883Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/nyi-at-sjs-recap-6408170478112",
+			"nhlUrl": "https://www.nhl.com/video/nyi-at-sjs-recap-6408170478112",
+			"updatedAt": "2026-11-10T06:30:16.695Z"
 		}
 	}
 }
