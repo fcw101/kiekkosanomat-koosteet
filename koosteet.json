@@ -3577,6 +3577,18 @@
 			"watchUrl": "https://www.nhl.com/video/nyr-at-edm-recap-6408167927112",
 			"nhlUrl": "https://www.nhl.com/video/nyr-at-edm-recap-6408167927112",
 			"updatedAt": "2026-11-10T04:10:08.789Z"
+		},
+		"2026020284": {
+			"gameId": "2026020284",
+			"date": "2026-11-09",
+			"start": "2026-11-10T02:30:00Z",
+			"home": "VAN",
+			"away": "PHI",
+			"slug": "van-phi",
+			"finalSeenAt": "2026-11-10T05:20:21.018Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-10T05:20:21.018Z"
 		}
 	}
 }
