@@ -3563,6 +3563,20 @@
 			"publishedAt": "2026-11-09T04:53:02.000Z",
 			"nhlUrl": "https://www.nhl.com/video/pit-at-ana-recap-6408119980112",
 			"updatedAt": "2026-11-09T06:30:27.572Z"
+		},
+		"2026020283": {
+			"gameId": "2026020283",
+			"date": "2026-11-09",
+			"start": "2026-11-10T01:00:00Z",
+			"home": "EDM",
+			"away": "NYR",
+			"slug": "edm-nyr",
+			"finalSeenAt": "2026-11-10T04:10:08.789Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/nyr-at-edm-recap-6408167927112",
+			"nhlUrl": "https://www.nhl.com/video/nyr-at-edm-recap-6408167927112",
+			"updatedAt": "2026-11-10T04:10:08.789Z"
 		}
 	}
 }
