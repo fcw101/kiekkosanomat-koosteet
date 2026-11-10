@@ -3591,6 +3591,18 @@
 			"watchUrl": "https://www.nhl.com/video/phi-at-van-recap-6408169654112",
 			"nhlUrl": "https://www.nhl.com/video/phi-at-van-recap-6408169654112",
 			"updatedAt": "2026-11-10T05:50:19.186Z"
+		},
+		"2026020285": {
+			"gameId": "2026020285",
+			"date": "2026-11-09",
+			"start": "2026-11-10T03:00:00Z",
+			"home": "SJS",
+			"away": "NYI",
+			"slug": "sjs-nyi",
+			"finalSeenAt": "2026-11-10T06:00:21.883Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-10T06:00:21.883Z"
 		}
 	}
 }
