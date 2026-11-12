@@ -3739,6 +3739,18 @@
 			"publishedAt": "2026-11-12T06:17:13.000Z",
 			"nhlUrl": "https://www.nhl.com/video/pit-at-sjs-recap-6408270815112",
 			"updatedAt": "2026-11-12T15:55:26.030Z"
+		},
+		"2026020309": {
+			"gameId": "2026020309",
+			"date": "2026-11-12",
+			"start": "2026-11-12T17:00:00Z",
+			"home": "SEA",
+			"away": "CAR",
+			"slug": "sea-car",
+			"finalSeenAt": "2026-11-12T19:58:51.674Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-12T19:58:51.674Z"
 		}
 	}
 }
