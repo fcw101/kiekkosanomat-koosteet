@@ -3657,6 +3657,20 @@
 			"publishedAt": "2026-11-14T06:12:27.000Z",
 			"nhlUrl": "https://www.nhl.com/video/nsh-at-vgk-recap-6408371126112",
 			"updatedAt": "2026-11-14T13:27:44.665Z"
+		},
+		"2026020321": {
+			"gameId": "2026020321",
+			"date": "2026-11-14",
+			"start": "2026-11-14T18:00:00Z",
+			"home": "CAR",
+			"away": "SEA",
+			"slug": "car-sea",
+			"finalSeenAt": "2026-11-14T21:30:00.000Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/sea-at-car-recap-6408387850112",
+			"nhlUrl": "https://www.nhl.com/video/sea-at-car-recap-6408387850112",
+			"updatedAt": "2026-11-14T22:29:22.169Z"
 		}
 	}
 }
