@@ -3631,10 +3631,14 @@
 			"slug": "van-nyr",
 			"finalSeenAt": "2026-11-14T05:30:00.000Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/nyr-at-van-recap-6408368255112",
+			"provider": "youtube",
+			"videoId": "h2fEzlxWIRA",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/h2fEzlxWIRA",
+			"watchUrl": "https://www.youtube.com/watch?v=h2fEzlxWIRA",
+			"sourceTitle": "Rangers vs. Canucks | NHL Highlights | Nov 13, 2026",
+			"publishedAt": "2026-11-14T04:46:38.000Z",
 			"nhlUrl": "https://www.nhl.com/video/nyr-at-van-recap-6408368255112",
-			"updatedAt": "2026-11-14T06:03:38.861Z"
+			"updatedAt": "2026-11-14T13:27:44.665Z"
 		},
 		"2026020311": {
 			"gameId": "2026020311",
@@ -3644,9 +3648,15 @@
 			"away": "NSH",
 			"slug": "vgk-nsh",
 			"finalSeenAt": "2026-11-14T06:03:38.861Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-14T06:03:38.861Z"
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "O-N_JJf7g4I",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/O-N_JJf7g4I",
+			"watchUrl": "https://www.youtube.com/watch?v=O-N_JJf7g4I",
+			"sourceTitle": "Predators vs. Golden Knights | NHL Highlights | Nov 13, 2026",
+			"publishedAt": "2026-11-14T06:12:27.000Z",
+			"nhlUrl": "https://www.nhl.com/video/nsh-at-vgk-recap-6408371126112",
+			"updatedAt": "2026-11-14T13:27:44.665Z"
 		}
 	}
 }
