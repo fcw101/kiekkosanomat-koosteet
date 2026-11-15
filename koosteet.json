@@ -3483,10 +3483,14 @@
 			"slug": "bos-min",
 			"finalSeenAt": "2026-11-15T03:30:00.000Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/min-at-bos-recap-6408402035112",
+			"provider": "youtube",
+			"videoId": "YMTF0cbwYgY",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/YMTF0cbwYgY",
+			"watchUrl": "https://www.youtube.com/watch?v=YMTF0cbwYgY",
+			"sourceTitle": "Wild vs. Bruins | NHL Highlights | Nov 14, 2026",
+			"publishedAt": "2026-11-15T03:00:08.000Z",
 			"nhlUrl": "https://www.nhl.com/video/min-at-bos-recap-6408402035112",
-			"updatedAt": "2026-11-15T06:08:09.695Z"
+			"updatedAt": "2026-11-15T13:57:15.663Z"
 		},
 		"2026020314": {
 			"gameId": "2026020314",
@@ -3497,10 +3501,14 @@
 			"slug": "tor-edm",
 			"finalSeenAt": "2026-11-15T03:30:00.000Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/edm-at-tor-recap-6408400468112",
+			"provider": "youtube",
+			"videoId": "jWHqJeT__JY",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/jWHqJeT__JY",
+			"watchUrl": "https://www.youtube.com/watch?v=jWHqJeT__JY",
+			"sourceTitle": "Oilers vs. Maple Leafs | NHL Highlights | Nov 14, 2026",
+			"publishedAt": "2026-11-15T03:00:48.000Z",
 			"nhlUrl": "https://www.nhl.com/video/edm-at-tor-recap-6408400468112",
-			"updatedAt": "2026-11-15T06:08:09.695Z"
+			"updatedAt": "2026-11-15T13:57:15.663Z"
 		},
 		"2026020315": {
 			"gameId": "2026020315",
@@ -3511,10 +3519,14 @@
 			"slug": "mtl-col",
 			"finalSeenAt": "2026-11-15T03:30:00.000Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/col-at-mtl-recap-6408402531112",
+			"provider": "youtube",
+			"videoId": "9auMs7oNxD8",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/9auMs7oNxD8",
+			"watchUrl": "https://www.youtube.com/watch?v=9auMs7oNxD8",
+			"sourceTitle": "Avalanche vs. Canadiens | NHL Highlights | Nov 14, 2026",
+			"publishedAt": "2026-11-15T03:11:40.000Z",
 			"nhlUrl": "https://www.nhl.com/video/col-at-mtl-recap-6408402531112",
-			"updatedAt": "2026-11-15T06:08:09.695Z"
+			"updatedAt": "2026-11-15T13:57:15.663Z"
 		},
 		"2026020316": {
 			"gameId": "2026020316",
@@ -3525,10 +3537,14 @@
 			"slug": "tbl-det",
 			"finalSeenAt": "2026-11-15T03:30:00.000Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/det-at-tbl-recap-6408400850112",
+			"provider": "youtube",
+			"videoId": "PK30Clu47i4",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/PK30Clu47i4",
+			"watchUrl": "https://www.youtube.com/watch?v=PK30Clu47i4",
+			"sourceTitle": "Red Wings vs. Lightning | NHL Highlights | Nov 14, 2026",
+			"publishedAt": "2026-11-15T03:06:36.000Z",
 			"nhlUrl": "https://www.nhl.com/video/det-at-tbl-recap-6408400850112",
-			"updatedAt": "2026-11-15T06:08:09.695Z"
+			"updatedAt": "2026-11-15T13:57:15.663Z"
 		},
 		"2026020317": {
 			"gameId": "2026020317",
@@ -3539,10 +3555,14 @@
 			"slug": "pit-ott",
 			"finalSeenAt": "2026-11-15T03:30:00.000Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/ott-at-pit-recap-6408401854112",
+			"provider": "youtube",
+			"videoId": "yL96yzUzliY",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/yL96yzUzliY",
+			"watchUrl": "https://www.youtube.com/watch?v=yL96yzUzliY",
+			"sourceTitle": "Senators vs. Penguins | NHL Highlights | Nov 14, 2026",
+			"publishedAt": "2026-11-15T03:17:41.000Z",
 			"nhlUrl": "https://www.nhl.com/video/ott-at-pit-recap-6408401854112",
-			"updatedAt": "2026-11-15T06:08:09.695Z"
+			"updatedAt": "2026-11-15T13:57:15.663Z"
 		},
 		"2026020318": {
 			"gameId": "2026020318",
@@ -3553,10 +3573,14 @@
 			"slug": "wsh-njd",
 			"finalSeenAt": "2026-11-15T03:30:00.000Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/njd-at-wsh-recap-6408401442112",
+			"provider": "youtube",
+			"videoId": "9AkaUknBWIU",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/9AkaUknBWIU",
+			"watchUrl": "https://www.youtube.com/watch?v=9AkaUknBWIU",
+			"sourceTitle": "Devils vs. Capitals | NHL Highlights | Nov 14, 2026",
+			"publishedAt": "2026-11-15T03:08:03.000Z",
 			"nhlUrl": "https://www.nhl.com/video/njd-at-wsh-recap-6408401442112",
-			"updatedAt": "2026-11-15T06:08:09.695Z"
+			"updatedAt": "2026-11-15T13:57:15.663Z"
 		},
 		"2026020319": {
 			"gameId": "2026020319",
@@ -3567,10 +3591,14 @@
 			"slug": "cbj-phi",
 			"finalSeenAt": "2026-11-15T03:30:00.000Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/phi-at-cbj-recap-6408401430112",
+			"provider": "youtube",
+			"videoId": "WXljwZJ1C90",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/WXljwZJ1C90",
+			"watchUrl": "https://www.youtube.com/watch?v=WXljwZJ1C90",
+			"sourceTitle": "Flyers vs. Blue Jackets | NHL Highlights | Nov 14, 2026",
+			"publishedAt": "2026-11-15T03:16:25.000Z",
 			"nhlUrl": "https://www.nhl.com/video/phi-at-cbj-recap-6408401430112",
-			"updatedAt": "2026-11-15T06:08:09.695Z"
+			"updatedAt": "2026-11-15T13:57:15.663Z"
 		},
 		"2026020320": {
 			"gameId": "2026020320",
@@ -3581,10 +3609,14 @@
 			"slug": "stl-fla",
 			"finalSeenAt": "2026-11-15T03:30:00.000Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/fla-at-stl-recap-6408401130112",
+			"provider": "youtube",
+			"videoId": "t7mKPd7Tf78",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/t7mKPd7Tf78",
+			"watchUrl": "https://www.youtube.com/watch?v=t7mKPd7Tf78",
+			"sourceTitle": "Panthers vs. Blues | NHL Highlights | Nov 14, 2026",
+			"publishedAt": "2026-11-15T03:02:22.000Z",
 			"nhlUrl": "https://www.nhl.com/video/fla-at-stl-recap-6408401130112",
-			"updatedAt": "2026-11-15T06:08:09.695Z"
+			"updatedAt": "2026-11-15T13:57:15.663Z"
 		},
 		"2026020321": {
 			"gameId": "2026020321",
@@ -3609,10 +3641,14 @@
 			"slug": "dal-buf",
 			"finalSeenAt": "2026-11-15T04:30:00.000Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/buf-at-dal-recap-6408403567112",
+			"provider": "youtube",
+			"videoId": "0gs12NL2yIU",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/0gs12NL2yIU",
+			"watchUrl": "https://www.youtube.com/watch?v=0gs12NL2yIU",
+			"sourceTitle": "Sabres vs. Stars | NHL Highlights | Nov 14, 2026",
+			"publishedAt": "2026-11-15T04:06:19.000Z",
 			"nhlUrl": "https://www.nhl.com/video/buf-at-dal-recap-6408403567112",
-			"updatedAt": "2026-11-15T06:08:09.695Z"
+			"updatedAt": "2026-11-15T13:57:15.663Z"
 		},
 		"2026020323": {
 			"gameId": "2026020323",
@@ -3623,10 +3659,14 @@
 			"slug": "uta-sjs",
 			"finalSeenAt": "2026-11-15T05:30:00.000Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/sjs-at-uta-recap-6408405041112",
+			"provider": "youtube",
+			"videoId": "EvaholwOtWE",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/EvaholwOtWE",
+			"watchUrl": "https://www.youtube.com/watch?v=EvaholwOtWE",
+			"sourceTitle": "Sharks vs. Mammoth | NHL Highlights | Nov 14, 2026",
+			"publishedAt": "2026-11-15T05:33:39.000Z",
 			"nhlUrl": "https://www.nhl.com/video/sjs-at-uta-recap-6408405041112",
-			"updatedAt": "2026-11-15T06:08:09.695Z"
+			"updatedAt": "2026-11-15T13:57:15.663Z"
 		},
 		"2026020324": {
 			"gameId": "2026020324",
@@ -3637,10 +3677,14 @@
 			"slug": "ana-nyi",
 			"finalSeenAt": "2026-11-15T06:08:09.695Z",
 			"status": "available",
-			"provider": "nhl",
-			"watchUrl": "https://www.nhl.com/video/nyi-at-ana-recap-6408405755112",
+			"provider": "youtube",
+			"videoId": "IVt0hSZAEXQ",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/IVt0hSZAEXQ",
+			"watchUrl": "https://www.youtube.com/watch?v=IVt0hSZAEXQ",
+			"sourceTitle": "Islanders vs. Ducks | NHL Highlights | Nov 14, 2026",
+			"publishedAt": "2026-11-15T05:45:07.000Z",
 			"nhlUrl": "https://www.nhl.com/video/nyi-at-ana-recap-6408405755112",
-			"updatedAt": "2026-11-15T06:08:09.695Z"
+			"updatedAt": "2026-11-15T13:57:15.663Z"
 		},
 		"2026020325": {
 			"gameId": "2026020325",
@@ -3650,9 +3694,15 @@
 			"away": "CGY",
 			"slug": "lak-cgy",
 			"finalSeenAt": "2026-11-15T06:08:09.695Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-15T06:08:09.695Z"
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "OMaIWDPApVM",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/OMaIWDPApVM",
+			"watchUrl": "https://www.youtube.com/watch?v=OMaIWDPApVM",
+			"sourceTitle": "Flames vs. Kings | NHL Highlights | Nov 14, 2026",
+			"publishedAt": "2026-11-15T06:13:34.000Z",
+			"nhlUrl": "https://www.nhl.com/video/cgy-at-lak-recap-6408408597112",
+			"updatedAt": "2026-11-15T13:57:15.663Z"
 		}
 	}
 }
