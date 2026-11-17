@@ -3505,6 +3505,42 @@
 			"publishedAt": "2026-11-16T04:57:31.000Z",
 			"nhlUrl": "https://www.nhl.com/video/nsh-at-sjs-recap-6408434516112",
 			"updatedAt": "2026-11-16T15:47:13.373Z"
+		},
+		"2026020331": {
+			"gameId": "2026020331",
+			"date": "2026-11-16",
+			"start": "2026-11-17T00:30:00Z",
+			"home": "NYR",
+			"away": "MTL",
+			"slug": "nyr-mtl",
+			"finalSeenAt": "2026-11-17T04:00:00.000Z",
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "vcfSNir6G5Y",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/vcfSNir6G5Y",
+			"watchUrl": "https://www.youtube.com/watch?v=vcfSNir6G5Y",
+			"sourceTitle": "Canadiens vs. Rangers | NHL Highlights | Nov 16, 2026",
+			"publishedAt": "2026-11-17T03:45:32.000Z",
+			"nhlUrl": "https://www.nhl.com/video/mtl-at-nyr-recap-6408478745112",
+			"updatedAt": "2026-11-17T07:42:17.085Z"
+		},
+		"2026020332": {
+			"gameId": "2026020332",
+			"date": "2026-11-16",
+			"start": "2026-11-17T02:30:00Z",
+			"home": "UTA",
+			"away": "VAN",
+			"slug": "uta-van",
+			"finalSeenAt": "2026-11-17T06:00:00.000Z",
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "VL2ZynDka3c",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/VL2ZynDka3c",
+			"watchUrl": "https://www.youtube.com/watch?v=VL2ZynDka3c",
+			"sourceTitle": "Canucks vs. Mammoth | NHL Highlights | Nov 16, 2026",
+			"publishedAt": "2026-11-17T05:33:38.000Z",
+			"nhlUrl": "https://www.nhl.com/video/van-at-uta-recap-6408483248112",
+			"updatedAt": "2026-11-17T07:42:17.085Z"
 		}
 	}
 }
