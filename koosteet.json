@@ -2,42 +2,6 @@
 	"version": 1,
 	"channel": "UCqFMzb-4AUf6WAIbl132QKA",
 	"games": {
-		"2026020135": {
-			"gameId": "2026020135",
-			"date": "2026-10-18",
-			"start": "2026-10-18T22:00:00Z",
-			"home": "MIN",
-			"away": "CBJ",
-			"slug": "min-cbj",
-			"finalSeenAt": "2026-10-19T00:30:31.053Z",
-			"status": "available",
-			"provider": "youtube",
-			"videoId": "MmtkRLNEGAM",
-			"embedUrl": "https://www.youtube-nocookie.com/embed/MmtkRLNEGAM",
-			"watchUrl": "https://www.youtube.com/watch?v=MmtkRLNEGAM",
-			"sourceTitle": "Blue Jackets vs. Wild | NHL Highlights | Oct 18, 2026",
-			"publishedAt": "2026-10-19T00:39:32.000Z",
-			"nhlUrl": "https://www.nhl.com/video/cbj-at-min-recap-6407062986112",
-			"updatedAt": "2026-10-19T05:00:27.168Z"
-		},
-		"2026020136": {
-			"gameId": "2026020136",
-			"date": "2026-10-18",
-			"start": "2026-10-19T00:00:00Z",
-			"home": "CGY",
-			"away": "CAR",
-			"slug": "cgy-car",
-			"finalSeenAt": "2026-10-19T02:50:23.488Z",
-			"status": "available",
-			"provider": "youtube",
-			"videoId": "2Dmv4RqQ4CM",
-			"embedUrl": "https://www.youtube-nocookie.com/embed/2Dmv4RqQ4CM",
-			"watchUrl": "https://www.youtube.com/watch?v=2Dmv4RqQ4CM",
-			"sourceTitle": "Hurricanes vs. Flames | NHL Highlights | Oct 18, 2026",
-			"publishedAt": "2026-10-19T02:50:22.000Z",
-			"nhlUrl": "https://www.nhl.com/video/car-at-cgy-recap-6407066612112",
-			"updatedAt": "2026-10-19T05:00:27.168Z"
-		},
 		"2026020137": {
 			"gameId": "2026020137",
 			"date": "2026-10-19",
@@ -3541,6 +3505,54 @@
 			"publishedAt": "2026-11-17T05:33:38.000Z",
 			"nhlUrl": "https://www.nhl.com/video/van-at-uta-recap-6408483248112",
 			"updatedAt": "2026-11-17T07:42:17.085Z"
+		},
+		"2026020335": {
+			"gameId": "2026020335",
+			"date": "2026-11-17",
+			"start": "2026-11-18T00:00:00Z",
+			"home": "FLA",
+			"away": "EDM",
+			"slug": "fla-edm",
+			"finalSeenAt": "2026-11-18T02:39:38.314Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-18T02:39:38.314Z"
+		},
+		"2026020336": {
+			"gameId": "2026020336",
+			"date": "2026-11-17",
+			"start": "2026-11-18T00:00:00Z",
+			"home": "NYI",
+			"away": "CBJ",
+			"slug": "nyi-cbj",
+			"finalSeenAt": "2026-11-18T02:39:38.314Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-18T02:39:38.314Z"
+		},
+		"2026020337": {
+			"gameId": "2026020337",
+			"date": "2026-11-17",
+			"start": "2026-11-18T00:00:00Z",
+			"home": "PHI",
+			"away": "BUF",
+			"slug": "phi-buf",
+			"finalSeenAt": "2026-11-18T02:39:38.314Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-18T02:39:38.314Z"
+		},
+		"2026020341": {
+			"gameId": "2026020341",
+			"date": "2026-11-17",
+			"start": "2026-11-18T00:00:00Z",
+			"home": "WPG",
+			"away": "OTT",
+			"slug": "wpg-ott",
+			"finalSeenAt": "2026-11-18T02:39:38.314Z",
+			"status": "pending",
+			"nhlUrl": null,
+			"updatedAt": "2026-11-18T02:39:38.314Z"
 		}
 	}
 }
