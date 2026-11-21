@@ -3663,6 +3663,42 @@
 			"watchUrl": "https://www.nhl.com/video/dal-at-vgk-recap-6408638143112",
 			"nhlUrl": "https://www.nhl.com/video/dal-at-vgk-recap-6408638143112",
 			"updatedAt": "2026-11-20T06:57:51.150Z"
+		},
+		"2026020359": {
+			"gameId": "2026020359",
+			"date": "2026-11-21",
+			"start": "2026-11-21T18:00:00Z",
+			"home": "CAR",
+			"away": "EDM",
+			"slug": "car-edm",
+			"finalSeenAt": "2026-11-21T21:30:00.000Z",
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "DE4IEUQgBbI",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/DE4IEUQgBbI",
+			"watchUrl": "https://www.youtube.com/watch?v=DE4IEUQgBbI",
+			"sourceTitle": "Oilers vs. Hurricanes | NHL Highlights | Nov 21, 2026",
+			"publishedAt": "2026-11-21T21:17:42.000Z",
+			"nhlUrl": "https://www.nhl.com/video/edm-at-car-recap-6408709439112",
+			"updatedAt": "2026-11-21T23:56:55.086Z"
+		},
+		"2026020360": {
+			"gameId": "2026020360",
+			"date": "2026-11-21",
+			"start": "2026-11-21T20:30:00Z",
+			"home": "CGY",
+			"away": "CHI",
+			"slug": "cgy-chi",
+			"finalSeenAt": "2026-11-21T23:56:55.086Z",
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "EVPiv6ckZ5M",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/EVPiv6ckZ5M",
+			"watchUrl": "https://www.youtube.com/watch?v=EVPiv6ckZ5M",
+			"sourceTitle": "Blackhawks vs. Flames | NHL Highlights | Nov 21, 2026",
+			"publishedAt": "2026-11-21T23:54:09.000Z",
+			"nhlUrl": "https://www.nhl.com/video/chi-at-cgy-recap-6408713099112",
+			"updatedAt": "2026-11-21T23:56:55.086Z"
 		}
 	}
 }
