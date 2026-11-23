@@ -2,42 +2,6 @@
 	"version": 1,
 	"channel": "UCqFMzb-4AUf6WAIbl132QKA",
 	"games": {
-		"2026020166": {
-			"gameId": "2026020166",
-			"date": "2026-10-23",
-			"start": "2026-10-24T00:00:00Z",
-			"home": "CHI",
-			"away": "MTL",
-			"slug": "chi-mtl",
-			"finalSeenAt": "2026-10-24T03:00:59.139Z",
-			"status": "available",
-			"provider": "youtube",
-			"videoId": "BvKeBTlwabM",
-			"embedUrl": "https://www.youtube-nocookie.com/embed/BvKeBTlwabM",
-			"watchUrl": "https://www.youtube.com/watch?v=BvKeBTlwabM",
-			"sourceTitle": "Canadiens vs. Blackhawks | NHL Highlights | Oct 23, 2026",
-			"publishedAt": "2026-10-24T02:55:14.000Z",
-			"nhlUrl": "https://www.nhl.com/video/mtl-at-chi-recap-6407320484112",
-			"updatedAt": "2026-10-24T07:00:12.314Z"
-		},
-		"2026020167": {
-			"gameId": "2026020167",
-			"date": "2026-10-23",
-			"start": "2026-10-24T01:00:00Z",
-			"home": "COL",
-			"away": "TBL",
-			"slug": "col-tbl",
-			"finalSeenAt": "2026-10-24T04:20:28.389Z",
-			"status": "available",
-			"provider": "youtube",
-			"videoId": "VPyMhbPeFfM",
-			"embedUrl": "https://www.youtube-nocookie.com/embed/VPyMhbPeFfM",
-			"watchUrl": "https://www.youtube.com/watch?v=VPyMhbPeFfM",
-			"sourceTitle": "Lightning vs. Avalanche | NHL Highlights | Oct 23, 2026",
-			"publishedAt": "2026-10-24T04:25:24.000Z",
-			"nhlUrl": "https://www.nhl.com/video/tbl-at-col-recap-6407323125112",
-			"updatedAt": "2026-10-24T07:00:12.314Z"
-		},
 		"2026020168": {
 			"gameId": "2026020168",
 			"date": "2026-10-24",
@@ -3699,6 +3663,24 @@
 			"publishedAt": "2026-11-22T06:21:27.000Z",
 			"nhlUrl": "https://www.nhl.com/video/sea-at-sjs-recap-6408727071112",
 			"updatedAt": "2026-11-22T06:27:46.276Z"
+		},
+		"2026020373": {
+			"gameId": "2026020373",
+			"date": "2026-11-22",
+			"start": "2026-11-22T17:30:00Z",
+			"home": "NYR",
+			"away": "CAR",
+			"slug": "nyr-car",
+			"finalSeenAt": "2026-11-22T21:00:00.000Z",
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "YBjA6BP4DMM",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/YBjA6BP4DMM",
+			"watchUrl": "https://www.youtube.com/watch?v=YBjA6BP4DMM",
+			"sourceTitle": "Hurricanes vs. Rangers | NHL Highlights | Nov 22, 2026",
+			"publishedAt": "2026-11-22T20:30:10.000Z",
+			"nhlUrl": "https://www.nhl.com/video/car-at-nyr-recap-6408742154112",
+			"updatedAt": "2026-11-23T00:29:40.120Z"
 		}
 	}
 }
