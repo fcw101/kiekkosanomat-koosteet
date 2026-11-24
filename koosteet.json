@@ -3627,6 +3627,42 @@
 			"publishedAt": "2026-11-24T03:26:07.000Z",
 			"nhlUrl": "https://www.nhl.com/video/uta-at-wpg-recap-6408795671112",
 			"updatedAt": "2026-11-24T05:03:36.341Z"
+		},
+		"2026020383": {
+			"gameId": "2026020383",
+			"date": "2026-11-23",
+			"start": "2026-11-24T02:40:00Z",
+			"home": "SEA",
+			"away": "ANA",
+			"slug": "sea-ana",
+			"finalSeenAt": "2026-11-24T06:10:00.000Z",
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "lMiV23pE1EE",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/lMiV23pE1EE",
+			"watchUrl": "https://www.youtube.com/watch?v=lMiV23pE1EE",
+			"sourceTitle": "Ducks vs. Kraken | NHL Highlights | Nov 23, 2026",
+			"publishedAt": "2026-11-24T05:53:26.000Z",
+			"nhlUrl": "https://www.nhl.com/video/ana-at-sea-recap-6408800119112",
+			"updatedAt": "2026-11-24T09:40:46.989Z"
+		},
+		"2026020384": {
+			"gameId": "2026020384",
+			"date": "2026-11-23",
+			"start": "2026-11-24T03:00:00Z",
+			"home": "SJS",
+			"away": "MIN",
+			"slug": "sjs-min",
+			"finalSeenAt": "2026-11-24T06:30:00.000Z",
+			"status": "available",
+			"provider": "youtube",
+			"videoId": "ql7bCMaZJuw",
+			"embedUrl": "https://www.youtube-nocookie.com/embed/ql7bCMaZJuw",
+			"watchUrl": "https://www.youtube.com/watch?v=ql7bCMaZJuw",
+			"sourceTitle": "Wild vs. Sharks | NHL Highlights | Nov 23, 2026",
+			"publishedAt": "2026-11-24T05:58:50.000Z",
+			"nhlUrl": "https://www.nhl.com/video/min-at-sjs-recap-6408800341112",
+			"updatedAt": "2026-11-24T09:40:46.989Z"
 		}
 	}
 }
