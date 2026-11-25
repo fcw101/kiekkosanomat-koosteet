@@ -3586,9 +3586,11 @@
 			"away": "VGK",
 			"slug": "edm-vgk",
 			"finalSeenAt": "2026-11-25T03:52:36.413Z",
-			"status": "pending",
-			"nhlUrl": null,
-			"updatedAt": "2026-11-25T03:52:36.413Z"
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/vgk-at-edm-recap-6408853929112",
+			"nhlUrl": "https://www.nhl.com/video/vgk-at-edm-recap-6408853929112",
+			"updatedAt": "2026-11-25T08:12:46.237Z"
 		}
 	}
 }
