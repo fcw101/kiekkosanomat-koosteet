@@ -3595,6 +3595,48 @@
 			"publishedAt": "2026-11-26T05:55:42.000Z",
 			"nhlUrl": "https://www.nhl.com/video/chi-at-sea-recap-6408907895112",
 			"updatedAt": "2026-11-26T07:59:21.742Z"
+		},
+		"2026020400": {
+			"gameId": "2026020400",
+			"date": "2026-11-27",
+			"start": "2026-11-27T18:00:00Z",
+			"home": "BOS",
+			"away": "TOR",
+			"slug": "bos-tor",
+			"finalSeenAt": "2026-11-27T21:22:24.721Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/tor-at-bos-recap-6408963499112",
+			"nhlUrl": "https://www.nhl.com/video/tor-at-bos-recap-6408963499112",
+			"updatedAt": "2026-11-27T21:22:24.721Z"
+		},
+		"2026020401": {
+			"gameId": "2026020401",
+			"date": "2026-11-27",
+			"start": "2026-11-27T18:00:00Z",
+			"home": "NJD",
+			"away": "CGY",
+			"slug": "njd-cgy",
+			"finalSeenAt": "2026-11-27T21:22:24.721Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/cgy-at-njd-recap-6408963495112",
+			"nhlUrl": "https://www.nhl.com/video/cgy-at-njd-recap-6408963495112",
+			"updatedAt": "2026-11-27T21:22:24.721Z"
+		},
+		"2026020402": {
+			"gameId": "2026020402",
+			"date": "2026-11-27",
+			"start": "2026-11-27T18:00:00Z",
+			"home": "NSH",
+			"away": "UTA",
+			"slug": "nsh-uta",
+			"finalSeenAt": "2026-11-27T21:22:24.721Z",
+			"status": "available",
+			"provider": "nhl",
+			"watchUrl": "https://www.nhl.com/video/uta-at-nsh-recap-6408963720112",
+			"nhlUrl": "https://www.nhl.com/video/uta-at-nsh-recap-6408963720112",
+			"updatedAt": "2026-11-27T21:22:24.721Z"
 		}
 	}
 }
